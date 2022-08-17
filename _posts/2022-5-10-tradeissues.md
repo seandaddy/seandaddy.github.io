@@ -1,8 +1,6 @@
 ---
-Layout: post
-
-Title: 국제경제학 이슈
-
+layout: post
+title: 국제경제학 이슈
 ---
 
 1. 전통적 무역 이론

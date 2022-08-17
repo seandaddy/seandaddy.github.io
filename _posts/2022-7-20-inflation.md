@@ -1,8 +1,6 @@
 ---
-
-Layout: post
-Title: 인플레이션에 대한 생각
-
+layout: post
+title: 인플레이션에 대한 생각
 ---
 
 
