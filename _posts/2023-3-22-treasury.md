@@ -17,19 +17,19 @@ title: 미국 국채의 종류
 
 단기 채권은 만기가 1년 미만이며 따로 이자가 보장 되지는 않지만 할인된 가격으로 구입하여 수익을 발생시키는 채권이다. 일반적으로 4, 8, 13, 17, 52주 만기로 발행되며 매주 경매를 통해 거래된다. 
 
-![](https://seandaddy.github.io/images/Screenshot 1969_$100K_Treasury_Bill_(front).jpg)
+![](https://seandaddy.github.io/images/1969_$100K_Treasury_Bill_(front).jpg)
 
 - 중기 채권(U.S. Treasury Notes)
 
 중기 채권은 만기가 2, 3, 5, 7, 10년으로 구성되어 있다. 6개월 마다 받을 수 있는 표면금리(coupon rate)는 과거에 채권 증서 밑에 붙어있는 쿠폰을 떼서 연방 은행에 가져가면 돈을 지급 받을 수 있다. 
 
-![](https://seandaddy.github.io/images/Screenshot 1976_$5000_8%_Treasury_Note.jpg)
+![](https://seandaddy.github.io/images/1976_$5000_8%_Treasury_Note.jpg)
 
 - 장기 채권(U.S. Treasury Bonds)
 
 20년이나 30년이 만기인 장기 채권 또한 중기 채권과 동일하게 6개월에 한번씩 표면금리를 받을 수 있다. 
 
-![](https://seandaddy.github.io/images/Screenshot 1979_$10,000_Treasury_Bond_.jpg)
+![](https://seandaddy.github.io/images/1979_$10,000_Treasury_Bond_.jpg)
 
 - 물가연동채권(TIPS, Treasury Inflation-Protected Securities)
 
