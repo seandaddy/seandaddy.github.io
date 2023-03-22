@@ -23,7 +23,7 @@ title: 미국 국채의 종류
 
 중기 채권은 만기가 2, 3, 5, 7, 10년으로 구성되어 있다. 6개월 마다 받을 수 있는 표면금리(coupon rate)는 과거에 채권 증서 밑에 붙어있는 쿠폰을 떼서 연방 은행에 가져가면 돈을 지급 받을 수 있다. 
 
-![U.S. Treasury Note](https://seandaddy.github.io/images/TreasuryNote.jpg)
+![U.S. Treasury Note](https://seandaddy.github.io/images/TreasuryNote.png)
 
 - 장기 채권(U.S. Treasury Bonds)
 
