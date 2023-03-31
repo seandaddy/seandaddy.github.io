@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S. Treasury Securities: A Safe Haven Investment
+title: U.S. Treasury Securities - A Safe Haven Investment
 ---
 
 ## Introduction
