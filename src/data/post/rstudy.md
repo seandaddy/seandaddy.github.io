@@ -1,0 +1,47 @@
+---
+publishDate: 2020-02-12T00:00:00Z
+title: "R Study"
+excerpt: "R은 통계분석을 하는 데 있어 상당히 좋은 프로그램이다. 이 프로그램이 가지고 있는 여러가지 장점 가운데서 두 가지를 강조하자면 다음과 같다."
+category: "Programming"
+tags: ["python","R"]
+---
+
+R은 통계분석을 하는 데 있어 상당히 좋은 프로그램이다. 이 프로그램이 가지고 있는 여러가지 장점 가운데서 두 가지를 강조하자면 다음과 같다.
+
+첫째, 무료 소프트웨어 라는 점이 가장 크다. SAS, SPSS, STATA 등의 다른 강력한 통계 패키지들이 존재하지만, 가격이 높아 쉽게 라이센스를 구매하기 어렵고, 학생들은 학교나 회사에서 제공하는 라이센스를 통해 사용할 수 있는 프로그램들이 있지만 졸업이나 이직에 의해 사용이 불가능해 지는 상당한 단점이 있다.
+
+둘째, 특히 빅데이터 시절을 맞아 통계학도는 물론 다른 AI나 머신러닝 부분의 개발자들이 통계 패키지를 사용하는 빈도가 늘어나고 또 R 사용자들이 꾸준히 늘어감에 따라 단순히 인터넷에 있는 정보들을 통해 손쉽게 배우고 많은 문제들을 해결할 수 있게 되었다. 이제는 어떤 소프트웨어를 사용해야 하는 지 결정할 때 얼마나 많은 사용자들이 있는지가 정말 중요한 요소 중의 하나이다. 데이터 과학에 종사하는 사람들은 통계 분석용으로 R을 프로그래밍 언어로는 Python을 사용하는 경향을 보이고 있다.
+
+아래의 프로그램을 확장자명 r로 저장하여 rStudio라는 프로그램에서 실행하면 통계분석 결과를 얻을 수 있다.
+
+```r
+df = read.csv("StudentsPerformance.csv")
+attach(df)
+pairs(df[ , 6:8],
+      col = "red",                                         # Change color
+      pch = 18,                                            # Change shape of points
+      labels = c("math score","reading score","writing score"),                  # Change labels of diagonal
+      main = "Scores pairs plot")             # Add a main title
+hist(math.score)
+hist(reading.score)
+hist(writing.score)
+boxplot(math.score~lunch, main="Math", xlab="Lunch", ylab="Math Score")
+boxplot(reading.score~lunch, main="Reading", xlab="Lunch", ylab="Reading Score")
+boxplot(writing.score~lunch, main="Writing", xlab="Lunch", ylab="Writing Score")
+result <- lm (math.score ~ gender + race.ethnicity +                 parental.level.of.education + lunch +                 test.preparation.course)
+result
+```
+
+운영체제에 따라 표현 방식이 약간 다른데, 이 내용은 MacOS를 기준으로 작성 하였다는 사실을 밝혀 둔다.
+
+```r
+anorexia=read.csv("data/anorexia.csv")
+with(anorexia[anorexia$Treat=="FT",], t.test(Postwt-Prewt))
+with(anorexia[anorexia$Treat!="CBT",], t.test(Postwt-Prewt))
+with(anorexia[anorexia$Treat=="Cont",], shapiro.test(Postwt-Prewt))
+
+library(MASS) # simulation
+x=mvrnorm(n=100,mu=c(94,93),
+Sigma=matrix(c(10,6,6,10), ncol=2))
+t.test(x[,2]-x[,1])
+```

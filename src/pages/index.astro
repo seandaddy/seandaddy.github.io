@@ -1,0 +1,95 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+import Hero from '~/components/widgets/Hero.astro';
+import Features from '~/components/widgets/Features.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+
+const metadata = {
+  title: 'Sang-Yong Oh - Economics Blog',
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Read Blog',
+        href: '/blog',
+        icon: 'tabler:book',
+      },
+      { text: 'About Me', href: '/about' },
+    ]}
+  >
+    <Fragment slot="title">
+      Sang-Yong Oh <br />
+      <span class="text-accent dark:text-white text-3xl">Economics Blog</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">
+        Ph.D. in Economics from University at Buffalo. 
+      </span>
+      Exploring International Trade, Econometrics, Applied Microeconomics, and Economic Policy.
+    </Fragment>
+  </Hero>
+
+  <!-- Features Widget *************** -->
+
+  <Features
+    id="topics"
+    tagline="Topics"
+    title="Areas of Interest"
+    subtitle="Research and writing focus on these key areas of economics"
+    items={[
+      {
+        title: 'International Trade',
+        description:
+          'Trade policy, tariffs, comparative advantage, and the global economy with focus on US and East Asian relations.',
+        icon: 'tabler:world',
+      },
+      {
+        title: 'Macroeconomics',
+        description:
+          'Economic cycles, inflation, monetary policy, recession analysis, and macroeconomic trends.',
+        icon: 'tabler:chart-line',
+      },
+      {
+        title: 'Econometrics',
+        description:
+          'Statistical methods, regression analysis, and empirical research techniques for economic data.',
+        icon: 'tabler:chart-dots',
+      },
+      {
+        title: 'Applied Microeconomics',
+        description:
+          'Market analysis, consumer behavior, firm theory, and practical applications of economic principles.',
+        icon: 'tabler:chart-pie',
+      },
+      {
+        title: 'Economic Policy',
+        description:
+          'Government policies, fiscal measures, and their impacts on markets and society.',
+        icon: 'tabler:building-bank',
+      },
+      {
+        title: 'Programming for Economics',
+        description:
+          'Python, R, and other tools for economic analysis, data visualization, and research.',
+        icon: 'tabler:code',
+      },
+    ]}
+  />
+
+  <!-- HighlightedPosts Widget ******* -->
+
+  <BlogLatestPosts
+    title="Latest Blog Posts"
+    information={`Thoughts on economics, trade policy, macroeconomic trends, and data analysis. 
+                  Posts are written in both English and Korean.`}
+  />
+</Layout>

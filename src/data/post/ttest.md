@@ -1,0 +1,26 @@
+---
+publishDate: 2020-02-16T00:00:00Z
+title: "Two sample T-test example"
+excerpt: "``` r dental = read.csv(\"data/dental.csv\") boxplot(resp~treatment,data=dental,col='red') boxplot(log(resp)~treatment,data=dental) var.test(resp~treatment,data=dental)  variance equality test var.te..."
+category: "Econometrics"
+tags: ["econometrics"]
+---
+
+``` r
+dental = read.csv("data/dental.csv")
+boxplot(resp~treatment,data=dental,col='red')
+boxplot(log(resp)~treatment,data=dental)
+var.test(resp~treatment,data=dental) # variance equality test
+var.test(log(resp)~treatment,data=dental) # variance equality test, log-normal
+t.test(resp~treatment,data=dental) # Welch test
+t.test(log(resp)~treatment,var.equal=TRUE,data=dental) # pooled variance test
+regout=lm(log(resp)~treatment,data=dental)
+shapiro.test(resid(regout))
+```
+
+통계학에서 두 변수의 평균값이 같은지 알아보는 방법을 몇 가지로 나눠볼 수 있다.
+
+1. 동일한 실험 대상의 특정변수 값이 변했는지 확인하는 경우, 두 변수의 차를 T-test 해보면 바로 결과를 알 수 있다. 예를 들어, 어떤 다이어트 프로그램을 실행한 각 개인의 몸무게 변화를 보는 경우가 이에 속한다. (Paired sample)
+2. 동일한 분산을 갖는 경우 (Pooled variance)
+3. 서로 다른 분산을 갖는 경우 (Welch test)
+2와 3의 경우를 Variance Equality Test를 통해 확인할 수 있다.  그에 앞서 박스플롯을 통해 시각적으로 확인해 볼 수도 있겠다. 위 데이터는 생물학 실험 중 박테리아 배양에서 추출한  박테리아의 수를 기록한 것이고 박테리아 수는 일반적으로 지수적으로 증가하는 것으로 알려져 있다. 따라서 Log 변환을 통해 정규분포를 따르게 되므로 log-normal distribution이라고 한다. Two sample t-test를 수행하기 위해 모집단이 정규분포를 따르는지 보기위해 Regression을 수행한 후 잔차항에 대해 Shapiro test를 수행하였다.

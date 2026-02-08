@@ -1,0 +1,114 @@
+---
+import Content from '~/components/widgets/Content.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'About',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="About Me"
+  >
+    <Fragment slot="title">
+      Sang-Yong Oh, Ph.D.
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Economist specializing in International Trade, Econometrics, and Applied Microeconomics
+    </Fragment>
+  </Hero>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    items={[
+      {
+        title: 'Education',
+        description: 'Ph.D. in Economics from University at Buffalo, The State University of New York',
+        icon: 'tabler:school',
+      },
+      {
+        title: 'Research Focus',
+        description: 'International Trade, Empirical Industrial Organization, Applied Microeconomics',
+        icon: 'tabler:chart-line',
+      },
+      {
+        title: 'Teaching',
+        description: 'Microeconomics, Macroeconomics, Econometrics, International Trade, Statistics',
+        icon: 'tabler:chalkboard',
+      },
+    ]}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Background</h3>
+      <p>
+        My name is Sang-Yong Oh and I am from South Korea. In the process of my research, I have learned 
+        the theoretical and empirical literature in not only International Trade but Industrial Organization, 
+        especially about the relationship among the US and East Asian countries.
+      </p>
+      <br />
+      <p>
+        I have been practicing various econometric skills while dealing with large datasets. To sum up, 
+        my research interests stays in International Trade, Empirical Industrial Organization, and Applied Microeconomics.
+      </p>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    items={[
+      {
+        title: 'Teaching Assistant',
+        description: 'Since 2006, worked extensively in the development of exams for undergraduate courses at University at Buffalo.',
+        icon: 'tabler:user-check',
+      },
+      {
+        title: 'Instructor',
+        description: 'Taught core economics courses at University at Buffalo, Buffalo State College, and Bloomsburg University.',
+        icon: 'tabler:presentation',
+      },
+    ]}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Teaching Experience</h3>
+      <p>
+        I have been teaching all of core courses in Economics including the Principle of Microeconomics, 
+        the Principle of Macroeconomics, Intermediate Microeconomics, Intermediate Macroeconomics, 
+        Econometrics, Business and Economics Math, and Business and Economics Statistics.
+      </p>
+      <br />
+      <p>
+        I am interested in teaching International Trade, Econometrics, Industrial Organization, 
+        Applied Microeconomics, Principles of Economics, and Statistics.
+      </p>
+    </Fragment>
+  </Content>
+
+  <!-- Features2 Widget ************** -->
+
+  <Features2
+    title="Contact"
+    tagline="Get in touch"
+    columns={2}
+    items={[
+      {
+        title: 'Email',
+        description: 'seandaddy@gmail.com',
+        icon: 'tabler:mail',
+      },
+      {
+        title: 'GitHub',
+        description: 'github.com/seandaddy',
+        icon: 'tabler:brand-github',
+      },
+    ]}
+  />
+</Layout>
