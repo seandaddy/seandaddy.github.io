@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-03-03T00:00:00Z
-title: "Nonlinear Regression"
-excerpt: "Pharmacokinetics"
-category: "International Trade"
-tags: ["econometrics"]
+title: 'Nonlinear Regression'
+excerpt: 'Pharmacokinetics'
+category: 'International Trade'
+tags: ['econometrics']
 ---
 
 ## Pharmacokinetics
@@ -21,7 +21,7 @@ When you take a drug, the blood concentration has the maximum value as,
 $ C_0 $ and then exponentially decreases as time, t, goes. The
 elimination rate is K.
 
-``` r
+```r
 library("investr")
 onecomp=read.csv("data/one_comp.csv")
 one=nls(conc~C0*exp(-K*time),start=list(C0=41.3,K=0.64),data=onecomp)
@@ -32,7 +32,7 @@ summary(one)
     ## Formula: conc ~ C0 * exp(-K * time)
     ##
     ## Parameters:
-    ##    Estimate Std. Error t value Pr(>|t|)    
+    ##    Estimate Std. Error t value Pr(>|t|)
     ## C0 41.76511    1.20688   34.61 4.36e-09 ***
     ## K   0.64500    0.03236   19.93 2.00e-07 ***
     ## ---
@@ -43,7 +43,7 @@ summary(one)
     ## Number of iterations to convergence: 2
     ## Achieved convergence tolerance: 2.826e-07
 
-``` r
+```r
 plotFit(one)
 ```
 
@@ -54,7 +54,7 @@ plotFit(one)
 This model is adding one more term in addition to the previous model.
 $C_t = A_1 e^{-\beta_1 t} + A_2 e^{-\beta_2 t}.$
 
-``` r
+```r
 twocomp=read.csv("data/two_comp.csv")
 two=nls(conc~SSbiexp(time, A1, lrc1, A2, lrc2), data=twocomp)
 summary(two)
@@ -64,11 +64,11 @@ summary(two)
     ## Formula: conc ~ SSbiexp(time, A1, lrc1, A2, lrc2)
     ##
     ## Parameters:
-    ##      Estimate Std. Error t value Pr(>|t|)    
+    ##      Estimate Std. Error t value Pr(>|t|)
     ## A1     2.0293     0.1099  18.464 3.39e-07 ***
     ## lrc1   0.5794     0.1247   4.648  0.00235 **
-    ## A2     0.1915     0.1106   1.731  0.12698    
-    ## lrc2  -1.7878     0.7871  -2.271  0.05737 .  
+    ## A2     0.1915     0.1106   1.731  0.12698
+    ## lrc2  -1.7878     0.7871  -2.271  0.05737 .
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ##
@@ -77,7 +77,7 @@ summary(two)
     ## Number of iterations to convergence: 0
     ## Achieved convergence tolerance: 4.225e-06
 
-``` r
+```r
 plotFit(two)
 ```
 
@@ -88,7 +88,7 @@ plotFit(two)
 This model shows the blood concentration when the drug is taken by oral
 dosage. $ C_t = \frac{D k_a k_e}{Cl(k_a + k_e)}(e^{-k_e t} + e^{-k_a t}).$
 
-``` r
+```r
 oraldose=read.csv("data/oral_dose.csv")
 oral=nls(conc~SSfol(Dose=4.4, time, lKe, lKa, lCl), data=oraldose)
 summary(oral)
@@ -98,9 +98,9 @@ summary(oral)
     ## Formula: conc ~ SSfol(Dose = 4.4, time, lKe, lKa, lCl)
     ##
     ## Parameters:
-    ##     Estimate Std. Error t value Pr(>|t|)    
+    ##     Estimate Std. Error t value Pr(>|t|)
     ## lKe  -2.2861     0.2491  -9.178 1.60e-05 ***
-    ## lKa   0.6641     0.2966   2.239   0.0556 .  
+    ## lKa   0.6641     0.2966   2.239   0.0556 .
     ## lCl  -3.1063     0.1643 -18.907 6.33e-08 ***
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
@@ -110,7 +110,7 @@ summary(oral)
     ## Number of iterations to convergence: 7
     ## Achieved convergence tolerance: 4.668e-06
 
-``` r
+```r
 plotFit(oral, xlim=c(0,35))
 ```
 
@@ -120,7 +120,7 @@ plotFit(oral, xlim=c(0,35))
 
 $ v= \frac{V_m x}{K+x}.$
 
-``` r
+```r
 mime=read.csv("data/MM.csv")
 mm=nls(rate~SSmicmen(conc,Vm,K), data=mime)
 summary(mm)
@@ -130,7 +130,7 @@ summary(mm)
     ## Formula: rate ~ SSmicmen(conc, Vm, K)
     ##
     ## Parameters:
-    ##    Estimate Std. Error t value Pr(>|t|)    
+    ##    Estimate Std. Error t value Pr(>|t|)
     ## Vm  126.033      7.173  17.570 2.18e-06 ***
     ## K    17.079      2.953   5.784  0.00117 **
     ## ---
@@ -141,7 +141,7 @@ summary(mm)
     ## Number of iterations to convergence: 0
     ## Achieved convergence tolerance: 2.522e-06
 
-``` r
+```r
 plotFit(mm, ylim=c(0,130), xlim=c(0,400))
 ```
 

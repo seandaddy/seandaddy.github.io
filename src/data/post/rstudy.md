@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-02-12T00:00:00Z
-title: "R Study"
-excerpt: "R은 통계분석을 하는 데 있어 상당히 좋은 프로그램이다. 이 프로그램이 가지고 있는 여러가지 장점 가운데서 두 가지를 강조하자면 다음과 같다."
-category: "Programming"
-tags: ["python","R"]
+title: 'R Study'
+excerpt: 'R은 통계분석을 하는 데 있어 상당히 좋은 프로그램이다. 이 프로그램이 가지고 있는 여러가지 장점 가운데서 두 가지를 강조하자면 다음과 같다.'
+category: 'Programming'
+tags: ['python', 'R']
 ---
 
 R은 통계분석을 하는 데 있어 상당히 좋은 프로그램이다. 이 프로그램이 가지고 있는 여러가지 장점 가운데서 두 가지를 강조하자면 다음과 같다.

@@ -2,6 +2,7 @@
 layout: post
 title: Free Trade vs. Protectionism
 ---
+
 Free trade and protectionism are two opposing economic policies regarding international trade.
 
 Free trade is a policy that advocates for unrestricted trade between nations without any tariffs, quotas, or other barriers. Supporters of free trade argue that it promotes economic growth, increases competition, and provides consumers with more choices.

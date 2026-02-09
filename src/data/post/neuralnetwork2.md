@@ -1,9 +1,9 @@
 ---
 publishDate: 2025-03-14T00:00:00Z
-title: "Neural Network II"
-excerpt: "Energy Efficient Modeling"
-category: "Econometrics"
-tags: ["econometrics"]
+title: 'Neural Network II'
+excerpt: 'Energy Efficient Modeling'
+category: 'Econometrics'
+tags: ['econometrics']
 ---
 
 ## Energy Efficient Modeling

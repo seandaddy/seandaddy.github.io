@@ -1,16 +1,16 @@
 ---
 publishDate: 2020-02-17T00:00:00Z
-title: "Multiple Regression"
-excerpt: "Analysis and Interpretation"
-category: "Econometrics"
-tags: ["econometrics","R"]
+title: 'Multiple Regression'
+excerpt: 'Analysis and Interpretation'
+category: 'Econometrics'
+tags: ['econometrics', 'R']
 ---
 
 ## Analysis and Interpretation
 
 Pair Plot to see the correlations among variables
 
-``` r
+```r
 pairs(attitude)
 ```
 
@@ -18,7 +18,7 @@ pairs(attitude)
 
 ## Find the best model
 
-``` r
+```r
 out=lm(rating~., data=attitude)
 out2=lm(rating~complaints+learning+advance, data=attitude)
 out3=lm(rating~complaints+learning, data=attitude)
@@ -32,7 +32,7 @@ anova(out3, out2, out)
     ## Model 3: rating ~ complaints + privileges + learning + raises + critical +
     ##     advance
     ##   Res.Df    RSS Df Sum of Sq      F Pr(>F)
-    ## 1     27 1254.7                           
+    ## 1     27 1254.7
     ## 2     26 1179.1  1    75.540 1.5121 0.2312
     ## 3     23 1149.0  3    30.109 0.2009 0.8947
 
@@ -40,7 +40,7 @@ Attitude is the data from RStudio. We can get some valuable example to
 find out the best model by following the step. Using ANOVA, anova(small
 model, large model), we can compare each model through the F-stat.
 
-``` r
+```r
 summary(out3)
 ```
 
@@ -53,10 +53,10 @@ summary(out3)
     ## -11.5568  -5.7331   0.6701   6.5341  10.3610
     ##
     ## Coefficients:
-    ##             Estimate Std. Error t value Pr(>|t|)    
-    ## (Intercept)   9.8709     7.0612   1.398    0.174    
+    ##             Estimate Std. Error t value Pr(>|t|)
+    ## (Intercept)   9.8709     7.0612   1.398    0.174
     ## complaints    0.6435     0.1185   5.432 9.57e-06 ***
-    ## learning      0.2112     0.1344   1.571    0.128    
+    ## learning      0.2112     0.1344   1.571    0.128
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ##
@@ -70,6 +70,7 @@ the best among three models.
 ## Another example
 
 We can get the birth weight data from MASS library. To verify which model is better, we are going to run anova() function as before.
+
 ```r
 library(MASS)
 out=lm(bwt~age+lwt+factor(race)+smoke+ptl+ht+ui, data=birthwt)
@@ -77,12 +78,13 @@ out2=lm(bwt~lwt+factor(race)+smoke+ht+ui, data=birthwt)
 
 anova(out2, out)
 ```
+
     ## Analysis of Variance Table
     ##
     ## Model 1: bwt ~ lwt + factor(race) + smoke + ht + ui
     ## Model 2: bwt ~ age + lwt + factor(race) + smoke + ptl + ht + ui
     ##   Res.Df      RSS Df Sum of Sq      F Pr(>F)
-    ## 1    182 75937505                           
+    ## 1    182 75937505
     ## 2    180 75741025  2    196480 0.2335  0.792
 
 If we remove two variables, ptl and age then the difference in the significance of the model improves a lot.
@@ -95,13 +97,13 @@ summary(out2)
     ## Analysis of Variance Table
     ##
     ## Response: bwt
-              Df   Sum Sq Mean Sq F value    Pr(>F)    
+              Df   Sum Sq Mean Sq F value    Pr(>F)
     ## lwt            1  3448639 3448639  8.2654 0.0045226 **
     ## factor(race)   2  5076610 2538305  6.0836 0.0027701 **
     ## smoke          1  6281818 6281818 15.0557 0.0001458 ***
     ## ht             1  2871867 2871867  6.8830 0.0094402 **
     ## ui             1  6353218 6353218 15.2268 0.0001341 ***
-    ## Residuals    182 75937505  417239                      
+    ## Residuals    182 75937505  417239
     ## ---
     ## Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -113,9 +115,9 @@ summary(out2)
     ## -1842.14  -433.19    67.09   459.21  1631.03
     ##
     ## Coefficients:
-    ##               Estimate Std. Error t value Pr(>|t|)    
+    ##               Estimate Std. Error t value Pr(>|t|)
     ## (Intercept)   2837.264    243.676  11.644  < 2e-16 ***
-    ## lwt              4.242      1.675   2.532 0.012198 *  
+    ## lwt              4.242      1.675   2.532 0.012198 *
     ## factor(race)2 -475.058    145.603  -3.263 0.001318 **
     ## factor(race)3 -348.150    112.361  -3.099 0.002254 **
     ## smoke         -356.321    103.444  -3.445 0.000710 ***

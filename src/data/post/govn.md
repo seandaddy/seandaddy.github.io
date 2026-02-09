@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-04-30T00:00:00Z
-title: "정부정책"
-excerpt: "가격 통제"
-category: "Microeconomics"
-tags: ["policy"]
+title: '정부정책'
+excerpt: '가격 통제'
+category: 'Microeconomics'
+tags: ['policy']
 ---
 
 # 가격 통제

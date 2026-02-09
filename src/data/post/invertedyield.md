@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-05-04T00:00:00Z
-title: "Inverted Yield Curve"
-excerpt: "An inverted yield curve is an economic phenomenon that occurs when short-term interest rates are higher than long-term interest rates. In other words, the yield on a three-month Treasury bill is hi..."
-category: "International Trade"
-tags: ["recession","microeconomics","policy","finance"]
+title: 'Inverted Yield Curve'
+excerpt: 'An inverted yield curve is an economic phenomenon that occurs when short-term interest rates are higher than long-term interest rates. In other words, the yield on a three-month Treasury bill is hi...'
+category: 'International Trade'
+tags: ['recession', 'microeconomics', 'policy', 'finance']
 ---
 
 An inverted yield curve is an economic phenomenon that occurs when short-term interest rates are higher than long-term interest rates. In other words, the yield on a three-month Treasury bill is higher than the yield on a 10-year Treasury bond.

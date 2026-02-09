@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-05-30T00:00:00Z
 title: "Understanding Kelly's Criterion - The Key to Intelligent Betting and Investment Strageties"
-excerpt: "Introduction"
-category: "International Trade"
-tags: ["labor"]
+excerpt: 'Introduction'
+category: 'International Trade'
+tags: ['labor']
 ---
 
 ## Introduction
@@ -15,7 +15,7 @@ In the world of betting and investment, the ability to manage risk and maximize 
 Kelly's Criterion is based on the idea of using the expected value of an investment or bet to calculate the optimal allocation of capital. It takes into account both the probability of winning and the potential payout to determine the ideal percentage of your bankroll to wager.
 
 The formula for Kelly's Criterion is as follows:
-$ f^* = \frac{(bp-q)}{b} $
+$ f^\* = \frac{(bp-q)}{b} $
 
 Where:
 $f^*$ represents the optimal fraction of your bankroll to bet.

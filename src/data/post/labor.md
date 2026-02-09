@@ -1,12 +1,12 @@
 ---
 publishDate: 2020-01-29T00:00:00Z
-title: "노동시장 균형에 대하여"
-excerpt: "Business Has Gone Sour in America’s Dairy Capital(https://www.economist.com/united-states/2020/01/23/business-has-gone-sour-in-americas-dairy-capital) , 2020년 1월 23일 The Economist 에 실린 기사를 읽고서…"
-category: "Microeconomics"
-tags: ["labor","us"]
+title: '노동시장 균형에 대하여'
+excerpt: 'Business Has Gone Sour in America’s Dairy Capital(https://www.economist.com/united-states/2020/01/23/business-has-gone-sour-in-americas-dairy-capital) , 2020년 1월 23일 The Economist 에 실린 기사를 읽고서…'
+category: 'Microeconomics'
+tags: ['labor', 'us']
 ---
 
-[Business Has Gone Sour in America’s Dairy Capital](https://www.economist.com/united-states/2020/01/23/business-has-gone-sour-in-americas-dairy-capital) , 2020년 1월 23일 *The Economist* 에 실린 기사를 읽고서…
+[Business Has Gone Sour in America’s Dairy Capital](https://www.economist.com/united-states/2020/01/23/business-has-gone-sour-in-americas-dairy-capital) , 2020년 1월 23일 _The Economist_ 에 실린 기사를 읽고서…
 
 > 농부들은 심지어 임금이 올랐음에도 불구하고 일꾼들을 찾기 힘들다고 불평한다.
 

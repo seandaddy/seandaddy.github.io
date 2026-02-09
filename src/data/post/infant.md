@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-10-06T00:00:00Z
-title: "The Critique of Infant Industry Protection"
-excerpt: "The Critique of Infant Industry Protection: Balancing Act for Economic Growth"
-category: "International Trade"
-tags: ["trade","tariff","policy"]
+title: 'The Critique of Infant Industry Protection'
+excerpt: 'The Critique of Infant Industry Protection: Balancing Act for Economic Growth'
+category: 'International Trade'
+tags: ['trade', 'tariff', 'policy']
 ---
 
 ## The Critique of Infant Industry Protection: Balancing Act for Economic Growth

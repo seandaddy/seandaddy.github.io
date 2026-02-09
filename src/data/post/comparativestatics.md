@@ -1,9 +1,9 @@
 ---
 publishDate: 2025-08-14T00:00:00Z
-title: "Comparative Statics"
+title: 'Comparative Statics'
 excerpt: "Comparative statics is an analytical method used in economics to determine how a change in one exogenous variable affects the equilibrium values of endogenous variables in a model. Essentially, it'..."
-category: "Microeconomics"
-tags: ["microeconomics","policy"]
+category: 'Microeconomics'
+tags: ['microeconomics', 'policy']
 ---
 
 Comparative statics is an analytical method used in economics to determine how a change in one exogenous variable affects the equilibrium values of endogenous variables in a model. Essentially, it's about comparing two different static equilibrium states—one before the change and one after—without considering the transition process. This approach is fundamental to understanding how economic systems respond to external shocks or policy changes.

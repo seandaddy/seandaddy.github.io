@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-05-22T00:00:00Z
-title: "조세의 경제적 비용"
-excerpt: "조세로 인한 경제적 순손실"
-category: "Microeconomics"
-tags: ["economics"]
+title: '조세의 경제적 비용'
+excerpt: '조세로 인한 경제적 순손실'
+category: 'Microeconomics'
+tags: ['economics']
 ---
 
 # 조세로 인한 경제적 순손실

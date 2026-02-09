@@ -11,7 +11,7 @@ metadata:
   title:
     default: Sang-Yong Oh
     template: '%s — Sang-Yong Oh'
-  description: "Ph.D. in Economics - International Trade, Econometrics, Applied Microeconomics"
+  description: 'Ph.D. in Economics - International Trade, Econometrics, Applied Microeconomics'
   robots:
     index: true
     follow: true

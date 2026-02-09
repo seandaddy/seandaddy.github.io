@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-04-10T00:00:00Z
 title: "Consumer's Utility Maximization Problem"
-excerpt: "Introduction"
-category: "International Trade"
-tags: ["trade"]
+excerpt: 'Introduction'
+category: 'International Trade'
+tags: ['trade']
 ---
 
 ## Introduction

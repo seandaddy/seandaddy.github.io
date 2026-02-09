@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-02-27T00:00:00Z
-title: "Logistic Regression"
-excerpt: "Odds ratio"
-category: "Econometrics"
-tags: ["econometrics","us"]
+title: 'Logistic Regression'
+excerpt: 'Odds ratio'
+category: 'Econometrics'
+tags: ['econometrics', 'us']
 ---
 
 ## Odds ratio
@@ -30,7 +30,7 @@ The data comes from “Radelet, M. L. Racial Characteristics and the
 Imposition of the Death Penalty. American Sociological Review, v46 n6
 p918-27 Dec 1981”
 
-``` r
+```r
 death=read.csv("data/death_penalty.csv")
 def=xtabs(count ~defendant+death, data=death)
 chisq.test(def)
@@ -42,7 +42,7 @@ chisq.test(def)
     ## data:  def
     ## X-squared = 0.086343, df = 1, p-value = 0.7689
 
-``` r
+```r
 vic=xtabs(count ~victim+death, data=death)
 chisq.test(vic)
 ```
@@ -55,7 +55,7 @@ chisq.test(vic)
 
 We can see the results above, the dependent's race does't have a significant impact on death sentence but the victim's race does.
 
-``` r
+```r
 out1=glm(death~victim*defendant,weights=count,family=binomial,data=death)
 summary(out1)
 ```
@@ -66,15 +66,15 @@ summary(out1)
     ##     data = death, weights = count)
     ##
     ## Deviance Residuals:
-    ##       1        2        3        4        5        6        7        8  
-    ##  8.8751  -5.9584   6.1964  -4.4673   0.0000  -0.0009   5.8409  -3.4123  
+    ##       1        2        3        4        5        6        7        8
+    ##  8.8751  -5.9584   6.1964  -4.4673   0.0000  -0.0009   5.8409  -3.4123
     ##
     ## Coefficients:
-    ##                             Estimate Std. Error z value Pr(>|z|)    
+    ##                             Estimate Std. Error z value Pr(>|z|)
     ## (Intercept)                  -2.7830     0.4207  -6.615 3.71e-11 ***
-    ## victimWhite                   1.2296     0.5358   2.295   0.0217 *  
-    ## defendantWhite              -14.2430  1006.6075  -0.014   0.9887    
-    ## victimWhite:defendantWhite   13.8579  1006.6076   0.014   0.9890    
+    ## victimWhite                   1.2296     0.5358   2.295   0.0217 *
+    ## defendantWhite              -14.2430  1006.6075  -0.014   0.9887
+    ## victimWhite:defendantWhite   13.8579  1006.6076   0.014   0.9890
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ##
@@ -86,7 +86,7 @@ summary(out1)
     ##
     ## Number of Fisher Scoring iterations: 14
 
-``` r
+```r
 out2=glm(death~victim,weights=count,family=binomial,data=death)
 summary(out2)
 ```
@@ -97,13 +97,13 @@ summary(out2)
     ##     weights = count)
     ##
     ## Deviance Residuals:
-    ##       1        2        3        4        5        6        7        8  
-    ##  8.6407  -6.3146   6.5746  -3.9634   0.0000  -0.9955   5.9263  -3.2683  
+    ##       1        2        3        4        5        6        7        8
+    ##  8.6407  -6.3146   6.5746  -3.9634   0.0000  -0.9955   5.9263  -3.2683
     ##
     ## Coefficients:
-    ##             Estimate Std. Error z value Pr(>|z|)    
+    ##             Estimate Std. Error z value Pr(>|z|)
     ## (Intercept)  -2.8717     0.4196  -6.843 7.75e-12 ***
-    ## victimWhite   1.0579     0.4635   2.282   0.0225 *  
+    ## victimWhite   1.0579     0.4635   2.282   0.0225 *
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ##
@@ -115,7 +115,7 @@ summary(out2)
     ##
     ## Number of Fisher Scoring iterations: 5
 
-``` r
+```r
 anova(out2,out1,test="Chisq")
 ```
 
@@ -124,12 +124,12 @@ anova(out2,out1,test="Chisq")
     ## Model 1: death ~ victim
     ## Model 2: death ~ victim * defendant
     ##   Resid. Df Resid. Dev Df Deviance Pr(>Chi)
-    ## 1         5     220.26                     
+    ## 1         5     220.26
     ## 2         3     218.38  2   1.8819   0.3903
 
 ANOVA result shows us that we don't have any strong evidence to move the first model that contains dependent's race.
 
-``` r
+```r
 exp(coef(out2)["victimWhite"])
 ```
 
@@ -142,7 +142,7 @@ As a sum, we can conclude that if the victim is white, the rate of the death sen
 
 This is the data about the birth low birth weight.
 
-``` r
+```r
 library(MASS)
 model=glm(low ~ lwt+factor(race)+smoke+ht+ui,data=birthwt, family=binomial)
 summary(model)
@@ -154,12 +154,12 @@ summary(model)
     ##     data = birthwt)
     ##
     ## Deviance Residuals:
-    ##     Min       1Q   Median       3Q      Max  
-    ## -1.7396  -0.8322  -0.5359   0.9873   2.1692  
+    ##     Min       1Q   Median       3Q      Max
+    ## -1.7396  -0.8322  -0.5359   0.9873   2.1692
     ##
     ## Coefficients:
-    ##                Estimate Std. Error z value Pr(>|z|)   
-    ## (Intercept)    0.056276   0.937853   0.060  0.95215   
+    ##                Estimate Std. Error z value Pr(>|z|)
+    ## (Intercept)    0.056276   0.937853   0.060  0.95215
     ## lwt           -0.016732   0.006803  -2.459  0.01392 *
     ## factor(race)2  1.324562   0.521464   2.540  0.01108 *
     ## factor(race)3  0.926197   0.430386   2.152  0.03140 *
@@ -177,7 +177,7 @@ summary(model)
     ##
     ## Number of Fisher Scoring iterations: 4
 
-``` r
+```r
 exp(coef(model))
 ```
 

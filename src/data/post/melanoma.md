@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-02-29T00:00:00Z
-title: "Poisson Regression"
-excerpt: "Poisson Regression"
-category: "Econometrics"
-tags: ["econometrics"]
+title: 'Poisson Regression'
+excerpt: 'Poisson Regression'
+category: 'Econometrics'
+tags: ['econometrics']
 ---
 
 ## Poisson Regression
@@ -19,7 +19,7 @@ $ log \frac{\mu}{N} = \beta X $
 
 This is data about melanoma cases, in other words skin cancers.
 
-``` r
+```r
 mela=read.csv("data/melanoma.csv")
 mel=xtabs(cases~age+region, data=mela)
 out=glm(cases~age+region, family=poisson,offset=log(total),data=mela)
@@ -32,13 +32,13 @@ summary(out)
     ##     offset = log(total))
     ##
     ## Deviance Residuals:
-    ##       1        2        3        4        5        6        7        8  
-    ##  0.4780  -0.4273  -0.5302   0.7469  -1.3610   0.8686  -0.4581   0.3667  
-    ##       9       10       11       12  
-    ##  0.4279  -0.5932   0.8904  -0.8283  
+    ##       1        2        3        4        5        6        7        8
+    ##  0.4780  -0.4273  -0.5302   0.7469  -1.3610   0.8686  -0.4581   0.3667
+    ##       9       10       11       12
+    ##  0.4279  -0.5932   0.8904  -0.8283
     ##
     ## Coefficients:
-    ##              Estimate Std. Error z value Pr(>|z|)    
+    ##              Estimate Std. Error z value Pr(>|z|)
     ## (Intercept) -10.65831    0.09518 -111.97   <2e-16 ***
     ## age35-44      1.79737    0.12093   14.86   <2e-16 ***
     ## age45-54      1.91309    0.11844   16.15   <2e-16 ***
@@ -59,7 +59,7 @@ summary(out)
 
 As the result above shows us, all the estimated parameter are significant.
 
-``` r
+```r
 mu=fitted(out)
 cbind(mela[,c(1,2)], cases=rpois(12,mu))
 ```

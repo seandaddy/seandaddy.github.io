@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-04-15T00:00:00Z
-title: "산업정책의 유행"
-excerpt: "20세기 후반에서 21세기 초에 이르기까지 산업 정책이 비효율적이라는 공감대가 형성되었고, 이러한 견해는 워싱턴 합의(Washington Consensus)(https://namu.wiki/w/워싱턴%20합의)로 그 결실을 맺었다."
-category: "International Trade"
-tags: ["trade","microeconomics","policy","labor","china"]
+title: '산업정책의 유행'
+excerpt: '20세기 후반에서 21세기 초에 이르기까지 산업 정책이 비효율적이라는 공감대가 형성되었고, 이러한 견해는 워싱턴 합의(Washington Consensus)(https://namu.wiki/w/워싱턴%20합의)로 그 결실을 맺었다.'
+category: 'International Trade'
+tags: ['trade', 'microeconomics', 'policy', 'labor', 'china']
 ---
 
 20세기 후반에서 21세기 초에 이르기까지 산업 정책이 비효율적이라는 공감대가 형성되었고, 이러한 견해는 [워싱턴 합의(Washington Consensus)](https://namu.wiki/w/워싱턴%20합의)로 그 결실을 맺었다.
@@ -12,7 +12,7 @@ tags: ["trade","microeconomics","policy","labor","china"]
 
 > 이제 반도체 산업에 520억 달러가 지원되는 칩 및 과학 법안(Chip and Science Act)이 의도대로 작동할 것 같지 않다는 것이 분명해졌다. 사실, 이 법안의 실패는 현재 미국이 물건을 만드는 방식에 문제가 있는 모든 것의 축소판이라고 할 수 있다.
 
-[블룸버그](https://www.bloomberg.com/opinion/articles/2023-03-28/chips-act-funding-isn-t-what-us-semiconductor-manufacturers-need?srnd=premium&leadSource=uverify%20wall)는 새로운 공장 건설을 매우 오래 지연시키는 규제를 포함한 몇 가지 요인을 언급하고 있다.  그리고 더 큰 문제는 이민 시스템이라는 주장이다:
+[블룸버그](https://www.bloomberg.com/opinion/articles/2023-03-28/chips-act-funding-isn-t-what-us-semiconductor-manufacturers-need?srnd=premium&leadSource=uverify%20wall)는 새로운 공장 건설을 매우 오래 지연시키는 규제를 포함한 몇 가지 요인을 언급하고 있다. 그리고 더 큰 문제는 이민 시스템이라는 주장이다:
 
 > 또 다른 문제는 미국이 부분적으로 망가진 이민 시스템으로 인해 이 산업에 필요한 인력이 부족하다는 것이다. 한 연구에 따르면 현재 진행 중인 미국 팹 프로젝트를 완료하는 데만 30만 명의 숙련된 노동자가 더 필요할 수 있으며, 신규 프로젝트는 말할 것도 없다. 하지만 이 분야에서 고급 학위를 취득하는 미국 학생의 수는 30년 동안 정체되어 있다. 많은 유학생들이 미국 학교의 관련 프로그램에 등록하고 있지만, 현재의 정책은 이들이 미국에 머물면서 일하기가 불필요하게 어렵게 만들고 있다. 따라서 인텔과 대만 반도체 제조사가 계획한 신규 공장은 모두 자격을 갖춘 근로자를 찾는 데 어려움을 겪을 것이 분명해 보인다.
 
@@ -22,6 +22,6 @@ tags: ["trade","microeconomics","policy","labor","china"]
 
 [아담 포센](https://foreignpolicy.com/2023/03/24/economy-trade-united-states-china-industry-manufacturing-supply-chains-biden/)은 외교 정책(Foreign Policy) 저널을 통해 산업 정책의 문제점에 대해 보다 심층적으로 분석하고 있다.
 
-> 이러한 정책 접근 방식은 국내에서는 상당한 대중적 호소력을 지니고 있지만, 네 가지 심각한 분석적 오류에 기반하고 있다. 즉, 자기 거래가 현명하다는 것, 자급자족이 가능하다는 것, 보조금이 많을수록 좋다는 것, 현지 생산이 중요하다는 것 등이 그것이다. 이러한 각 가정은 200년 이상 꾸준히 연구되어 온 해외 경제 정책과 그 효과는 물론 역사에 의해 모순된다. 중국의 실존하지만 과장된 위협이나 오늘날의 기술이 과거의 혁신에 비해 우월하다는 사실만으로는 근본적인 현실을 바꾸지는 못한다. 
+> 이러한 정책 접근 방식은 국내에서는 상당한 대중적 호소력을 지니고 있지만, 네 가지 심각한 분석적 오류에 기반하고 있다. 즉, 자기 거래가 현명하다는 것, 자급자족이 가능하다는 것, 보조금이 많을수록 좋다는 것, 현지 생산이 중요하다는 것 등이 그것이다. 이러한 각 가정은 200년 이상 꾸준히 연구되어 온 해외 경제 정책과 그 효과는 물론 역사에 의해 모순된다. 중국의 실존하지만 과장된 위협이나 오늘날의 기술이 과거의 혁신에 비해 우월하다는 사실만으로는 근본적인 현실을 바꾸지는 못한다.
 
 포센의 여러가지 산업정책에 대하여 세밀한 문제까지 비판하고 있지만, 가장 중요한 부분을 한 마디로 요약하면 기회비용에 대한 무시이다.

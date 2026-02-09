@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-06-18T00:00:00Z
-title: "조세제도"
-excerpt: "조세의 효율성"
-category: "Microeconomics"
-tags: ["policy","labor"]
+title: '조세제도'
+excerpt: '조세의 효율성'
+category: 'Microeconomics'
+tags: ['policy', 'labor']
 ---
 
 # 조세의 효율성

@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-02-05T00:00:00Z
-title: "파이썬을 이용한 경제 데이터 분석 예"
-excerpt: "FRED API 데이터 스크레이핑을 이용한 차트 분석"
-category: "International Trade"
-tags: ["python","labor","us"]
+title: '파이썬을 이용한 경제 데이터 분석 예'
+excerpt: 'FRED API 데이터 스크레이핑을 이용한 차트 분석'
+category: 'International Trade'
+tags: ['python', 'labor', 'us']
 ---
 
 ## FRED API 데이터 스크레이핑을 이용한 차트 분석
@@ -27,8 +27,8 @@ from fredapi import Fred
 fred_key = 'FRED-API key를 입력해 주세요.'
 fred = Fred(api_key=fred_key)
 ```
-> [FRED](https://fred.stlouisfed.org/) API를 이용하기 위해서는 사용자 등록과 함께 API-key 신청하면 무료로 API를 이용할 수 있다. 
 
+> [FRED](https://fred.stlouisfed.org/) API를 이용하기 위해서는 사용자 등록과 함께 API-key 신청하면 무료로 API를 이용할 수 있다.
 
 ## S & P 500 주가 지수 시계열
 
@@ -39,6 +39,7 @@ sp500.plot(figsize=(10, 5), title='S&P 500', lw=2)
 
 plt.show()
 ```
+
 ![](https://seandaddy.github.io/images/Screenshot 2023-02-05 at 12.46.38 AM.png)
 
 ## 미국 각 주별 실업률 비교 분석
@@ -70,6 +71,7 @@ uemp_states.columns = [id_to_state[c] for c in uemp_states.columns]
 # Plot States Unemployment Rate
 px.line(uemp_states)
 ```
+
 ![](https://seandaddy.github.io/images/Screenshot 2023-02-05 at 12.49.48 AM.png)
 
 ```python
@@ -81,11 +83,12 @@ ax.legend().remove()
 ax.set_xlabel('% Unemployed')
 plt.show()
 ```
+
 ![](https://seandaddy.github.io/images/Screenshot 2023-02-05 at 12.50.57 AM.png)
 
 ## 실업률 대비 경제활동참가율 동향 분석
 
->  실업률과 경제활동참가율에 대한 정확한 공식을 정리해 본다.
+> 실업률과 경제활동참가율에 대한 정확한 공식을 정리해 본다.
 
 실업률(%) $= \frac{실업자수}{경제활동인구}\times 100,$
 경제활동참가율(%) $= \frac{경제활동인구}{노동가능인구} \times 100.$
@@ -111,7 +114,7 @@ part_states.columns = [part_id_to_state[c] for c in part_states.columns]
 uemp_states = uemp_states.rename(columns={'the District of Columbia':'District Of Columbia'})
 
 fig, axs = plt.subplots(10, 5, figsize=(30, 30), sharex=True)
-axs = axs.flatten()  
+axs = axs.flatten()
 i = 0
 for state in uemp_states.columns:
 	if state in ["District Of Columbia","Puerto Rico"]:
@@ -127,6 +130,7 @@ for state in uemp_states.columns:
 plt.tight_layout()
 plt.show()
 ```
+
 ![](https://seandaddy.github.io/images/output.png)
 
 ## 주별 실업률 대비 경제활동참가율 개별 분석예: 캘리포니아
@@ -145,4 +149,5 @@ ax.set_title(state)
 fig.legend(labels=['Unemployment','Participation'])
 plt.show()
 ```
+
 ![](https://seandaddy.github.io/images/Screenshot 2023-02-05 at 12.57.49 AM.png)

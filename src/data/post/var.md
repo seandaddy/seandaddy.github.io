@@ -1,9 +1,9 @@
 ---
 publishDate: 2025-03-17T00:00:00Z
-title: "Sample Variance"
-excerpt: "Why do we divide by n-1 when calculating the sample standard deviation?"
-category: "Economics"
-tags: ["economics"]
+title: 'Sample Variance'
+excerpt: 'Why do we divide by n-1 when calculating the sample standard deviation?'
+category: 'Economics'
+tags: ['economics']
 ---
 
 Why do we divide by n-1 when calculating the sample standard deviation?

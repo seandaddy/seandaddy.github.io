@@ -1,9 +1,9 @@
 ---
 publishDate: 2020-02-20T00:00:00Z
-title: "ANCOVA"
-excerpt: "Analysis of Covariance"
-category: "Econometrics"
-tags: ["econometrics"]
+title: 'ANCOVA'
+excerpt: 'Analysis of Covariance'
+category: 'Econometrics'
+tags: ['econometrics']
 ---
 
 ## Analysis of Covariance
@@ -26,7 +26,7 @@ has a high weight has a high chance of a big weight loss after the
 treatment. So, instead of ANOVA, we use the model
 \(Post-weight = Pre-weight + Treat + \epsilon\).
 
-``` r
+```r
 library(multcomp)
 anorexia=read.csv("data/anorexia.csv")
 attach(anorexia)
@@ -40,14 +40,14 @@ anova(out)
     ## Analysis of Variance Table
     ##
     ## Response: Postwt
-    ##           Df Sum Sq Mean Sq F value    Pr(>F)    
+    ##           Df Sum Sq Mean Sq F value    Pr(>F)
     ## Prewt      1  506.5  506.51 10.4017 0.0019364 **
     ## Treat      2  766.3  383.14  7.8681 0.0008438 ***
-    ## Residuals 68 3311.3   48.70                      
+    ## Residuals 68 3311.3   48.70
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-``` r
+```r
 summary(out)
 ```
 
@@ -60,11 +60,11 @@ summary(out)
     ## -14.1083  -4.2773  -0.5484   5.4838  15.2922
     ##
     ## Coefficients:
-    ##             Estimate Std. Error t value Pr(>|t|)    
+    ##             Estimate Std. Error t value Pr(>|t|)
     ## (Intercept)  49.7711    13.3910   3.717  0.00041 ***
     ## Prewt         0.4345     0.1612   2.695  0.00885 **
-    ## TreatCont    -4.0971     1.8935  -2.164  0.03400 *  
-    ## TreatFT       4.5631     2.1333   2.139  0.03604 *  
+    ## TreatCont    -4.0971     1.8935  -2.164  0.03400 *
+    ## TreatFT       4.5631     2.1333   2.139  0.03604 *
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ##
@@ -81,7 +81,7 @@ loss.
 To verify the impact differences among the treatments, we are going to
 use the Tukey method.
 
-``` r
+```r
 dunn=glht(out, linfct=mcp(Treat = "Tukey"))
 summary(dunn)
 ```
@@ -95,15 +95,15 @@ summary(dunn)
     ## Fit: lm(formula = Postwt ~ Prewt + Treat, data = anorexia)
     ##
     ## Linear Hypotheses:
-    ##                 Estimate Std. Error t value Pr(>|t|)    
-    ## Cont - CBT == 0   -4.097      1.893  -2.164   0.0845 .  
-    ## FT - CBT == 0      4.563      2.133   2.139   0.0892 .  
+    ##                 Estimate Std. Error t value Pr(>|t|)
+    ## Cont - CBT == 0   -4.097      1.893  -2.164   0.0845 .
+    ## FT - CBT == 0      4.563      2.133   2.139   0.0892 .
     ## FT - Cont == 0     8.660      2.193   3.949   <0.001 ***
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## (Adjusted p values reported -- single-step method)
 
-``` r
+```r
 plot(dunn)
 ```
 

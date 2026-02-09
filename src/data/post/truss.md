@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-04-18T00:00:00Z
 title: "Liz Truss Administration's Economic Policy Failure"
-excerpt: "Introduction"
-category: "Macroeconomics"
-tags: ["inflation","policy","finance"]
+excerpt: 'Introduction'
+category: 'Macroeconomics'
+tags: ['inflation', 'policy', 'finance']
 ---
 
 ## Introduction

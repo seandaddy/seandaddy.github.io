@@ -1,16 +1,16 @@
 ---
 publishDate: 2020-02-16T00:00:00Z
-title: "Simple Linear Regression"
-excerpt: "Import data and store regression results"
-category: "International Trade"
-tags: ["econometrics"]
+title: 'Simple Linear Regression'
+excerpt: 'Import data and store regression results'
+category: 'International Trade'
+tags: ['econometrics']
 ---
 
 ## Import data and store regression results
 
 데이터 불러오기 및 단순회귀분석 결과 저장
 
-``` r
+```r
 cars = read.csv("data/cars.csv")
 attach(cars)
 out1=lm(dist~speed,data=cars)
@@ -32,7 +32,7 @@ out4=lm(sqrt(dist)~speed-1,data=cars)
     ## -2.2781 -0.6972  0.0208  0.7965  3.3898
     ##
     ## Coefficients:
-    ##       Estimate Std. Error t value Pr(>|t|)    
+    ##       Estimate Std. Error t value Pr(>|t|)
     ## speed  0.39675    0.01015   39.09   <2e-16 ***
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1

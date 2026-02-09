@@ -1,9 +1,9 @@
 ---
 publishDate: 2025-03-13T00:00:00Z
-title: "Neural Networks"
-excerpt: "Artificial Neurons"
-category: "Programming"
-tags: ["economics"]
+title: 'Neural Networks'
+excerpt: 'Artificial Neurons'
+category: 'Programming'
+tags: ['economics']
 ---
 
 ## Artificial Neurons

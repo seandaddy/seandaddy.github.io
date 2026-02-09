@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-04-27T00:00:00Z
-title: "Free Trade vs. Protectionism"
-excerpt: "Free trade and protectionism are two opposing economic policies regarding international trade."
-category: "International Trade"
-tags: ["trade","tariff","policy"]
+title: 'Free Trade vs. Protectionism'
+excerpt: 'Free trade and protectionism are two opposing economic policies regarding international trade.'
+category: 'International Trade'
+tags: ['trade', 'tariff', 'policy']
 ---
 
 Free trade and protectionism are two opposing economic policies regarding international trade.

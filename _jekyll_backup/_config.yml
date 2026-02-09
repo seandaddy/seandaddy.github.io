@@ -46,7 +46,7 @@ url: https://seandaddy.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: ''
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -65,7 +65,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: "highlight"
+    css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
 sass:

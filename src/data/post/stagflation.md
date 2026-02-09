@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-09-10T00:00:00Z
-title: "Navigating the Storm"
-excerpt: "Government Economic Policy During Stagflation"
-category: "International Trade"
-tags: ["trade","inflation","macroeconomics","microeconomics","policy"]
+title: 'Navigating the Storm'
+excerpt: 'Government Economic Policy During Stagflation'
+category: 'International Trade'
+tags: ['trade', 'inflation', 'macroeconomics', 'microeconomics', 'policy']
 ---
 
 ## Government Economic Policy During Stagflation

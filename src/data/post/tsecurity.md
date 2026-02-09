@@ -1,9 +1,9 @@
 ---
 publishDate: 2023-03-30T00:00:00Z
-title: "U.S. Treasury Securities - A Safe Haven Investment"
-excerpt: "Introduction"
-category: "Economic Policy"
-tags: ["policy","finance"]
+title: 'U.S. Treasury Securities - A Safe Haven Investment'
+excerpt: 'Introduction'
+category: 'Economic Policy'
+tags: ['policy', 'finance']
 ---
 
 ## Introduction
