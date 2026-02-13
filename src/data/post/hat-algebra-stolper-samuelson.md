@@ -1,9 +1,9 @@
 ---
-title: "The hat-algebra technique in the Stolper-Samuelson Theorem"
+title: 'The hat-algebra technique in the Stolper-Samuelson Theorem'
 pubDate: 2026-02-13
-author: "Sangyong"
+author: 'Sangyong'
 tags: ['Economics', 'Trade']
-description: "1. The Starting Point (Levels)..."
+description: '1. The Starting Point (Levels)...'
 ---
 
 1. The Starting Point (Levels) 
@@ -19,6 +19,7 @@ where, $w$ is wage(return to labor), $r$ is rent(return to capital)
 2. Applying Hat Algebra (The Change) 
 
 If we want to see how a change in prices ($\hat{P}$) affects wages ($\hat{w}$), we take the total derivative of the equations and divide by the initial values. This transforms the "Level" equation into a **"Hat" equation**: $$\hat{P}_{T} = \theta_{LT}\hat{w} + \theta_{KT}\hat{r}$$**Where:** 
+
 - $\hat{P}_{T}$ is the percentage change in the price of Textiles.
 - $\theta_{LT}$ is the **income share** of labor in the textile industry (e.g., if 60% of textile revenue goes to workers, $\theta_{LT} = 0.6$).
 
@@ -42,7 +43,7 @@ $$\hat{w} > \hat{P}_{T} > \hat{P}_{M} > \hat{r}.$$
 1. **Write the Equilibrium:** Start with the standard equation (e.g., Price=Cost).
 2. **Differentiate:** Take the derivative to find how small changes affect the whole system.
 3. **Divide by Levels:** This turns the changes into **ratios** (Hats).
-4. **Substitute Shares:** Replace complex units with $\theta$(income shares) or $\lambda$ (employment shares)**. 
+4. **Substitute Shares:** Replace complex units with $\theta$(income shares) or $\lambda$ (employment shares)\*\*. 
 
 ### Why this matters today 
 
