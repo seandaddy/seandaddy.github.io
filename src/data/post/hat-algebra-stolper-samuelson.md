@@ -1,6 +1,6 @@
 ---
 title: 'The hat-algebra technique in the Stolper-Samuelson Theorem'
-pubDate: 2026-02-13
+publishDate: 2026-02-13
 author: 'Sangyong'
 tags: ['Economics', 'Trade']
 description: '1. The Starting Point (Levels)...'

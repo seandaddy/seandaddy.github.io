@@ -1,6 +1,6 @@
 ---
 title: '세계가 미국에서 돈을 인출하면 어떤 일이 벌어질까?'
-pubDate: 2026-02-13
+publishDate: 2026-02-13
 author: 'Sangyong'
 tags: ['Global Economy']
 description: '– 미국이 예전 같지 않다는 인식이 강해질수록 자본 유출(capital flight) 가능성이 커진다....'

@@ -1,6 +1,6 @@
 ---
 title: '인류를 구하자! 출산율 급락에 대한 해결책을 찾아야 할 때'
-pubDate: 2026-02-13
+publishDate: 2026-02-13
 author: 'Sangyong'
 tags: ['Demographics', 'Society']
 description: "전 세계적인 저출산 현상은 인류 존립을 위협하는 심각한 위기이며, 이를 해결하기 위해 정부  차원의 대규모 '출산 정책 연구소' 설립을 고려해야 합니다...."

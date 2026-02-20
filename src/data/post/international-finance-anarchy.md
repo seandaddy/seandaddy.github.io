@@ -1,6 +1,6 @@
 ---
 title: '국제금융 무정부 상태'
-pubDate: 2026-02-13
+publishDate: 2026-02-13
 author: 'Sangyong'
 tags: ['Finance']
 description: '그 시작점으로 모두가 미국에서 돈을 빼내면 무슨 일이 일어날까?...'
