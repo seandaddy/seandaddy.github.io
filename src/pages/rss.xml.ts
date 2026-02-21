@@ -15,7 +15,7 @@ export const GET = async () => {
   const posts = await fetchPosts();
 
   const rss = await getRssString({
-    title: `${SITE.name}’s Blog`,
+    title: `${SITE.name}'s Blog`,
     description: METADATA?.description || '',
     site: import.meta.env.SITE,
 
@@ -29,7 +29,13 @@ export const GET = async () => {
     trailingSlash: SITE.trailingSlash,
   });
 
-  return new Response(rss, {
+  // Add XSL stylesheet reference for better browser display
+  const rssWithStyle = rss.replace(
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss-styles.xsl" type="text/xsl"?>'
+  );
+
+  return new Response(rssWithStyle, {
     headers: {
       'Content-Type': 'application/xml',
     },
