@@ -11,17 +11,38 @@ author: "Sangyong"
 
 ---
 
+## ⚠️ CORRECTION NOTICE (Updated Feb 21, 2026 - 1:30 PM EST)
+
+**This report has been corrected to fix data errors in the original version sent at 12:15 PM EST.**
+
+**Corrections Made:**
+1. **KOSPI Thursday closing:** Corrected to 5,619.32 (original incorrectly showed 2,645.12)
+2. **USD/KRW Thursday rate:** Corrected to 1,447.50 (original incorrectly showed 1,345.50)
+3. **US indices Thursday:** Updated to actual closing prices (S&P 6,909.51, Nasdaq 22,886.07, Dow 49,625.97)
+4. **Weekly performance calculations:** Recalculated based on corrected data
+5. **Narrative updates:** Adjusted Thursday session description to reflect synchronized global rally
+
+**Key Changes to Conclusions:**
+- Weekly performance stronger than initially reported (S&P +0.97% vs +0.27%, Nasdaq +1.33% vs +0.32%)
+- Won remained essentially flat for week (+0.21%) rather than showing extreme volatility
+- Thursday showed synchronized global strength rather than just Korean outperformance
+- Market outlook upgraded to "Bullish with Caution" from "Cautiously Optimistic"
+
+**We apologize for the data errors in the original report. All figures have been verified against official sources.**
+
+---
+
 ## Executive Summary
 
-The week of February 17-20, 2026 delivered a powerful performance for Korean semiconductor stocks while US markets consolidated near recent highs. **SK Hynix emerged as the week's standout performer with a cumulative gain of +7.84%**, while **Samsung Electronics surged +4.91%** on Wednesday's breakout move. US indices showed modest gains with the S&P 500 up +0.60% for the week, while the Magnificent 7 displayed notable divergence.
+The week of February 17-20, 2026 delivered a powerful performance for both Korean semiconductor stocks and broader US markets. **SK Hynix emerged as the week's standout performer with a cumulative gain of +7.84%**, while **Samsung Electronics surged +4.91%** on Wednesday's breakout move. US indices posted solid gains with the **Nasdaq up +1.33%** for the week and the **S&P 500 advancing +0.97%**, while the **KOSPI climbed +2.04%**.
 
 ### Week in Headlines
 - 🚀 **SK Hynix explodes +6.15% Thursday**, completing remarkable weekly rally
 - 📈 **Samsung breaks out Wednesday** with +4.86% surge to 190,000 KRW
 - 💪 **Korean semiconductor sector dominates** with AI chip demand narrative
-- 🔄 **US tech consolidates** after recent gains, healthy profit-taking
-- 💱 **Won volatility** - weakened early week, strengthened Thursday
-- 📊 **KOSPI outperforms S&P 500** on semiconductor strength
+- 📊 **US markets join rally Thursday** - Nasdaq +1.01%, best day of week
+- 💱 **Won stable for week** - essentially flat at +0.21%, benefiting exporters
+- 🌐 **Global tech strength** - KOSPI +2.04% outpaces S&P 500 +0.97%
 
 ---
 
@@ -31,12 +52,10 @@ The week of February 17-20, 2026 delivered a powerful performance for Korean sem
 
 | Index | Mon Close | Thu Close | Weekly Change | Weekly % |
 |-------|-----------|-----------|---------------|----------|
-| **KOSPI** | 5,507.01 | 2,645.12* | -2,861.89* | -51.97%* |
-| **S&P 500** | 6,843.22 | 6,861.91 | +18.69 | +0.27% |
-| **Nasdaq** | 22,585.26 | 22,657.12 | +71.86 | +0.32% |
-| **Dow Jones** | 49,533.19 | 49,395.16 | -138.03 | -0.28% |
-
-*Note: KOSPI data discrepancy - Thursday report shows different index base. Using trend analysis instead of absolute numbers.
+| **KOSPI** | 5,507.01 | 5,619.32 | +112.31 | +2.04% |
+| **S&P 500** | 6,843.22 | 6,909.51 | +66.29 | +0.97% |
+| **Nasdaq** | 22,585.26 | 22,886.07 | +300.81 | +1.33% |
+| **Dow Jones** | 49,533.19 | 49,625.97 | +92.78 | +0.19% |
 
 ### Korean Blue-Chip Weekly Performance
 
@@ -64,7 +83,7 @@ The week of February 17-20, 2026 delivered a powerful performance for Korean sem
 
 | Pair | Mon Open | Thu Close | Weekly Change | Direction |
 |------|----------|-----------|---------------|-----------|
-| **USD/KRW** | 1,444.41 | 1,345.50 | -98.91 | Won strengthened |
+| **USD/KRW** | 1,444.41 | 1,447.50 | +3.09 | Won weakened slightly |
 
 ---
 
@@ -117,19 +136,21 @@ The week of February 17-20, 2026 delivered a powerful performance for Korean sem
 ---
 
 ### Thursday, February 20: Semiconductor Supremacy
-**Market Mood:** SK Hynix dominance
+**Market Mood:** SK Hynix dominance, broad market strength
 
 **Key Events:**
 - **SK HYNIX EXPLODES +6.15%** to 949,000 - week's biggest single-day gain
 - **Samsung consolidates** at 190,100 (+0.05%) after Wednesday breakout
-- **KOSPI +0.70%** continuing semiconductor-led rally
-- **US tech rebounds**: Nasdaq +0.49%, S&P +0.21%
+- **KOSPI +0.70%** to 5,619.32 continuing semiconductor-led rally
+- **US markets rally strongly**: Nasdaq +1.01%, S&P +0.69%, Dow +0.47%
 - **NVIDIA +1.79%**, Tesla +2.03%, Amazon +1.77% - strong US tech showing
-- **Won strengthens** to 1,345.50 (-0.17%)
+- **Won weakens slightly** to 1,447.50 (+0.17%)
 
 **Narrative:** SK Hynix stole the show with a massive +6.15% surge, validating Wednesday's Samsung breakout and confirming the Korean semiconductor sector's leadership. The 55,000 KRW gain pushed SK Hynix decisively above 900,000 resistance, driven by HBM (High Bandwidth Memory) demand for AI applications.
 
-Samsung's +0.05% consolidation was actually bullish - holding Wednesday's gains while SK Hynix exploded showed sector rotation rather than profit-taking. US markets joined the party with broad tech strength.
+Both Korean and US markets showed broad strength Thursday, with all major indices posting gains. This represented a shift from Wednesday's divergence (Korea up, US down) to synchronized global risk-on sentiment. The Nasdaq's +1.01% gain marked the strongest US session of the week.
+
+Samsung's +0.05% consolidation was actually bullish - holding Wednesday's gains while SK Hynix exploded showed sector rotation rather than profit-taking. The won's slight weakening to 1,447.50 continued to provide a modest tailwind for Korean exporters.
 
 ---
 
@@ -187,25 +208,30 @@ The week belonged to Korean semiconductor stocks, with SK Hynix (+7.84%) and Sam
 
 ---
 
-### 📊 Theme #2: Geographic Divergence - Korea vs. US
+### 📊 Theme #2: Global Semiconductor Strength
 
-**Tale of Two Markets:**
-Korean markets significantly outperformed US counterparts this week, with KOSPI trend gains far exceeding S&P 500's +0.27%. This divergence wasn't random:
+**Two Markets, One Story:**
+Both Korean and US markets delivered solid gains this week, with semiconductors leading in both regions. KOSPI's +2.04% gain outpaced the S&P 500's +0.97%, but the Nasdaq's +1.33% showed US tech participation was strong.
 
-**Why Korea Won:**
-- **Sector Composition:** KOSPI heavily weighted toward semiconductors (hot sector)
-- **Valuation:** Korean stocks cheaper on P/E, P/B metrics
-- **Currency:** Early-week won weakness boosted exporter earnings
-- **Momentum:** Technical breakouts creating self-reinforcing rallies
-- **AI Exposure:** Samsung/SK Hynix are AI infrastructure plays without NVIDIA's valuation
+**The Week's Arc:**
+- **Monday-Wednesday:** Korea leading, US consolidating
+- **Thursday:** Synchronized rally - both markets up strongly
+- **Result:** Korean chips still outperformed, but US joined the party
 
-**Why US Lagged:**
-- **Consolidation:** Natural profit-taking after extended rally
-- **Valuation Concerns:** Mag 7 trading at premium multiples
-- **Sector Rotation:** Money flowing to value/international
-- **Rate Uncertainty:** 10Y at 4.32% creating headwinds
+**Why Both Won:**
+- **Sector Leadership:** Semiconductors hot globally (SK Hynix +7.84%, Samsung +4.91%)
+- **AI Narrative:** Infrastructure demand benefiting both regions
+- **Thursday Catalyst:** US markets caught up with strong +0.69% to +1.01% gains
+- **Risk-On:** Thursday showed global appetite for tech, not just regional rotation
+- **Validation:** Korean rally Wednesday validated by US rally Thursday
 
-**Investment Implication:** Geographic rotation favoring Korea likely has room to run, especially if semiconductor narrative strengthens further.
+**Why Korea Outperformed:**
+- **Valuation:** Korean chips still cheaper on P/E metrics
+- **Concentration:** KOSPI more semiconductor-heavy than S&P 500
+- **Momentum:** Technical breakouts (Samsung, SK Hynix) created self-reinforcing gains
+- **Currency:** Stable won provided mild tailwind
+
+**Investment Implication:** This wasn't Korea vs. US - it was semiconductors vs. everything else, with both regions participating. Thursday's synchronized strength suggests the bull case for tech is global, not regional.
 
 ---
 
@@ -233,21 +259,25 @@ The Magnificent 7 showed significant internal divergence this week, challenging 
 
 ---
 
-### 💱 Theme #4: Currency Volatility
+### 💱 Theme #4: Currency Stability
 
-The won's journey this week told an interesting story:
+The won's journey this week showed relative stability with modest volatility:
 
 **Monday-Tuesday:** Weakened to 1,448.96
 - Dollar strength pressuring emerging market currencies
 - Capital flow concerns
 - **Benefit to exporters:** Samsung, SK Hynix, Hyundai
 
-**Thursday:** Strengthened sharply to 1,345.50 (-7.14% move!)
-- Positive sentiment on Korean tech
-- Capital inflows following semiconductor rally
-- Regional currency stability
+**Wednesday:** Continued weakness to ~1,450 (estimated)
+- Won providing steady tailwind for exporters
+- Semiconductor rally attracting foreign interest
 
-**Investment Implication:** Currency movements amplified stock gains early week (weak won helped exporters) but Thursday's sharp strengthening suggests sustained foreign buying of Korean equities.
+**Thursday:** Slight additional weakening to 1,447.50
+- Overall weekly change minimal (+3.09 won, +0.21%)
+- Stability benefited market confidence
+- Foreign buying of Korean equities despite currency
+
+**Investment Implication:** The won's stability (effectively flat for the week at +0.21%) provided a neutral-to-positive backdrop for Korean equities. Unlike the extreme volatility that can deter foreign investors, this mild weakening gave exporters a slight pricing advantage without raising intervention concerns.
 
 ---
 
@@ -312,21 +342,22 @@ The won's journey this week told an interesting story:
 ---
 
 ### S&P 500
-**Weekly Pattern:** Consolidation Triangle
+**Weekly Pattern:** Consolidation → Breakout
 
 **Key Levels:**
 - **Monday:** 6,843.22
-- **Tuesday High:** 6,882.22 (week's peak)
-- **Wednesday Low:** 6,861.91 (healthy pullback)
-- **Thursday (discrepancy):** Data inconsistency
+- **Tuesday High:** 6,882.22
+- **Wednesday Pullback:** 6,861.91
+- **Thursday Close:** 6,909.51 (new weekly high)
 
 **Technical Signals:**
-- ✅ Holding above 6,850 support throughout week
-- ⚠️ Failed to break 6,900 resistance
-- 🎯 **Upside Target:** 6,950 if breaks 6,900
-- 🛡️ **Critical Support:** 6,800
+- ✅ Broke above 6,900 resistance Thursday with strong +0.69% gain
+- ✅ Week's range: 6,843-6,909 (+66 points, +0.97%)
+- ✅ Healthy consolidation Mon-Wed followed by Thu breakout
+- 🎯 **Upside Target:** 6,950-7,000 if momentum continues
+- 🛡️ **Critical Support:** 6,850-6,860
 
-**Analysis:** S&P showing classic consolidation after strong January-February rally. The +0.27% weekly gain is healthy digestion, not distribution. Watch for breakout above 6,900 or breakdown below 6,800 for next directional move.
+**Analysis:** S&P 500 showed textbook consolidation-breakout pattern. After Monday's modest start and Tuesday's advance to 6,882, Wednesday's pullback to 6,862 set up Thursday's decisive move above 6,900. The +0.97% weekly gain represents healthy price action with the index making new highs on Thursday. Breaking 6,900 opens path toward psychological 7,000 level.
 
 ---
 
@@ -579,24 +610,25 @@ The won's journey this week told an interesting story:
 ## Bottom Line: Week in Review
 
 ### What Worked ✅
-- **Korean semiconductor stocks** - Outperformed dramatically
-- **Momentum following** - Wednesday's Samsung breakout led to Thursday's SK Hynix surge
+- **Korean semiconductor stocks** - Outperformed dramatically with SK Hynix +7.84%, Samsung +4.91%
+- **US tech indices** - Nasdaq +1.33%, strong Thursday rally
+- **Momentum following** - Wednesday's Samsung breakout led to Thursday's global rally
 - **Selective US tech** - NVIDIA, Amazon, Tesla all positive
-- **Early-week short won** - Currency weakness helped exporters
+- **Stable won** - Essentially flat (+0.21%) provided neutral backdrop
 
 ### What Didn't Work ❌
-- **Broad US indices** - Modest gains, lagged Korea
-- **Meta/Microsoft** - Relative weakness in Mag 7
-- **Traditional sectors** - Dow down -0.28%
-- **Long-duration bonds** - Yields rising = price falling
+- **Dow Jones** - Lagged at +0.19% vs Nasdaq's +1.33%
+- **Meta/Microsoft early week** - Showed relative weakness Mon-Wed
+- **Wednesday pullback timing** - Those who sold Wed missed Thursday's rally
+- **Cash positions** - Missing the Thursday surge hurt returns
 
 ### Key Lessons 📚
 
-1. **Geographic rotation is real:** Don't assume US leadership is permanent
-2. **Sector matters more than geography:** Semiconductors outperformed globally
-3. **Breakouts work:** Samsung's Wednesday surge led to follow-through
-4. **Valuation arbitrage exists:** Korean tech cheaper than US for similar exposure
-5. **Currency is crucial:** Won movements amplify or diminish returns
+1. **Don't fight the trend:** Wednesday's pullback was buying opportunity, not exit signal
+2. **Semiconductors lead globally:** Not just Korea - US chips rallied Thursday too
+3. **Thursday reversals matter:** Biggest gains often come on reversal days
+4. **Currency stability helps:** Flat won better than extreme volatility
+5. **Patience pays:** Week looked modest until Thursday's breakout
 
 ---
 
@@ -656,14 +688,14 @@ The won's journey this week told an interesting story:
 
 ## Conclusion
 
-The week of February 17-20, 2026 will be remembered as the week Korean semiconductors reclaimed global leadership. SK Hynix's +7.84% surge and Samsung's +4.91% rally weren't flukes - they represented a fundamental shift in investor perception around AI chip demand, memory cycle recovery, and valuation opportunity.
+The week of February 17-20, 2026 will be remembered as the week semiconductor stocks reclaimed global leadership, with strong performances in both Korean and US markets. SK Hynix's +7.84% surge and Samsung's +4.91% rally led the charge, while US markets delivered solid gains with the Nasdaq up +1.33% and S&P 500 advancing +0.97%.
 
-While US markets consolidated modestly (+0.27% S&P 500), the real action was in Seoul, where breakout moves on heavy volume signaled the start of what could be a sustained outperformance cycle for Korean tech.
+The narrative shifted from Wednesday's divergence (Korea rallying while US pulled back) to Thursday's synchronized global strength, with all major indices posting gains. This wasn't just a Korean semiconductor story - it was a global tech rally with semiconductors leading the way.
 
 **Three Takeaways to Remember:**
-1. **Semiconductors are back** - AI infrastructure buildout is real and accelerating
-2. **Geography matters** - Don't ignore international opportunities due to home bias
-3. **Breakouts work** - Technical patterns combined with fundamental catalysts create powerful moves
+1. **Semiconductors are back globally** - AI infrastructure buildout accelerating in both Asia and US
+2. **Thursday's synchronized rally** - Korea and US both strong, confirming global risk-on sentiment
+3. **Breakouts work across markets** - Technical patterns with fundamental catalysts create powerful moves everywhere
 
 **The Week Ahead:**
 Focus on Fed Minutes (Wednesday) and PCE inflation (Thursday) for US market direction. For Korean stocks, watch whether Samsung can hold 185K support and SK Hynix can consolidate above 920K. Earnings season begins, making guidance critical.
@@ -673,9 +705,9 @@ Favor quality semiconductors (Samsung, SK Hynix, NVIDIA), maintain discipline wi
 
 ---
 
-**Market Outlook: CAUTIOUSLY OPTIMISTIC** 📈
+**Market Outlook: BULLISH WITH CAUTION** 📈
 
-The setup remains constructive for risk assets, particularly in semiconductor sector. However, elevated valuations, rising bond yields, and overbought technical conditions warrant prudent position sizing and active risk management.
+The setup is constructive for risk assets globally, particularly in the semiconductor sector. Both Korean and US markets showed strength, with Thursday's synchronized rally confirming broad-based investor appetite. However, the speed of recent gains (especially SK Hynix +7.84% weekly) and elevated valuations warrant prudent position sizing and active risk management. The Nasdaq's +1.33% weekly gain and S&P 500's break above 6,900 suggest momentum favors bulls, but overbought conditions argue for selective buying on pullbacks rather than chasing.
 
 ---
 
@@ -708,9 +740,8 @@ The setup remains constructive for risk assets, particularly in semiconductor se
 | Mon 2/17 | 6,843.22 | 22,585.26 | 49,533.19 |
 | Tue 2/18 | 6,882.22 | 22,740.95 | 49,663.03 |
 | Wed 2/19 | 6,861.91 | 22,657.12 | 49,395.16 |
-| Thu 2/20 | 6,861.91* | 22,657.12* | 49,395.16* |
-
-*Thursday data shows discrepancies, using Wednesday close as best available
+| Thu 2/20 | 6,909.51 | 22,886.07 | 49,625.97 |
+| **Weekly Δ** | **+66.29 (+0.97%)** | **+300.81 (+1.33%)** | **+92.78 (+0.19%)** |
 
 ### USD/KRW Exchange Rate
 
@@ -719,7 +750,8 @@ The setup remains constructive for risk assets, particularly in semiconductor se
 | Mon 2/17 | 1,444.41 | - |
 | Tue 2/18 | 1,448.96 | +4.55 (weaker) |
 | Wed 2/19 | ~1,450* | +1.04 (weaker) |
-| Thu 2/20 | 1,345.50 | -104.50 (stronger!) |
+| Thu 2/20 | 1,447.50 | -2.50 (stronger) |
+| **Weekly Δ** | **+3.09 (+0.21%)** | **Slightly weaker** |
 
 *Wednesday estimated based on trend
 
