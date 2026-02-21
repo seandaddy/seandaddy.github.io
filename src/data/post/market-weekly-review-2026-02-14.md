@@ -1,14 +1,14 @@
 ---
 publishDate: 2026-02-14T12:00:00Z
-title: "Weekly Market Review - February 14, 2026"
-excerpt: "Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks."
-category: "Market Analysis"
-tags: ["stocks", "korean-market", "us-market", "magnificent-7", "weekly-review", "investing"]
-author: "Sangyong"
+title: 'Weekly Market Review - February 14, 2026'
+excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'weekly-review', 'investing']
+author: 'Sangyong'
 ---
 
 **Week of February 10-13, 2026**
-*(Shortened Week - Markets Closed Friday for Lincoln's Birthday Observed)*
+_(Shortened Week - Markets Closed Friday for Lincoln's Birthday Observed)_
 
 ---
 
@@ -19,17 +19,20 @@ The week of February 10-13, 2026 showcased a **historic divergence** between Kor
 ### Week in Numbers (4 Trading Days)
 
 **🇰🇷 Korean Markets - EXCEPTIONAL PERFORMANCE**
+
 - **Samsung Electronics:** ₩165,800 → ₩181,200 **(+9.3%** 🔥)
 - **SK Hynix:** ₩876,000 → ₩880,000 **(+0.5%)**
 - **Hyundai Motor:** ₩480,500 → ₩499,000 **(+3.8%)**
 - **KOSPI:** Hit **5,522 on Wednesday** - FIRST TIME ABOVE 5,500!
 
 **🇺🇸 U.S. Markets - MIXED TO NEGATIVE**
+
 - **Magnificent 7:** Mostly declined, led by Apple (-2.27% Thu), NVIDIA (-2.21% Thu)
 - **Sector Rotation:** Capital flowing from tech to value, materials, energy
 - **Indices:** Modest gains early week, pressure late week
 
 **💱 Currency & Bonds**
+
 - **USD/KRW:** 1,460 → 1,439 (won strengthening ~1.4%)
 - **US 10Y Treasury:** 4.143% → 4.056% (-8.7 bps, flight to safety)
 
@@ -38,7 +41,9 @@ The week of February 10-13, 2026 showcased a **historic divergence** between Kor
 ## 🎯 Top 5 Takeaways
 
 ### 1. **Korean Semiconductor Breakout - Historic Rally**
+
 Samsung Electronics surged **+9.3%** in just 4 days, breaking out to new highs while U.S. tech sold off. This represents:
+
 - Strongest weekly performance for Samsung in months
 - Validation of AI chip supply chain strength
 - Foreign institutional buying driving momentum
@@ -47,7 +52,9 @@ Samsung Electronics surged **+9.3%** in just 4 days, breaking out to new highs w
 **Why it matters:** Korean chips offer better value (Samsung 12x P/E) vs. U.S. peers (NVIDIA 35x P/E) with similar AI exposure.
 
 ### 2. **U.S. Tech Under Pressure - Valuation Concerns**
+
 The Magnificent 7 faced broad selling pressure:
+
 - **Apple:** Down across the week, -5% on single day
 - **NVIDIA:** -2.21% Thursday despite AI leadership
 - **Meta, Amazon, Google:** All declined mid-week
@@ -56,7 +63,9 @@ The Magnificent 7 faced broad selling pressure:
 **Driver:** Market questioning AI monetization timeline and $175-185B capex plans (Alphabet).
 
 ### 3. **Historic Market Divergence - Korea vs. U.S.**
+
 Rarely do we see such stark performance gaps:
+
 - Korean tech **UP** while U.S. tech **DOWN**
 - Semiconductors leading in Korea, lagging in U.S.
 - Suggests supply chain strength > end-user AI concerns
@@ -64,6 +73,7 @@ Rarely do we see such stark performance gaps:
 **Investment implication:** Geographic diversification paying off.
 
 ### 4. **Sector Rotation Accelerating**
+
 - **Materials & Energy:** +10% YTD (sector leaders)
 - **Technology:** -1.3% YTD despite AI theme
 - **Bonds rallying:** 10Y yield down 9 bps (defensive positioning)
@@ -71,7 +81,9 @@ Rarely do we see such stark performance gaps:
 Classic late-cycle rotation pattern emerging.
 
 ### 5. **Won Strength Supporting Korean Stocks**
+
 USD/KRW declining from 1,460 → 1,439 shows:
+
 - Capital inflows to Korea
 - Foreign confidence in Korean equities
 - Exporters managing FX well despite stronger won
@@ -82,25 +94,25 @@ USD/KRW declining from 1,460 → 1,439 shows:
 
 ### Korean Stocks - Week of Feb 10-13
 
-| Stock | Mon Open | Thu Close | Change (₩) | % Change | Volume Trend |
-|-------|----------|-----------|------------|----------|--------------|
-| **Samsung (005930)** | ₩165,800 | ₩181,200 | +₩15,400 | **+9.3%** 🔥 | High buying |
-| **SK Hynix (000660)** | ₩876,000 | ₩880,000 | +₩4,000 | **+0.5%** | Moderate |
-| **Hyundai (005380)** | ₩480,500 | ₩499,000 | +₩18,500 | **+3.8%** | Strong EV demand |
+| Stock                 | Mon Open | Thu Close | Change (₩) | % Change     | Volume Trend     |
+| --------------------- | -------- | --------- | ---------- | ------------ | ---------------- |
+| **Samsung (005930)**  | ₩165,800 | ₩181,200  | +₩15,400   | **+9.3%** 🔥 | High buying      |
+| **SK Hynix (000660)** | ₩876,000 | ₩880,000  | +₩4,000    | **+0.5%**    | Moderate         |
+| **Hyundai (005380)**  | ₩480,500 | ₩499,000  | +₩18,500   | **+3.8%**    | Strong EV demand |
 
 **KOSPI Weekly:** 5,301 (Mon) → ~5,360 (Thu avg), **Peak 5,522 (Wed)** ✨
 
 ### U.S. Magnificent 7 - Week Performance
 
-| Stock | Ticker | Weekly Trend | Thursday Close | Key Theme |
-|-------|--------|--------------|----------------|-----------|
-| **Apple** | AAPL | ❌ Down | $261.73 (-5.00%) | Services growth concerns |
-| **Microsoft** | MSFT | ❌ Down | $401.84 (-0.63%) | Azure competition |
-| **Alphabet** | GOOGL | ❌ Down | $322.86 (-2.53%) | Capex worries |
-| **Amazon** | AMZN | ❌ Down | $199.60 (-2.25%) | Retail softness |
-| **NVIDIA** | NVDA | ❌ Down | $186.94 (-2.21%) | Profit-taking despite AI strength |
-| **Meta** | META | ❌ Down | $649.81 (-2.82%) | Ad market uncertainty |
-| **Tesla** | TSLA | ✅ Flat | $417.07 (+0.09%) | FSD optimism |
+| Stock         | Ticker | Weekly Trend | Thursday Close   | Key Theme                         |
+| ------------- | ------ | ------------ | ---------------- | --------------------------------- |
+| **Apple**     | AAPL   | ❌ Down      | $261.73 (-5.00%) | Services growth concerns          |
+| **Microsoft** | MSFT   | ❌ Down      | $401.84 (-0.63%) | Azure competition                 |
+| **Alphabet**  | GOOGL  | ❌ Down      | $322.86 (-2.53%) | Capex worries                     |
+| **Amazon**    | AMZN   | ❌ Down      | $199.60 (-2.25%) | Retail softness                   |
+| **NVIDIA**    | NVDA   | ❌ Down      | $186.94 (-2.21%) | Profit-taking despite AI strength |
+| **Meta**      | META   | ❌ Down      | $649.81 (-2.82%) | Ad market uncertainty             |
+| **Tesla**     | TSLA   | ✅ Flat      | $417.07 (+0.09%) | FSD optimism                      |
 
 **6 of 7 declined** - broad tech weakness.
 
@@ -109,18 +121,21 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ## Day-by-Day Recap
 
 ### **Monday, February 10** - Mixed Start
+
 - U.S.: Dow +0.24%, Nasdaq -0.41% (rotation beginning)
 - Korea: KOSPI +0.07% (modest start)
 - Samsung -0.36%, SK Hynix -1.24% (early consolidation)
 - Theme: AI monetization questions emerging
 
 ### **Tuesday, February 11** - Korean Strength Emerges
+
 - U.S.: S&P flat, Nasdaq -0.16% (tech pressure continues)
 - Korea: KOSPI +1.00% 🚀 (breakout day)
 - Samsung +1.21%, SK Hynix +1.83%, **Hyundai +5.93%!**
 - Theme: Semiconductor recovery cycle confirmed
 
 ### **Wednesday, February 12** - HISTORIC DAY
+
 - **KOSPI +3.13% → 5,522.27 - ALL-TIME HIGH!** 🎉
 - **Samsung +6.44%** (₩178,600) - massive breakout
 - SK Hynix +3.26%, Hyundai +0.59%
@@ -128,6 +143,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 - Theme: **Complete divergence** - Korea soaring, U.S. falling
 
 ### **Thursday, February 13** - Consolidation
+
 - Korea: KOSPI -0.28% (healthy pullback after historic rally)
 - Samsung +1.46%, SK Hynix +0.92%, Hyundai +1.42%
 - U.S.: Mixed (S&P +0.05%, Nasdaq -0.22%)
@@ -141,6 +157,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ### 🔥 Primary Theme: The Great Divergence
 
 **Korean Bull Case Validated:**
+
 1. **HBM Demand:** SK Hynix and Samsung dominating high-bandwidth memory for AI chips
 2. **Valuation Gap:** Korean chips trading 12-15x P/E vs. U.S. 30-35x
 3. **Supply Chain Power:** Korea controls critical semiconductor inputs
@@ -148,6 +165,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 5. **Government Support:** Korean chip subsidies and R&D support
 
 **U.S. Tech Bear Case Emerging:**
+
 1. **Valuation Concerns:** $175-185B Alphabet capex announcement spooked investors
 2. **Monetization Questions:** When will AI investments pay off?
 3. **Regulatory Risks:** Antitrust pressures on Big Tech
@@ -157,12 +175,14 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ### 📊 Sector Rotation Deep Dive
 
 **Winners (YTD):**
+
 - Materials: +10%
 - Energy: +10%
 - Korean Tech: Strong week
 - Industrials: Steady
 
 **Losers (YTD):**
+
 - U.S. Technology: -1.3%
 - Communication Services: Weak
 - Consumer Discretionary: Mixed
@@ -172,6 +192,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ### 💰 Bond Market Signals
 
 **10-Year Treasury: 4.143% → 4.056% (-8.7 bps)**
+
 - Flight to safety amid tech volatility
 - Fed policy expectations shifting
 - Defensive positioning by institutions
@@ -183,12 +204,14 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ### 🌏 Geographic Divergence
 
 **Korea Outperforming:**
+
 - Technology strength
 - Export competitiveness
 - Semiconductor dominance
 - Foreign capital inflows
 
 **U.S. Underperforming:**
+
 - Tech valuation concerns
 - AI monetization uncertainty
 - Regulatory headwinds
@@ -221,10 +244,12 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ### Key Events
 
 **Monday, February 17:**
+
 - **U.S. Markets CLOSED** - Presidents Day holiday
 - Korean markets open (normal trading)
 
 **Economic Calendar:**
+
 - **Wednesday:** U.S. Retail Sales (Jan), PPI
 - **Thursday:** Philly Fed Manufacturing Index, Jobless Claims
 - **Friday:** Leading Economic Indicators
@@ -240,16 +265,19 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ### Technical Levels
 
 **S&P 500:**
+
 - Support: 6,800
 - Resistance: 7,000
 - Trend: Neutral to slightly bearish
 
 **KOSPI:**
+
 - Support: 5,300
 - Resistance: 5,550
 - Trend: Bullish (broke out above 5,500!)
 
 **Samsung:**
+
 - Support: ₩175,000
 - Resistance: ₩185,000
 - Target: ₩200,000 (psychological level)
@@ -259,6 +287,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 ## Investment Strategy Recommendations
 
 ### **Conservative Allocation**
+
 - **40% Bonds:** 10-year Treasuries at 4%+ attractive
 - **30% Korean Equities:** Samsung, SK Hynix, diversified Korea ETF
 - **20% U.S. Large Cap:** Quality dividend stocks (JNJ, PG, KO)
@@ -267,6 +296,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 **Rationale:** Preserve capital, earn income, selective growth exposure.
 
 ### **Balanced Allocation**
+
 - **50% Equities:** 25% Korean tech, 25% U.S. value/materials
 - **30% Bonds:** Mix of Treasuries and IG corporate
 - **10% Commodities:** Energy, materials exposure
@@ -275,6 +305,7 @@ USD/KRW declining from 1,460 → 1,439 shows:
 **Rationale:** Participate in rotation, hedge with bonds, maintain liquidity.
 
 ### **Aggressive Allocation**
+
 - **70% Equities:** 40% Korean tech, 20% U.S. value, 10% emerging markets
 - **20% Bonds:** Short-duration for flexibility
 - **10% Alternatives:** Commodities, sector rotation plays
@@ -310,4 +341,4 @@ The week of February 10-13, 2026 will be remembered as a **watershed moment** - 
 
 ---
 
-*This report is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results.*
+_This report is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results._
