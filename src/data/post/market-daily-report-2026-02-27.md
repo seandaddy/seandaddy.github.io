@@ -29,8 +29,8 @@ author: "Sangyong"
 - 10-Year Treasury: 3.454%
 
 ## Korean Indices
-- KOSPI: 6,244.13|63.14 -1.00%상승
-- KOSDAQ: 1,192.78|4.63 +0.39%상승
+- KOSPI: 6,244.13|63.14 -1.00%
+- KOSDAQ: 1,192.78|4.63 +0.39%
 
 ## Korean Stocks
 - Samsung: 218,000|-1500.0|-0.69%
