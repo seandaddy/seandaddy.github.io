@@ -1,10 +1,10 @@
 ---
 publishDate: 2026-03-04T12:00:00Z
-title: "일본의 미국을 위한 병기창화 계획"
- excerpt: "미국의 재산업화와 방위산업 위기, 그리고 일본이 America's Arsenal이 될 수 있는 이유에 대한 분석. Rie Yana의 글을 번역"
-category: "Geopolitics"
-tags: ["japan", "defense", "us-alliance", "industrial-policy", "semiconductors", "geopolitics"]
-author: "Sangyong"
+title: '일본의 미국을 위한 병기창화 계획'
+excerpt: "미국의 재산업화와 방위산업 위기, 그리고 일본이 America's Arsenal이 될 수 있는 이유에 대한 분석. Rie Yana의 글을 번역"
+category: 'Geopolitics'
+tags: ['japan', 'defense', 'us-alliance', 'industrial-policy', 'semiconductors', 'geopolitics']
+author: 'Sangyong'
 ---
 
 한국은 이미 조선·방산·반도체 등에서 산업적 깊이를 갖춘 유력한 후보지만, 미·일 산업 통합이 가속화되는 상황에서 수동적 하청이 아니라 공동개발·공동표준 설정에 적극 참여하지 않으면 전략적 변방으로 밀릴 위험이 있다. 따라서 방위산업 규제 완화와 생산 인허가 속도 제고, 한·미 기술동맹의 제도화 및 FDI 유치를 통해 '속도와 신뢰'를 동시에 확보하는 능동적 산업안보 전략이 필요해 보인다.
