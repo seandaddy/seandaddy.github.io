@@ -1,3 +1,11 @@
+---
+title: '뭔가 이상하다'
+publishDate: 2026-03-07T00:00:00Z
+author: 'Sangyong'
+tags: ['Macroeconomics', 'AI', 'Industrial Policy']
+description: ''
+---
+
 # AI? 관세? 아니면 이민 단속?
 
 지금 미국 거시경제에 대해 알아야 할 기본적인 사실은 세 가지다.
