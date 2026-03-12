@@ -1,7 +1,7 @@
 ---
 publishDate: 2026-03-12T12:00:00Z
 title: "Sovereign AI as Industrial Policy: South Korea’s Strategy in the Global AI Race"
-excerpt: "Artificial intelligence is increasingly treated by governments as **strategic economic infrastructure**, comparable to electricity, semiconductors, or telecommunications networks."
+excerpt: ""
 category: "AI and Future of AI"
 tags: ["AI", "korea", "Sovereign AI"]
 author: "Sangyong"
@@ -17,7 +17,7 @@ Among advanced economies, **South Korea provides one of the clearest examples of
 
 # 1. AI as National Industrial Policy
 
-South Korea’s government has explicitly framed AI as a **core growth engine** and a national strategic industry. The country aims to become **one of the world’s top three AI powers**, alongside the United States and China. ([The Korea Times](https://www.koreatimes.co.kr/amp/economy/20250829/korea-to-more-than-triple-ai-budget-to-727-bil-in-2026?utm_source=chatgpt.com "Korea to more than triple AI budget to $7.27 bil. in 2026 - The Korea Times"))
+South Korea’s government has explicitly framed AI as a **core growth engine** and a national strategic industry. The country aims to become **one of the world’s top three AI powers**, alongside the United States and China. ([Korea to more than triple AI budget to $7.27 bil. in 2026 - The Korea Times](https://www.koreatimes.co.kr/amp/economy/20250829/korea-to-more-than-triple-ai-budget-to-727-bil-in-2026?utm_source=chatgpt.com))
 
 This policy shift reflects several macroeconomic pressures:
 
