@@ -32,7 +32,7 @@ US markets declined on Wednesday, 2026-03-18, with the Nasdaq leading at -1.63%.
 1. **US Tech Selloff** - Major decline in tech sector
 1. **Tech Correction** - All Mag7 down, NVDA leading at -0.84%
 2. **Korean Recovery** - KOSPI +5.04%
-3. **Won Weakens** - KRW +1.09%
+3. **Won Weakens** - KRW +1.52%
 4. **Treasury Yields** - 10Y at 4.2%
 
 ---
@@ -85,9 +85,9 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 ### Currency Markets
 
 **USD/KRW:**
-- **Rate:** ₩1,501
-- **Change:** +₩16.23
-- **% Change:** +1.09% (KRW Weakness)
+- **Rate:** ₩1,507
+- **Change:** +₩22.51
+- **% Change:** +1.52% (KRW Weakness)
 
 **Analysis:** The Korean won weakened against the US dollar, a typical reaction to market volatility.
 
@@ -102,11 +102,11 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 | Stock | Symbol | Price | Change | % Change | Trend |
 |-------|--------|-------|--------|----------|-------|
-| **Samsung** | 005930 | ₩208,500 | +0.0 | **0.0%** | 🟡 |
-| **SK Hynix** | 000660 | ₩1,056,000 | +0.0 | **0.0%** | 🟡 |
-| **Hyundai** | 005380 | ₩545,000 | +0.0 | **0.0%** | 🟡 |
+| **Samsung** | 005930 | ₩190,000 | +18500.0 | **+9.74%** | 🟢 |
+| **SK Hynix** | 000660 | ₩955,000 | +101000.0 | **+10.58%** | 🟢 |
+| **Hyundai** | 005380 | ₩530,000 | +15000.0 | **+2.83%** | 🟢 |
 
-**Analysis:** Korean stocks held steady, showing no significant movement.
+**Analysis:** All Korean stocks advanced, showing broad-based strength in the market.
 
 ---
 
@@ -118,7 +118,7 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 - 🇺🇸 Nasdaq -1.46%, S&P -1.36%, Dow -1.63%
 - 🇺🇸 NVDA -0.84%
 - 🇰🇷 KOSPI +5.04%, KOSDAQ +2.41%
-- 💱 KRW +1.09% (strength)
+- 💱 KRW +1.52% (strength)
 
 ---
 
@@ -148,7 +148,7 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 ### Theme 3: Currency Movement
 
-**The Move:** KRW +1.09%
+**The Move:** KRW +1.52%
 
 **Why This Matters:**
 - Won weakening significantly
@@ -289,7 +289,7 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 **The Good:**
 ✅ Korean market +5.04% recovery
-✅ KRW +1.09% shows confidence
+✅ KRW +1.52% shows confidence
 
 **The Bad:**
 ⚠️ Nasdaq -1.46% tech leading decline
