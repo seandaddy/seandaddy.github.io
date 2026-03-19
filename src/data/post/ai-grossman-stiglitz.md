@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "AI 시대의 그로스만-스티글리츠 역설"
 publishDate: 2026-03-19T12:00:00Z
 categories: [blog, reports]
