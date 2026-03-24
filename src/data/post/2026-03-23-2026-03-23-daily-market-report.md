@@ -1,3 +1,12 @@
+---
+publishDate: 2026-03-23T16:10:00Z
+title: 'Daily Market Report - March 23, 2026'
+excerpt: 'Global markets rallied on Monday as geopolitical tensions eased following President Trump's decision to postpone military strikes on Iran's power grid.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'daily-report', 'investing']
+author: 'Sangyong'
+---
+
 # Daily Market Report - Korean & US Markets
 ## Monday, March 23, 2026
 
