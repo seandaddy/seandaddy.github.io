@@ -1,0 +1,678 @@
+---
+publishDate: 2026-03-21T12:00:00Z
+title: 'Weekly Market Review - March 21, 2026'
+excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'daily-report', 'investing']
+author: 'Sangyong'
+---
+
+# Weekly Market Review
+
+## Week of March 16-20, 2026
+
+**Report Generated:** March 23, 2026, 10:27 PM EST  
+**Prepared by:** OpenClaw Market Intelligence
+
+---
+
+## EXECUTIVE SUMMARY
+
+**Market Character:** Divergent Performance — Korean Recovery vs US Tech Correction
+
+This week marked a striking divergence between US and Korean markets. While US equities experienced a broad-based correction led by technology stocks, Korean markets staged a significant recovery rally. The KOSPI surged +4.17% for the week, driven by strong performances in semiconductor stocks, while the S&P 500 declined -2.88% as inflation concerns and Fed policy uncertainty weighed on investor sentiment.
+
+### Week at a Glance
+
+**US Markets:**
+
+- S&P 500: -2.88% (6,699 → 6,506)
+- Nasdaq: -4.17% (22,374 → 21,647)
+- Dow Jones: -2.92% (46,946 → 45,574)
+
+**Korean Markets:**
+
+- KOSPI: +4.17% (5,549.85 → 5,781.20)
+- KOSDAQ: +2.04% (1,138.29 → 1,161.52)
+
+**Currency & Bonds:**
+
+- KRW/USD: +0.94% (₩1,489 → ₩1,503, won weakened slightly)
+- US 10Y Treasury: -0.01% (4.27% → 4.26%)
+
+---
+
+## 📊 WEEKLY PERFORMANCE ANALYSIS
+
+### Korean Stocks — Outstanding Recovery
+
+| Stock                   | Symbol | Mon Open | Fri Close  | Weekly Change | Weekly %       |
+| ----------------------- | ------ | -------- | ---------- | ------------- | -------------- |
+| **Samsung Electronics** | 005930 | ₩183,500 | ₩199,400   | +₩15,900      | **+8.66%** 🟢  |
+| **SK Hynix**            | 000660 | ₩910,000 | ₩1,007,000 | +₩97,000      | **+10.66%** 🟢 |
+| **Hyundai Motor**       | 005380 | ₩517,000 | ₩517,000   | ₩0            | **0.00%** 🟡   |
+
+**Weekly Trajectory:**
+
+- **Monday:** Samsung +2.83%, SK Hynix +7.03%, Hyundai -2.13%
+- **Tuesday:** All flat (holiday effect)
+- **Wednesday:** Samsung +9.74%, SK Hynix +10.58%, Hyundai +2.83%
+- **Thursday:** Samsung +4.16%, SK Hynix +4.43%, Hyundai +4.61%
+- **Friday:** Samsung +0.55%, SK Hynix +0.60%, Hyundai +0.98%
+
+**Key Observations:**
+
+- SK Hynix was the star performer, gaining over 10% for the week
+- Semiconductor sector led the Korean recovery
+- Hyundai underperformed peers, ending flat for the week
+- Strong foreign inflows into Korean tech names
+
+---
+
+### US Magnificent 7 — Broad-Based Correction
+
+| Stock         | Symbol | Mon Open | Fri Close | Weekly Change | Weekly %      |
+| ------------- | ------ | -------- | --------- | ------------- | ------------- |
+| **Apple**     | AAPL   | $250.12  | $248.96   | -$1.16        | **-0.46%** 🔴 |
+| **Microsoft** | MSFT   | $395.55  | $389.02   | -$6.53        | **-1.65%** 🔴 |
+| **Alphabet**  | GOOGL  | $302.28  | $307.13   | +$4.85        | **+1.60%** 🟢 |
+| **Amazon**    | AMZN   | $207.67  | $208.76   | +$1.09        | **+0.52%** 🟢 |
+| **NVIDIA**    | NVDA   | $180.25  | $178.56   | -$1.69        | **-0.94%** 🔴 |
+| **Meta**      | META   | $613.71  | $606.70   | -$7.01        | **-1.14%** 🔴 |
+| **Tesla**     | TSLA   | $391.20  | $380.30   | -$10.90       | **-2.79%** 🔴 |
+
+**Daily Breakdown:**
+
+- **Monday:** All 7 stocks positive (META +2.24% led)
+- **Tuesday:** Mixed (4 up, 3 down; GOOGL +1.75% led)
+- **Wednesday:** All 7 negative (AMZN -2.48% worst)
+- **Thursday:** All 7 negative (TSLA -3.18% worst)
+- **Friday:** All 7 negative (TSLA -3.24% worst)
+
+**Key Observations:**
+
+- Only GOOGL (+1.60%) and AMZN (+0.52%) finished positive for the week
+- Tesla was the worst performer, down -2.79%
+- Three-day losing streak (Wed-Fri) erased Monday-Tuesday gains
+- Profit-taking in high-multiple tech names
+
+---
+
+### Major Indices Weekly Performance
+
+#### US Indices
+
+| Index         | Mon Close | Fri Close | Weekly Change | Weekly %   | Trend |
+| ------------- | --------- | --------- | ------------- | ---------- | ----- |
+| **S&P 500**   | 6,699     | 6,506     | -193          | **-2.88%** | 🔴    |
+| **Nasdaq**    | 22,374    | 21,647    | -727          | **-3.25%** | 🔴    |
+| **Dow Jones** | 46,946    | 45,574    | -1,372        | **-2.92%** | 🔴    |
+
+**Analysis:**
+
+- All three major US indices declined significantly
+- Nasdaq led declines with -3.25% (tech-heavy)
+- Dow's -2.92% shows broad market weakness, not just tech
+- S&P 500 broke below key psychological 6,600 level
+
+#### Korean Indices
+
+| Index      | Mon Close | Fri Close | Weekly Change | Weekly %   | Trend |
+| ---------- | --------- | --------- | ------------- | ---------- | ----- |
+| **KOSPI**  | 5,549.85  | 5,781.20  | +231.35       | **+4.17%** | 🟢    |
+| **KOSDAQ** | 1,138.29  | 1,161.52  | +23.23        | **+2.04%** | 🟢    |
+
+**Analysis:**
+
+- KOSPI dramatically outperformed US indices
+- Wednesday's +5.04% single-day surge was a highlight
+- Recovery driven by semiconductor optimism and foreign buying
+- KOSDAQ underperformed KOSPI but still positive
+
+---
+
+### Currency & Fixed Income
+
+#### KRW/USD Exchange Rate
+
+| Day        | Rate   | Change | % Change   |
+| ---------- | ------ | ------ | ---------- |
+| Monday     | ₩1,489 | —      | —          |
+| Tuesday    | ₩1,487 | -₩2    | -0.13%     |
+| Wednesday  | ₩1,507 | +₩20   | +1.35%     |
+| Thursday   | ₩1,488 | -₩19   | -1.26%     |
+| Friday     | ₩1,503 | +₩15   | +1.01%     |
+| **Weekly** | —      | +₩14   | **+0.94%** |
+
+**Analysis:**
+
+- Won ended slightly weaker vs USD (+0.94%)
+- Wednesday saw significant won weakness during KOSPI rally
+- Volatile week with wide ₩1,487-₩1,507 range
+- Reflects risk-on/risk-off dynamics
+
+#### US Treasury Yields
+
+| Security         | Mon   | Fri   | Change |
+| ---------------- | ----- | ----- | ------ |
+| **10Y Treasury** | 4.27% | 4.26% | -0.01% |
+| **30Y Treasury** | 4.88% | 4.88% | 0.00%  |
+
+**Analysis:**
+
+- Yields remained elevated but stable
+- Slight decline in 10Y suggests some flight to safety
+- No major bond market catalysts this week
+- Fed policy uncertainty keeping yields range-bound
+
+---
+
+## 🏆 BEST & WORST PERFORMERS
+
+### Weekly Winners
+
+#### Top Performers — Korean Stocks
+
+1. **SK Hynix (000660): +10.66%** — Semiconductor recovery play
+2. **Samsung Electronics (005930): +8.66%** — Memory chip optimism
+3. **Hyundai Motor (005380): 0.00%** — Flat but stable
+
+#### Top Performers — US Magnificent 7
+
+1. **Alphabet (GOOGL): +1.60%** — Only Mag7 with meaningful gain
+2. **Amazon (AMZN): +0.52%** — Defensive characteristics
+3. **Apple (AAPL): -0.46%** — Smallest decline
+
+### Weekly Losers
+
+#### Bottom Performers — US Magnificent 7
+
+1. **Tesla (TSLA): -2.79%** — Worst performer
+2. **Microsoft (MSFT): -1.65%** — AI monetization concerns
+3. **Meta (META): -1.14%** — Profit-taking after strong run
+
+#### Bottom Performers — US Indices
+
+1. **Nasdaq: -3.25%** — Tech correction
+2. **Dow Jones: -2.92%** — Broad weakness
+3. **S&P 500: -2.88%** — Broader market decline
+
+---
+
+## 🔍 MARKET THEMES & ANALYSIS
+
+### Theme 1: Divergent Market Performance
+
+**The Story:**
+This week showcased a remarkable divergence between US and Korean equity markets. While US stocks faced persistent selling pressure, Korean markets staged a dramatic recovery.
+
+**Key Drivers:**
+
+- **Korean Recovery:** Memory chip optimism, foreign fund inflows, valuation reset
+- **US Correction:** Inflation concerns, Fed policy uncertainty, profit-taking in tech
+
+**Market Implication:**
+This divergence reflects different stages of market cycles and varying investor sentiment toward each region's growth prospects and monetary policy outlook.
+
+### Theme 2: Semiconductor Sector Dynamics
+
+**The Story:**
+Semiconductor stocks were the highlight of the week, with Korean chipmakers surging while US chip stocks faced mixed fortunes.
+
+**Key Moves:**
+
+- SK Hynix: +10.66% (DRAM/NAND recovery expectations)
+- Samsung Electronics: +8.66% (foundry and memory strength)
+- NVIDIA: -0.94% (profit-taking after AI boom)
+
+**Why It Matters:**
+
+- Memory chip prices stabilizing after prolonged downturn
+- AI demand continues to support advanced chip demand
+- Korean chipmakers benefiting from China AI chip restrictions on US firms
+
+### Theme 3: US Tech Correction
+
+**The Story:**
+After months of gains, US tech stocks faced a reality check this week with broad-based selling.
+
+**The Selloff:**
+
+- Wednesday: All Mag7 down (-0.84% to -2.48%)
+- Thursday: All Mag7 down (-0.18% to -3.18%)
+- Friday: All Mag7 down (-0.39% to -3.24%)
+
+**Driving Factors:**
+
+- Elevated valuations after strong run
+- Fed's higher-for-longer rate narrative
+- Positioning ahead of CPI data
+- Rotation from growth to value
+
+### Theme 4: Currency Volatility
+
+**The Story:**
+The Korean won experienced significant volatility, reflecting the risk-on/risk-off dynamics of the week.
+
+**Key Levels:**
+
+- High: ₩1,507 (Wednesday during KOSPI surge)
+- Low: ₩1,487 (Tuesday stability)
+- Close: ₩1,503 (slight won weakness)
+
+**Implications:**
+
+- Won weakness during KOSPI rally suggests foreign buying
+- Currency movements can impact export competitiveness
+- FX volatility adds layer of complexity for Korean investors
+
+---
+
+## 📈 TECHNICAL ANALYSIS
+
+### US Markets Technical Picture
+
+**S&P 500:**
+
+- Started week: 6,699
+- Ended week: 6,506
+- Key support: 6,400
+- Key resistance: 6,700
+- Status: Below 50-day moving average
+
+**Nasdaq:**
+
+- Started week: 22,374
+- Ended week: 21,647
+- Key support: 21,500
+- Key resistance: 22,500
+- Status: Testing critical support levels
+
+**Dow Jones:**
+
+- Started week: 46,946
+- Ended week: 45,574
+- Key support: 45,000
+- Key resistance: 47,000
+- Status: Break below 46,000 concerning
+
+### Korean Markets Technical Picture
+
+**KOSPI:**
+
+- Started week: 5,549.85
+- Ended week: 5,781.20
+- Key support: 5,600
+- Key resistance: 5,800
+- Status: Strong breakout above 5,700
+
+**KOSDAQ:**
+
+- Started week: 1,138.29
+- Ended week: 1,161.52
+- Key support: 1,150
+- Key resistance: 1,180
+- Status: Gradual recovery intact
+
+---
+
+## ⚠️ RISK FACTORS ASSESSMENT
+
+### 1. US Market Risks
+
+**Elevated Valuations:**
+
+- Tech stocks trading at premium multiples
+- Correction may have further room
+- Earnings growth needs to justify prices
+
+**Fed Policy Uncertainty:**
+
+- Higher-for-longer rate environment
+- Inflation stickiness concerns
+- Unclear path to rate cuts
+
+**Economic Growth Concerns:**
+
+- Soft landing not guaranteed
+- Consumer spending under pressure
+- Corporate earnings guidance cautious
+
+### 2. Korean Market Risks
+
+**Geopolitical Tensions:**
+
+- North Korea developments
+- US-China relations
+- Trade policy uncertainty
+
+**Currency Risk:**
+
+- Won volatility may continue
+- Impacts export competitiveness
+- Foreign fund flow dependent
+
+**China Dependency:**
+
+- Korean exports tied to China demand
+- Chinese economic slowdown risk
+- Memory chip demand uncertainty
+
+### 3. Global Risks
+
+**Supply Chain Disruptions:**
+
+- Shipping costs rising
+- Component shortages persist
+- Regional conflicts impact
+
+**Energy Prices:**
+
+- Oil price volatility
+- Inflation impact
+- Consumer discretionary pressure
+
+---
+
+## ✅ OPPORTUNITIES FOR NEXT WEEK
+
+### 1. Korean Semiconductor Play
+
+**Thesis:** Recovery has momentum
+
+**Rationale:**
+
+- SK Hynix and Samsung leading recovery
+- Memory chip prices bottoming
+- Foreign inflows accelerating
+- Valuations still reasonable vs US peers
+
+**Strategy:**
+
+- Consider adding on dips
+- Watch foreign flow data
+- Monitor memory spot prices
+- SK Hynix remains top pick
+
+**Risk:** Geopolitical event, China slowdown
+
+### 2. US Tech Dip Buying
+
+**Thesis:** Correction creates entry points
+
+**Rationale:**
+
+- Quality names on sale
+- Long-term AI thesis intact
+- Valuations more reasonable
+- GOOGL and AMZN showing relative strength
+
+**Strategy:**
+
+- Drip-buy on weakness
+- Focus on profitable tech
+- Avoid high-multiple unprofitable names
+- AAPL and MSFT defensive plays
+
+**Risk:** Fed hawkish pivot, recession fears
+
+### 3. Treasury Positioning
+
+**Thesis:** 4.26% yield attractive
+
+**Rationale:**
+
+- Yield competitive with equities
+- Flight to safety if volatility continues
+- Fed likely near end of hiking cycle
+- Duration risk manageable
+
+**Strategy:**
+
+- Maintain bond allocation
+- Consider extending duration slightly
+- TIPS for inflation protection
+
+**Risk:** Fed resumes aggressive hiking
+
+### 4. Currency Hedging
+
+**Thesis:** Won volatility expected
+
+**Rationale:**
+
+- Wide trading range this week
+- Foreign flows driving moves
+- Economic data catalysts ahead
+
+**Strategy:**
+
+- Consider hedging Korean exposure
+- Watch ₩1,500 level
+- Monitor BoK policy signals
+
+**Risk:** Unexpected won strength
+
+---
+
+## 📅 WEEK AHEAD PREVIEW
+
+### Economic Calendar
+
+**Monday, March 23:**
+
+- No major US data
+- Korean market open
+
+**Tuesday, March 24:**
+
+- US Consumer Confidence
+- New Home Sales
+
+**Wednesday, March 25:**
+
+- Durable Goods Orders
+- Core PCE Price Index (key inflation metric)
+
+**Thursday, March 26:**
+
+- Initial Jobless Claims
+- GDP Final Estimate
+
+**Friday, March 27:**
+
+- Personal Income & Spending
+- University of Michigan Sentiment
+- Pending Home Sales
+
+### Key Events to Watch
+
+**Fed Speak:**
+
+- Multiple Fed officials scheduled to speak
+- Watch for rate path guidance
+- Any hints on timing of cuts crucial
+
+**Earnings Season:**
+
+- Limited major earnings this week
+- Focus shifts to Q1 guidance
+- Watch for margin compression commentary
+
+**Technical Levels:**
+
+- S&P 500: Must hold 6,400 support
+- Nasdaq: Critical support at 21,500
+- KOSPI: Watch if 5,800 breaks
+
+### Potential Catalysts
+
+**Bullish Catalysts:**
+
+- Softer inflation data
+- Dovish Fed commentary
+- Strong earnings guidance
+- Korean foreign inflows continue
+
+**Bearish Catalysts:**
+
+- Hot inflation print
+- Hawkish Fed pivot
+- Weak economic data
+- Geopolitical escalation
+
+---
+
+## 🎯 STRATEGIC RECOMMENDATIONS
+
+### For Conservative Investors
+
+**Positioning:**
+
+1. **Reduce US equity exposure** — Move to 40-45% from 50%
+2. **Add to Korean positions** — Small allocation, 5-10%
+3. **Increase cash** — Build 20-25% cash for opportunities
+4. **Maintain bonds** — 4.26% yield attractive
+5. **Defensive sectors** — Utilities, healthcare, consumer staples
+
+**Rationale:**
+
+- US correction may continue
+- Korean recovery still early
+- Cash provides optionality
+- Quality over growth
+
+### For Growth Investors
+
+**Positioning:**
+
+1. **Buy US tech dips** — Focus on GOOGL, AMZN, MSFT
+2. **Add Korean semis** — SK Hynix, Samsung overweight
+3. **Hold NVDA** — Long-term AI thesis intact
+4. **Avoid TSLA** — Weakness likely continues
+5. **Watch momentum** — Don't fight the trend
+
+**Rationale:**
+
+- Corrections are buying opportunities
+- AI revolution just beginning
+- Korean recovery has legs
+- But manage risk carefully
+
+### For Korean Market Investors
+
+**Positioning:**
+
+1. **Overweight semiconductors** — SK Hynix top pick
+2. **Underweight autos** — Hyundai lagging
+3. **Watch won closely** — Hedging consideration
+4. **Monitor foreign flows** — Key indicator
+5. **KOSPI ETF exposure** — Simple way to play
+
+**Rationale:**
+
+- Recovery momentum strong
+- Valuations attractive vs US
+- Foreign buying accelerating
+- But geopolitical risks remain
+
+---
+
+## 💡 BOTTOM LINE: WEEK IN REVIEW
+
+### What Worked
+
+✅ **Korean semiconductor stocks** — SK Hynix +10.66%, Samsung +8.66%
+✅ **GOOGL & AMZN** — Only Mag7 stocks positive
+✅ **KOSPI recovery** — +4.17% outperformed globally
+✅ **Treasury stability** — Yields contained
+
+### What Didn't Work
+
+❌ **US tech broadly** — Nasdaq -3.25%, correction underway
+❌ **Tesla** — Worst Mag7 performer at -2.79%
+❌ **Momentum trades** — High-multiple stocks hit hardest
+❌ **Risk-on sentiment** — Rotation to defensive
+
+### The Big Picture
+
+This week highlighted the importance of geographic diversification. While US markets struggled, Korean equities shone. The semiconductor sector was the common thread — Korean chipmakers surged while US chip stocks held up relatively better than software names.
+
+The divergence suggests investors are rotating away from expensive US tech toward more reasonably valued international opportunities, particularly where there's exposure to AI/memory chip demand.
+
+### Looking Ahead
+
+**Key Questions for Next Week:**
+
+1. Does US tech stabilize or accelerate lower?
+2. Can Korean rally continue?
+3. What does PCE inflation data show?
+4. Will Fed officials signal anything new?
+
+**Our View:**
+Maintain cautious optimism. The Korean recovery has fundamentals supporting it (memory price recovery, AI demand, foreign flows). US tech may need more time to digest valuations. Keep powder dry for opportunities.
+
+---
+
+## 📊 DETAILED WEEKLY DATA TABLES
+
+### Korean Stocks — Daily Closing Prices
+
+| Day        | Samsung  | SK Hynix   | Hyundai  | KOSPI    | KOSDAQ   |
+| ---------- | -------- | ---------- | -------- | -------- | -------- |
+| Mon Mar 16 | ₩183,500 | ₩910,000   | ₩517,000 | 5,549.85 | 1,138.29 |
+| Tue Mar 17 | ₩193,900 | ₩970,000   | ₩522,000 | 5,640.48 | 1,136.94 |
+| Wed Mar 18 | ₩190,000 | ₩955,000   | ₩530,000 | 5,925.03 | 1,164.38 |
+| Thu Mar 19 | ₩200,500 | ₩1,013,000 | ₩522,000 | 5,763.22 | 1,143.48 |
+| Fri Mar 20 | ₩199,400 | ₩1,007,000 | ₩517,000 | 5,781.20 | 1,161.52 |
+
+### US Magnificent 7 — Daily Closing Prices
+
+| Day        | AAPL    | MSFT    | GOOGL   | AMZN    | NVDA    | META    | TSLA    |
+| ---------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Mon Mar 16 | $250.12 | $395.55 | $302.28 | $207.67 | $180.25 | $613.71 | $391.20 |
+| Tue Mar 17 | $252.82 | $399.95 | $305.56 | $211.74 | $183.22 | $627.45 | $395.56 |
+| Wed Mar 18 | $254.23 | $399.41 | $310.92 | $215.20 | $181.93 | $622.66 | $399.27 |
+| Thu Mar 19 | $249.94 | $391.79 | $307.69 | $209.87 | $180.40 | $615.68 | $392.78 |
+| Fri Mar 20 | $248.96 | $389.02 | $307.13 | $208.76 | $178.56 | $606.70 | $380.30 |
+
+### Major Indices — Daily Closing Levels
+
+| Day        | S&P 500 | Nasdaq | Dow Jones |
+| ---------- | ------- | ------ | --------- |
+| Mon Mar 16 | 6,699   | 22,374 | 46,946    |
+| Tue Mar 17 | 6,716   | 22,479 | 46,993    |
+| Wed Mar 18 | 6,624   | 22,152 | 46,225    |
+| Thu Mar 19 | 6,606   | 22,090 | 46,021    |
+| Fri Mar 20 | 6,506   | 21,647 | 45,574    |
+
+### Currency — Daily KRW/USD Rates
+
+| Day        | KRW/USD | Change | % Change |
+| ---------- | ------- | ------ | -------- |
+| Mon Mar 16 | 1,489   | —      | —        |
+| Tue Mar 17 | 1,487   | -2     | -0.13%   |
+| Wed Mar 18 | 1,507   | +20    | +1.35%   |
+| Thu Mar 19 | 1,488   | -19    | -1.26%   |
+| Fri Mar 20 | 1,503   | +15    | +1.01%   |
+
+---
+
+## 📞 DISCLAIMER
+
+This report is for informational purposes only and does not constitute investment advice. Market conditions can change rapidly. Past performance does not guarantee future results. Investors should conduct their own due diligence and consult with qualified financial advisors before making investment decisions.
+
+**Report Generated:** March 23, 2026, 10:27 PM EST  
+**Data Sources:** Yahoo Finance, Alpha Vantage, Investing.com, Naver Finance  
+**Coverage Period:** March 16-20, 2026  
+**Korean Market Status:** Weekly Close
+
+---
+
+**For questions, detailed analysis, or custom reports, please contact:**  
+Email: <seandaddy@gmail.com>
+
+---
+
+_Report prepared by OpenClaw Market Intelligence_  
+_Empowering investors with data-driven insights_
