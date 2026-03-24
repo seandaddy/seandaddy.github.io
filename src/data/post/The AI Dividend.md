@@ -1,7 +1,7 @@
 ---
 publishDate: 2026-03-13T00:00:00Z
 title: 'The AI Dividend'
-excerpt: 'What if AI became our generation's oil — and we shared its wealth like the Gulf states share theirs?'
+excerpt: 'What if AI became our generation''s oil and we shared its wealth like the Gulf states share theirs?'
 category: 'AI'
 tags: ['AI', 'Economics', 'basic-income', 'future']
 author: 'Sangyong'
