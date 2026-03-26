@@ -1,11 +1,12 @@
 ---
 publishDate: 2026-03-13T00:00:00Z
 title: 'The AI Dividend'
-excerpt: 'What if AI became our generation''s oil and we shared its wealth like the Gulf states share theirs?'
+excerpt: "What if AI became our generation's oil and we shared its wealth like the Gulf states share theirs?"
 category: 'AI'
 tags: ['AI', 'Economics', 'basic-income', 'future']
 author: 'Sangyong'
 ---
+
 # The AI Dividend: How We Can Fund a Basic Income Society Through Artificial Intelligence
 
 _What if AI became our generation's oil — and we shared its wealth like the Gulf states share theirs?_
@@ -55,13 +56,13 @@ Saudi Arabia's sweeping reform agenda acknowledges a central truth: a rentier st
 
 The parallel to AI is striking, but with a critical difference:
 
-| |Oil Wealth|AI Wealth|
-|---|---|---|
-|**Ownership**|State-owned land/resources|Privately owned companies & IP|
-|**Who captures value**|National governments|Shareholders & executives|
-|**Distribution mechanism**|Sovereign funds, subsidies|Stock market (excludes most)|
-|**Finite/infinite**|Finite|Theoretically infinite|
-|**Geographic concentration**|Gulf states|US, China tech hubs|
+|                              | Oil Wealth                 | AI Wealth                      |
+| ---------------------------- | -------------------------- | ------------------------------ |
+| **Ownership**                | State-owned land/resources | Privately owned companies & IP |
+| **Who captures value**       | National governments       | Shareholders & executives      |
+| **Distribution mechanism**   | Sovereign funds, subsidies | Stock market (excludes most)   |
+| **Finite/infinite**          | Finite                     | Theoretically infinite         |
+| **Geographic concentration** | Gulf states                | US, China tech hubs            |
 
 The Gulf states had a structural advantage: their governments _already owned_ the resource. With AI, we must **create** the mechanism for collective ownership — it won't arise naturally from market forces.
 
@@ -169,4 +170,3 @@ The question is whether we will build the institutions to make it happen — bef
 ---
 
 _The AI revolution is already here. The dividend is still waiting to be claimed._
-

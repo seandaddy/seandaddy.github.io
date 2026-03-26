@@ -1,10 +1,10 @@
 ---
 publishDate: 2026-03-07T12:00:00Z
-title: "Weekly Market Review - March 07, 2026"
-excerpt: "Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks."
-category: "Market Analysis"
-tags: ["stocks", "korean-market", "us-market", "magnificent-7", "weekly-review", "investing"]
-author: "Sangyong"
+title: 'Weekly Market Review - March 07, 2026'
+excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'weekly-review', 'investing']
+author: 'Sangyong'
 ---
 
 ## Week of March 2-6, 2026
@@ -16,6 +16,7 @@ author: "Sangyong"
 The week of March 2-6, 2026 delivered **extreme volatility** for Korean markets, featuring a dramatic selloff and recovery. The week began with KOSPI at 6,244 but saw it crash to a low of 5,093 on Wednesday before rebounding to 5,585 - a **-10.56% weekly decline**. This represented one of the most volatile weeks in recent Korean market history.
 
 **Key Developments:**
+
 - **Korean Market Crash & Recovery:** Monday-Wednesday saw a historic selloff with Samsung falling -28% from Monday's open to Wednesday's low, then recovering +11% on Thursday
 - **SK Hynix volatility:** Dropped from ₩1,099,000 to ₩839,000 (Wednesday low = -24%), then bounced back
 - **US Markets:** More stable with S&P 500 -2.06%, Nasdaq -1.59%
@@ -25,17 +26,20 @@ The week of March 2-6, 2026 delivered **extreme volatility** for Korean markets,
 ### Week in Numbers (5 Trading Days)
 
 **🇰🇷 Korean Markets - EXTREME VOLATILITY**
+
 - **Samsung Electronics:** ₩218,000 → ₩191,600 **(-12.11%** 📉)
 - **SK Hynix:** ₩1,099,000 → ₩941,000 **(-14.38%** 📉)
 - **Hyundai Motor:** ₩609,000 → ₩548,000 **(-10.02%** 📉)
 - **KOSPI:** 6,244 → 5,585 **(-10.56%)**, intraday low 5,093 Wednesday
 
 **🇺🇸 US Markets - MODERATE DECLINE**
+
 - **S&P 500:** 6,882 → 6,740 **(-2.06%)**
 - **Nasdaq:** 22,749 → 22,388 **(-1.59%)**
 - **Dow Jones:** 48,905 → 47,502 **(-2.87%)**
 
 **💱 Currency & Bonds**
+
 - **USD/KRW:** 1,432 → 1,461 (won weakening +2.0%)
 - **US 10Y Treasury:** 3.97% → 4.13% (+16 bps, yield spike)
 - **US 30Y Treasury:** 4.64% → 4.74% (+10 bps)
@@ -46,7 +50,9 @@ The week of March 2-6, 2026 delivered **extreme volatility** for Korean markets,
 ## 🎯 Top 5 Takeaways
 
 ### 1. **Korean Market Crash - Historic Volatility**
+
 The week saw one of the most dramatic Korean market selloffs in recent memory:
+
 - **Monday-Tuesday:** Sharp declines as Samsung -10%, SK Hynix -15%
 - **Wednesday:** Crash bottom at KOSPI 5,093 (-24% from Monday's 6,244)
 - **Thursday:** Massive rebound with Samsung +11.27%, SK Hynix +10.84%
@@ -55,7 +61,9 @@ The week saw one of the most dramatic Korean market selloffs in recent memory:
 **Why it matters:** The 24% drop in KOSPI from Monday's open to Wednesday's low was extreme. The Thursday recovery was equally dramatic, suggesting the selloff was driven by panic and short-term technical factors rather than fundamentals.
 
 ### 2. **Semiconductor Sector Leading Decline**
+
 Korean semiconductors bore the brunt of the selloff:
+
 - **SK Hynix:** Dropped from ₩1,099,000 (Mon) to ₩839,000 (Wed low) = **-24% in 3 days**
 - **Samsung:** Fell from ₩218,000 (Mon) to ₩172,200 (Wed low) = **-21% in 3 days**
 - **Thursday bounce:** Both stocks recovered ~10% in single session
@@ -63,7 +71,9 @@ Korean semiconductors bore the brunt of the selloff:
 **Driver:** Likely margin calls, algorithmic selling, and concerns about tech demand. The speed and magnitude suggest technical factors, not fundamental deterioration.
 
 ### 3. **US Markets Relatively Resilient**
+
 While US markets declined, the magnitude was far smaller than Korea:
+
 - **S&P 500:** -2.06% (vs Korea's -10.56%)
 - **Nasdaq:** -1.59% (tech held up better than Korean equivalents)
 - **Dow:** -2.87% (more exposed to industrial weakness)
@@ -71,7 +81,9 @@ While US markets declined, the magnitude was far smaller than Korea:
 **Why it matters:** The relative resilience suggests US markets aren't experiencing the same panic-driven selling. Global diversification helped this week.
 
 ### 4. **Won Weakness Accelerating**
+
 The won weakened significantly this week:
+
 - **USD/KRW:** 1,432 → 1,461 (+2.0%)
 - Both Monday and Friday saw +1.8% and +1.6% daily jumps
 - Currency volatility adding to Korean equity stress
@@ -79,7 +91,9 @@ The won weakened significantly this week:
 **Implication:** Won weakness typically benefits Korean exporters, but the equity crash overshadowed this. If won stabilizes, Korean stocks could recover faster.
 
 ### 5. **Bond Yields Spiking - Risk-Off Signal**
+
 Treasury yields rose sharply, indicating flight to safety:
+
 - **10Y:** +16 bps to 4.13%
 - **30Y:** +10 bps to 4.74%
 - **Korean 10Y:** +15 bps to 3.60%
@@ -92,48 +106,49 @@ Treasury yields rose sharply, indicating flight to safety:
 
 ### Korean Stocks - Week of March 2-6
 
-| Stock | Mon Open | Fri Close | Change (₩) | % Change | Volume Trend |
-|-------|----------|-----------|------------|----------|--------------|
-| **Samsung (005930)** | ₩218,000 | ₩191,600 | -₩26,400 | **-12.11%** 📉 | Extreme vol |
-| **SK Hynix (000660)** | ₩1,099,000 | ₩941,000 | -₩158,000 | **-14.38%** 📉 | Extreme vol |
-| **Hyundai (005380)** | ₩609,000 | ₩548,000 | -₩61,000 | **-10.02%** 📉 | High selling |
+| Stock                 | Mon Open   | Fri Close | Change (₩) | % Change       | Volume Trend |
+| --------------------- | ---------- | --------- | ---------- | -------------- | ------------ |
+| **Samsung (005930)**  | ₩218,000   | ₩191,600  | -₩26,400   | **-12.11%** 📉 | Extreme vol  |
+| **SK Hynix (000660)** | ₩1,099,000 | ₩941,000  | -₩158,000  | **-14.38%** 📉 | Extreme vol  |
+| **Hyundai (005380)**  | ₩609,000   | ₩548,000  | -₩61,000   | **-10.02%** 📉 | High selling |
 
 **KOSPI Weekly:** 6,244 (Mon) → 5,585 (Fri), **Low 5,093 (Wed)** 🔴
 
 ### US Indices - Week Performance
 
-| Index | Mon Close | Fri Close | Weekly Change | Weekly % |
-|-------|-----------|------------|---------------|----------|
-| **S&P 500** | 6,881.62 | 6,740.02 | -141.60 | **-2.06%** |
-| **Nasdaq** | 22,748.86 | 22,387.68 | -361.18 | **-1.59%** |
-| **Dow Jones** | 48,904.78 | 47,501.55 | -1,403.23 | **-2.87%** |
+| Index         | Mon Close | Fri Close | Weekly Change | Weekly %   |
+| ------------- | --------- | --------- | ------------- | ---------- |
+| **S&P 500**   | 6,881.62  | 6,740.02  | -141.60       | **-2.06%** |
+| **Nasdaq**    | 22,748.86 | 22,387.68 | -361.18       | **-1.59%** |
+| **Dow Jones** | 48,904.78 | 47,501.55 | -1,403.23     | **-2.87%** |
 
 ### US Magnificent 7 - Week Performance
 
-| Stock | Ticker | Weekly % | Status | Rank |
-|-------|--------|----------|--------|------|
-| **Amazon** | AMZN | **+4.26%** | Strong | 🥇 1st |
-| **Microsoft** | MSFT | **+4.57%** | Strong | 🥇 1st |
-| **NVIDIA** | NVDA | **+3.47%** | Positive | 🥉 3rd |
-| **Apple** | AAPL | **-1.47%** | Decline | 4th |
-| **Alphabet** | GOOGL | **-3.49%** | Weak | 5th |
-| **Tesla** | TSLA | **+0.75%** | Modest | 6th |
-| **Meta** | META | **+1.91%** | Positive | 7th |
+| Stock         | Ticker | Weekly %   | Status   | Rank   |
+| ------------- | ------ | ---------- | -------- | ------ |
+| **Amazon**    | AMZN   | **+4.26%** | Strong   | 🥇 1st |
+| **Microsoft** | MSFT   | **+4.57%** | Strong   | 🥇 1st |
+| **NVIDIA**    | NVDA   | **+3.47%** | Positive | 🥉 3rd |
+| **Apple**     | AAPL   | **-1.47%** | Decline  | 4th    |
+| **Alphabet**  | GOOGL  | **-3.49%** | Weak     | 5th    |
+| **Tesla**     | TSLA   | **+0.75%** | Modest   | 6th    |
+| **Meta**      | META   | **+1.91%** | Positive | 7th    |
 
 ### Currency & Bonds
 
-| Metric | Mon Open | Fri Close | Change | Direction |
-|--------|----------|-----------|--------|-----------|
-| **USD/KRW** | 1,432.32 | 1,460.75 | +28.43 | Won weaker 📉 |
-| **US 10Y Treasury** | 3.97% | 4.13% | +16 bps | Yields up |
-| **US 30Y Treasury** | 4.64% | 4.74% | +10 bps | Yields up |
-| **Korean 10Y** | 3.447% | 3.601% | +15.4 bps | Yields up |
+| Metric              | Mon Open | Fri Close | Change    | Direction     |
+| ------------------- | -------- | --------- | --------- | ------------- |
+| **USD/KRW**         | 1,432.32 | 1,460.75  | +28.43    | Won weaker 📉 |
+| **US 10Y Treasury** | 3.97%    | 4.13%     | +16 bps   | Yields up     |
+| **US 30Y Treasury** | 4.64%    | 4.74%     | +10 bps   | Yields up     |
+| **Korean 10Y**      | 3.447%   | 3.601%    | +15.4 bps | Yields up     |
 
 ---
 
 ## Day-by-Day Recap
 
 ### **Monday, March 2** - Calm Before the Storm
+
 **Market Mood:** Cautious optimism
 
 - **Korea:** KOSPI +0.00% (flat at 6,244), but semiconductor weakness
@@ -148,6 +163,7 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### **Tuesday, March 3** - CRASH BEGINS 🚨
+
 **Market Mood:** Panic selling
 
 - **Korea:** KOSPI -7.24% (6,244 → 5,792) - massive gap down
@@ -162,6 +178,7 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### **Wednesday, March 4** - THE BOTTOM 🔴
+
 **Market Mood:** Extreme fear, capitulation
 
 - **Korea:** KOSPI -12.06% from Monday's open (low of week at 5,093!)
@@ -178,6 +195,7 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### **Thursday, March 5** - MASSIVE REBOUND 🚀
+
 **Market Mood:** Relief rally, short-covering
 
 - **Korea:** KOSPI +9.62% (5,094 → 5,584) - biggest single-day gain in years
@@ -194,6 +212,7 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### **Friday, March 6** - Consolidation
+
 **Market Mood:** Caution, profit-taking
 
 - **Korea:** KOSPI +0.02% (flat at 5,585) - pause after rally
@@ -212,13 +231,15 @@ Treasury yields rose sharply, indicating flight to safety:
 ### 🏆 Top Performers
 
 **Korean Stocks:**
+
 1. **Hyundai Motor (005380)**: -10.02% - "Best" of a bad lot
 2. **Samsung Electronics (005930)**: -12.11% - Volatile but survived
 3. **SK Hynix (000660)**: -14.38% - Worst weekly performer
 
-*Note: All Korean stocks declined, but Hyundai lost the least*
+_Note: All Korean stocks declined, but Hyundai lost the least_
 
 **US Stocks:**
+
 1. **Microsoft (MSFT)**: +4.57% - Tech resilience
 2. **Amazon (AMZN)**: +4.26% - Cloud strength
 3. **NVIDIA (NVDA)**: +3.47% - AI infrastructure demand
@@ -226,11 +247,13 @@ Treasury yields rose sharply, indicating flight to safety:
 ### 📉 Worst Performers
 
 **Korean Stocks:**
+
 1. **SK Hynix (000660)**: -14.38% - Semiconductor exposure hurt
 2. **Samsung (005930)**: -12.11% - Similar story
 3. **Hyundai (005380)**: -10.02% - Auto sector not immune
 
 **US Stocks:**
+
 1. **Alphabet (GOOGL)**: -3.49% - Search/ad weakness
 2. **Apple (AAPL)**: -1.47% - Slight decline
 3. **Tesla (TSLA)**: +0.75% - Minimal gain
@@ -242,17 +265,20 @@ Treasury yields rose sharply, indicating flight to safety:
 ### 🔥 Primary Theme: Korean Market Panic & Recovery
 
 **What Happened:**
+
 1. **Monday-Tuesday:** Initial selling pressure on semiconductors
 2. **Wednesday:** Cascade failure - algorithmic selling, margin calls, no bids
 3. **Thursday:** Short-covering, forced buying, value hunters
 4. **Friday:** Consolidation
 
 **Why it matters:**
+
 - The 24% decline from Monday to Wednesday was unprecedented
 - The 10% single-day recovery on Thursday was equally historic
 - This wasn't a fundamental event - no bad news triggered the crash
 
 **Key observations:**
+
 - US markets didn't crash - suggesting this was Korea-specific
 - Semiconductors led both down and up - sector-specific volatility
 - Currency weakness added pressure but wasn't the primary driver
@@ -260,10 +286,12 @@ Treasury yields rose sharply, indicating flight to safety:
 ### 📊 Sector Rotation Deep Dive
 
 **What Worked (Relative):**
+
 - US Tech: Microsoft +4.57%, Amazon +4.26%, Nvidia +3.47%
 - US Indices: Nasdaq -1.59% (held up better)
 
 **What Didn't Work:**
+
 - Korean Everything: -10% to -15%
 - Korean Semiconductors: -12% to -14%
 - Korean Autos: -10%
@@ -273,11 +301,13 @@ Treasury yields rose sharply, indicating flight to safety:
 ### 💰 Bond Market Signals
 
 **10-Year Treasury: 3.97% → 4.13% (+16 bps)**
+
 - Yield spike coinciding with Korean crash
 - Flight to safety evident
 - Higher yields = headwind for equities
 
 **Yield Curve:** Slightly steeper but still inverted
+
 - 2Y-10Y spread remains negative
 - Recession concerns not resolved
 
@@ -286,11 +316,13 @@ Treasury yields rose sharply, indicating flight to safety:
 ### 🌏 Geographic Divergence
 
 **Korea Crisis:**
+
 - 24% drop in 3 days (Monday-Wednesday)
 - 10% single-day recovery (Thursday)
 - Driven by panic, not fundamentals
 
 **US Stability:**
+
 - Only -2% for the week
 - Tech actually positive
 - More resilient trading
@@ -302,15 +334,18 @@ Treasury yields rose sharply, indicating flight to safety:
 ## Technical Analysis & Chart Patterns
 
 ### Samsung Electronics (005930)
+
 **Weekly Pattern:** Crash → Recovery → Consolidation
 
 **Key Levels:**
+
 - **Monday Open:** ₩218,000
 - **Wednesday Low:** ₩172,200 (-21% from open)
 - **Thursday High:** ₩191,600 (+11% from low)
 - **Friday Close:** ₩191,600
 
 **Technical Signals:**
+
 - ⚠️ Broke below 200K support (critical level)
 - ✅ Thursday reversal above 172K low = bottom in place
 - 🎯 **Next Target:** 200K (psychological), 210K (former support)
@@ -321,15 +356,18 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### SK Hynix (000660)
+
 **Weekly Pattern:** Crash → Recovery → Consolidation
 
 **Key Levels:**
+
 - **Monday Open:** ₩1,099,000
 - **Wednesday Low:** ₩839,000 (-24% from open)
 - **Thursday High:** ₩949,000
 - **Friday Close:** ₩941,000
 
 **Technical Signals:**
+
 - ⚠️ Broke below ₩1M psychological level
 - ✅ Thursday +10.84% reversal = short-covering rally
 - 🎯 **Next Target:** ₩1,000K (psychological), ₩1,050K
@@ -340,15 +378,18 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### KOSPI
+
 **Weekly Pattern:** Crash → Bottom → Recovery
 
 **Key Levels:**
+
 - **Monday Open:** 6,244
 - **Wednesday Low:** 5,093 (-18.4% from open)
 - **Thursday Close:** 5,584
 - **Friday Close:** 5,585
 
 **Technical Signals:**
+
 - ⚠️ Broke below 6,000 psychological level
 - ✅ 5,093 bottom held (critical support)
 - 🎯 **Next Target:** 5,800, then 6,000
@@ -359,14 +400,17 @@ Treasury yields rose sharply, indicating flight to safety:
 ---
 
 ### S&P 500
+
 **Weekly Pattern:** Decline → Attempted Recovery → Friday Drop
 
 **Key Levels:**
+
 - **Monday:** 6,882
 - **Wednesday High:** 6,870
 - **Friday Close:** 6,740
 
 **Technical Signals:**
+
 - ⚠️ Broke below 6,800 support
 - 🎯 **Next Target:** 6,700, then 6,600
 - 🛡️ **Key Support:** 6,700 (critical)
@@ -400,10 +444,12 @@ Treasury yields rose sharply, indicating flight to safety:
 ### Key Events
 
 **Monday, March 9:**
+
 - US: No major releases
 - Korea: Lunar New Year holiday (market closed)
 
 **Economic Calendar:**
+
 - **Tuesday:** US CPI inflation data
 - **Wednesday:** US Retail Sales, FOMC Meeting Minutes
 - **Thursday:** US Jobless Claims, PPI
@@ -417,16 +463,19 @@ Treasury yields rose sharply, indicating flight to safety:
 ### Technical Levels
 
 **S&P 500:**
+
 - Support: 6,700
 - Resistance: 6,800, 6,900
 - Trend: Neutral to bearish
 
 **KOSPI:**
+
 - Support: 5,093 (Wednesday low)
 - Resistance: 5,800, 6,000
 - Trend: Recovery mode
 
 **Samsung:**
+
 - Support: ₩172,000 (Wednesday low)
 - Resistance: ₩200,000
 - Trend: Rebounding
@@ -436,6 +485,7 @@ Treasury yields rose sharply, indicating flight to safety:
 ## Investment Strategy Recommendations
 
 ### **Conservative Allocation**
+
 - **40% Bonds:** 10-year Treasuries at 4%+ attractive
 - **30% US Equities:** Quality dividend stocks (MSFT, JNJ, PG)
 - **20% Korean Equities:** Wait for stabilization before adding
@@ -444,6 +494,7 @@ Treasury yields rose sharply, indicating flight to safety:
 **Rationale:** Preserve capital, reduce Korean exposure until dust settles.
 
 ### **Balanced Allocation**
+
 - **50% Equities:** 20% US tech, 20% Korean recovery plays, 10% other
 - **30% Bonds:** Mix of Treasuries and IG corporate
 - **10% Commodities:** Gold for hedge
@@ -452,6 +503,7 @@ Treasury yields rose sharply, indicating flight to safety:
 **Rationale:** Opportunistic Korean exposure but with hedges.
 
 ### **Aggressive Allocation**
+
 - **70% Equities:** 30% Korean recovery (Samsung, SK Hynix), 30% US tech, 10% EM
 - **20% Bonds:** Short-duration for flexibility
 - **10% Alternatives:** Options/calls on recovery
@@ -488,4 +540,4 @@ The week of March 2-6, 2026 will be remembered as one of the most volatile in Ko
 
 ---
 
-*This report is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results.*
+_This report is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results._

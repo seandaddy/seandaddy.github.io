@@ -1,12 +1,11 @@
 ---
 publishDate: 2026-03-06T12:00:00Z
-title: "Daily Market Report - March 06, 2026"
-excerpt: "Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks."
-category: "Market Analysis"
-tags: ["stocks", "korean-market", "us-market", "magnificent-7", "daily-report", "investing"]
-author: "Sangyong"
+title: 'Daily Market Report - March 06, 2026'
+excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'daily-report', 'investing']
+author: 'Sangyong'
 ---
-
 
 **Report Generated:** March 6, 2026, 8:00 AM EST  
 **Prepared by:** OpenClaw Market Intelligence
@@ -22,6 +21,7 @@ US markets declined sharply on Friday, March 6, 2026, with the Nasdaq leading lo
 ### Today at a Glance
 
 **Daily Performance:**
+
 - 🇺🇸 **S&P 500:** -1.33%
 - 🇺🇸 **Dow Jones:** -0.95%
 - 🇺🇸 **Nasdaq:** -1.59%
@@ -29,6 +29,7 @@ US markets declined sharply on Friday, March 6, 2026, with the Nasdaq leading lo
 - 🇰🇷 **KOSDAQ:** +3.43%
 
 **Key Themes:**
+
 1. **US Tech Selloff** - All Mag7 down, NVDA -3.01% leading decline
 2. **Korean Consolidation** - KOSDAQ +3.43% continues recovery
 3. **Won Strengthens** - KRW +1.63% on equity inflows
@@ -40,21 +41,22 @@ US markets declined sharply on Friday, March 6, 2026, with the Nasdaq leading lo
 
 ### US Magnificent 7
 
-| Stock | Symbol | Price | Change | % Change | Status |
-|-------|--------|-------|--------|----------|--------|
-| **Apple** | AAPL | $260.29 | -$2.83 | **-1.09%** | 🔴 |
-| **Microsoft** | MSFT | $410.68 | -$1.72 | **-0.42%** | 🔴 |
-| **Alphabet** | GOOGL | $300.88 | -$2.36 | **-0.78%** | 🔴 |
-| **Amazon** | AMZN | $218.94 | -$5.73 | **-2.62%** | 🔴 |
-| **NVIDIA** | NVDA | $183.34 | -$5.52 | **-3.01%** | 🔴 |
-| **Meta** | META | $660.57 | -$15.71 | **-2.38%** | 🔴 |
-| **Tesla** | TSLA | $405.55 | -$8.82 | **-2.17%** | 🔴 |
+| Stock         | Symbol | Price   | Change  | % Change   | Status |
+| ------------- | ------ | ------- | ------- | ---------- | ------ |
+| **Apple**     | AAPL   | $260.29 | -$2.83  | **-1.09%** | 🔴     |
+| **Microsoft** | MSFT   | $410.68 | -$1.72  | **-0.42%** | 🔴     |
+| **Alphabet**  | GOOGL  | $300.88 | -$2.36  | **-0.78%** | 🔴     |
+| **Amazon**    | AMZN   | $218.94 | -$5.73  | **-2.62%** | 🔴     |
+| **NVIDIA**    | NVDA   | $183.34 | -$5.52  | **-3.01%** | 🔴     |
+| **Meta**      | META   | $660.57 | -$15.71 | **-2.38%** | 🔴     |
+| **Tesla**     | TSLA   | $405.55 | -$8.82  | **-2.17%** | 🔴     |
 
 **Daily Analysis:**
 
 A broad tech selloff today with all Magnificent 7 stocks declining. NVDA led the decline at -3.01%, followed by AMZN at -2.62% and META at -2.38%. Even MSFT, yesterday's top performer, slipped -0.42%. This pullback comes after the strong rally earlier in the week and may reflect profit-taking ahead of next week's critical economic data.
 
 **Daily Highlights:**
+
 - **NVDA -3.01%** - Worst performer, AI sentiment cooling
 - **AMZN -2.62%** - Significant pullback
 - **META -2.38%** - Continuing weakness
@@ -69,18 +71,18 @@ A broad tech selloff today with all Magnificent 7 stocks declining. NVDA led the
 
 ### US Indices
 
-| Index | Close | Change | % Change | Trend |
-|-------|-------|--------|----------|-------|
-| **S&P 500** | 6,740 | -90.69 | **-1.33%** | 🔴 Down |
+| Index         | Close  | Change  | % Change   | Trend   |
+| ------------- | ------ | ------- | ---------- | ------- |
+| **S&P 500**   | 6,740  | -90.69  | **-1.33%** | 🔴 Down |
 | **Dow Jones** | 47,501 | -453.19 | **-0.95%** | 🔴 Down |
-| **Nasdaq** | 22,387 | -361.31 | **-1.59%** | 🔴 Down |
+| **Nasdaq**    | 22,387 | -361.31 | **-1.59%** | 🔴 Down |
 
 ### Korean Indices
 
-| Index | Close | Change | % Change | Trend |
-|-------|-------|--------|----------|-------|
-| **KOSPI** | 5,584.87 | +0.97 | **+0.02%** | 🟡 Flat |
-| **KOSDAQ** | 1,154.67 | +38.26 | **+3.43%** | 🟢🚀 |
+| Index      | Close    | Change | % Change   | Trend   |
+| ---------- | -------- | ------ | ---------- | ------- |
+| **KOSPI**  | 5,584.87 | +0.97  | **+0.02%** | 🟡 Flat |
+| **KOSDAQ** | 1,154.67 | +38.26 | **+3.43%** | 🟢🚀    |
 
 **Analysis:**
 
@@ -93,6 +95,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### Currency Markets
 
 **USD/KRW:**
+
 - **Rate:** ₩1,484
 - **Change:** +₩23.84
 - **% Change:** **+1.63%** (KRW Strength)
@@ -101,24 +104,24 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 
 ### US Bond Yields
 
-| Security | Yield | Change | Trend |
-|----------|-------|--------|-------|
-| **10Y Treasury** | 4.13% | +7bp | 🔼 Up |
-| **30Y Treasury** | 4.74% | +4bp | 🔼 Up |
+| Security         | Yield | Change | Trend |
+| ---------------- | ----- | ------ | ----- |
+| **10Y Treasury** | 4.13% | +7bp   | 🔼 Up |
+| **30Y Treasury** | 4.74% | +4bp   | 🔼 Up |
 
 ### Korean Bond Yields
 
-| Security | Yield | Trend |
-|----------|-------|-------|
+| Security         | Yield  | Trend   |
+| ---------------- | ------ | ------- |
 | **10Y Treasury** | 3.601% | 🟡 Flat |
 
 ### Korean Stocks
 
-| Stock | Symbol | Price | Change | % Change | Trend |
-|-------|--------|-------|--------|----------|-------|
-| **Samsung** | 005930 | ₩191,600 | -₩3,400 | **-1.77%** | 🔴 |
-| **SK Hynix** | 000660 | ₩941,000 | -₩17,000 | **-1.81%** | 🔴 |
-| **Hyundai** | 005380 | ₩548,000 | +₩5,000 | **+0.91%** | 🟢 |
+| Stock        | Symbol | Price    | Change   | % Change   | Trend |
+| ------------ | ------ | -------- | -------- | ---------- | ----- |
+| **Samsung**  | 005930 | ₩191,600 | -₩3,400  | **-1.77%** | 🔴    |
+| **SK Hynix** | 000660 | ₩941,000 | -₩17,000 | **-1.81%** | 🔴    |
+| **Hyundai**  | 005380 | ₩548,000 | +₩5,000  | **+0.91%** | 🟢    |
 
 **Analysis:** Korean stocks showed mixed performance. Samsung and SK Hynix both declined around -1.8%, while Hyundai managed a +0.91% gain. This is a healthy consolidation after the previous two days' massive gains.
 
@@ -129,6 +132,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### Friday, March 6: Tech Selloff
 
 **Market Action:**
+
 - 🇺🇸 Nasdaq -1.59%, S&P -1.33%, Dow -0.95%
 - 🇺🇸 All Mag7 down: NVDA -3.01%, AMZN -2.62%
 - 🇰🇷 KOSDAQ +3.43%, KOSPI +0.02%
@@ -145,6 +149,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 **The Move:** Nasdaq -1.59%, Mag7 all down
 
 **Why It Matters:**
+
 - All 7 Mag7 stocks declined today
 - NVDA -3.01% worst performer
 - Broad-based profit taking after week's rally
@@ -159,6 +164,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 **The Move:** KOSDAQ +3.43%, KOSPI +0.02%
 
 **Why It Matters:**
+
 - KOSDAQ continues strong recovery (+3.43%)
 - Follows historic +14.10% gain yesterday
 - KOSPI stabilizing after volatile week
@@ -174,6 +180,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 **The Move:** 10Y at 4.13% (+7bp), 30Y at 4.74% (+4bp)
 
 **Why This Matters:**
+
 - Yields rising from 4.06% to 4.13%
 - Could pressure tech valuations
 - Fed meeting ahead may clarify rate path
@@ -184,24 +191,28 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ## ⚠️ RISK FACTORS
 
 ### 1. US Tech Overvaluation
+
 - Today's selloff doesn't change elevated valuations
 - NVDA still up significantly from last year
 - Rate environment remains challenging
 - Bond yields rising could pressure multiples
 
 ### 2. Korean Market Volatility
+
 - Still down significantly from pre-crash levels
 - More consolidation likely
 - Foreign investor sentiment fragile
 - Won strength could reverse quickly
 
 ### 3. Fed Policy Uncertainty
+
 - Next Fed meeting crucial
 - Rate path unclear
 - Bond market signaling concerns
 - Could trigger more volatility
 
 ### 4. Global Growth Concerns
+
 - China slowdown continues
 - European markets weak
 - Korea crisis exposed systemic risks
@@ -211,9 +222,11 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ## ✅ OPPORTUNITIES
 
 ### 1. US Tech Dip Buying
+
 **Thesis:** Correction is healthy, not concerning
 
 **Strategy:**
+
 - Add to quality tech on dips
 - MSFT remains top defensive pick
 - NVDA: Wait for March 18 earnings
@@ -224,9 +237,11 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ---
 
 ### 2. Korean Recovery Play
+
 **Thesis:** More recovery room remains
 
 **Strategy:**
+
 - Partial position in Samsung, SK Hynix
 - Watch for stabilization confirmation
 - Foreign flow key indicator
@@ -237,9 +252,11 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ---
 
 ### 3. Treasury Yields
+
 **Thesis:** 10Y at 4.13% still attractive
 
 **Strategy:**
+
 - Maintain bond allocation
 - Yield competitive with equity risk
 - Could rise further near term
@@ -251,6 +268,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### Economic Calendar
 
 **Key Data Releases:**
+
 - **Monday, March 9:** No major data
 - **Tuesday, March 10:** CPI Data
 - **Wednesday, March 11:** Fed Meeting Minutes
@@ -262,11 +280,13 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### Technical Levels to Watch
 
 **US Markets:**
+
 - **S&P 500:** Support 6,700 | Resistance 6,850
 - **Nasdaq:** Support 22,000 | Resistance 22,750
 - **Dow:** Support 47,000 | Resistance 48,000
 
 **Korean Markets:**
+
 - **KOSPI:** Support 5,400 | Resistance 5,700
 - **KOSDAQ:** Support 1,100 | Resistance 1,200
 
@@ -277,6 +297,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### For Conservative Investors
 
 **Positioning:**
+
 1. **Hold quality US** - MSFT, AAPL showing relative strength
 2. **Watch Korean recovery** - don't chase fast
 3. **Maintain bonds** - 10Y at 4.13% good yield
@@ -287,6 +308,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### For Growth Investors
 
 **Positioning:**
+
 1. **Buy US dips** - tech resilience continues
 2. **Korean partial play** - small position
 3. **Watch CPI Tuesday** - key for direction
@@ -297,6 +319,7 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ### For Korean Market Investors
 
 **Positioning:**
+
 1. **Consolidation likely** - expect more volatility
 2. **Watch foreign flow** - key indicator
 3. **Korean stocks attractive** - Samsung, SK Hynix
@@ -312,19 +335,19 @@ US markets experienced a sharp selloff with tech leading the decline. The Nasdaq
 ✅ Korean KOSDAQ +3.43% continues recovery  
 ✅ Won +1.63% shows confidence returning  
 ✅ US markets only down ~1%, not catastrophic  
-✅ MSFT -0.42% relatively resilient  
+✅ MSFT -0.42% relatively resilient
 
 **The Bad:**
 ⚠️ All Mag7 down - NVDA -3.01% worst  
 ⚠️ Nasdaq -1.59% tech leading decline  
 ⚠️ Treasury yields rising (4.13%)  
-⚠️ Korean stocks Samsung/Hynix -1.8%  
+⚠️ Korean stocks Samsung/Hynix -1.8%
 
 **The Opportunity:**
 💡 US tech dip buying - healthy correction  
 💡 Korean recovery continues - more room?  
 💡 Watch CPI Tuesday for direction  
-💡 Fed meeting minutes Wednesday  
+💡 Fed meeting minutes Wednesday
 
 ---
 
@@ -344,5 +367,5 @@ Email: seandaddy@gmail.com
 
 ---
 
-*Report prepared by OpenClaw Market Intelligence*  
-*Empowering investors with data-driven insights*
+_Report prepared by OpenClaw Market Intelligence_  
+_Empowering investors with data-driven insights_

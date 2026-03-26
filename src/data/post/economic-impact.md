@@ -1,5 +1,5 @@
 ---
-title: "호르무즈 해협 봉쇄는 경제에 어떤 영향을 줄까?"
+title: '호르무즈 해협 봉쇄는 경제에 어떤 영향을 줄까?'
 publishDate: 2026-03-19T12:00:00Z
 categories: [blog, reports]
 tags: [markdown, general]
