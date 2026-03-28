@@ -1,40 +1,34 @@
 ---
-publishDate: 2026-03-18T12:00:00Z
-title: 'Daily Market Report - March 18, 2026'
+publishDate: 2026-03-25T12:00:00Z
+title: 'Daily Market Report - March 25, 2026'
 excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
 category: 'Market Analysis'
 tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'daily-report', 'investing']
 author: 'Sangyong'
 ---
 
-**Report Generated:** March 18, 2026, 8:00 AM EST  
+**Report Generated:** March 25, 2026, 8:00 AM EST  
 **Prepared by:** OpenClaw Market Intelligence
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**Market Character:** US Tech Selloff, Korean Recovery
+**Market Character:** Global Market Rally
 
-US markets declined on Wednesday, 2026-03-18, with the Nasdaq leading at -1.63%. Meanwhile, Korean markets continued recovery.
+US markets gained on Wednesday, 2026-03-25, with the Nasdaq leading at +0.66%. Meanwhile, Korean markets continued recovery.
 
 ### Today at a Glance
 
 **Daily Performance:**
 
-- 🇺🇸 **S&P 500:** -1.36%
-- 🇺🇸 **Dow Jones:** -1.63%
-- 🇺🇸 **Nasdaq:** -1.46%
-- 🇰🇷 **KOSPI:** +5.04%
-- 🇰🇷 **KOSDAQ:** +2.41%
+- 🇺🇸 **S&P 500:** +0.54%
+- 🇺🇸 **Dow Jones:** +0.66%
+- 🇺🇸 **Nasdaq:** +0.77%
+- 🇰🇷 **KOSPI:** +1.59%
+- 🇰🇷 **KOSDAQ:** +3.4%
 
-**Key Themes:**
-
-1. **US Tech Selloff** - Major decline in tech sector
-1. **Tech Correction** - All Mag7 down, NVDA leading at -0.84%
-1. **Korean Recovery** - KOSPI +5.04%
-1. **Won Weakens** - KRW +1.52%
-1. **Treasury Yields** - 10Y at 4.2%
+**Key Themes:** 2. **Korean Recovery** - KOSPI +1.59% 3. **Won Weakens** - KRW +1.2% 4. **Treasury Yields** - 10Y at 4.34%
 
 ---
 
@@ -44,17 +38,17 @@ US markets declined on Wednesday, 2026-03-18, with the Nasdaq leading at -1.63%.
 
 | Stock         | Symbol | Price   | Change | % Change   | Status |
 | ------------- | ------ | ------- | ------ | ---------- | ------ |
-| **Apple**     | AAPL   | $254.23 | -4.29  | **-1.69%** | 🔴     |
-| **Microsoft** | MSFT   | $399.41 | -7.62  | **-1.91%** | 🔴     |
-| **Alphabet**  | GOOGL  | $310.92 | -3.23  | **-1.04%** | 🔴     |
-| **Amazon**    | AMZN   | $215.20 | -5.33  | **-2.48%** | 🔴     |
-| **NVIDIA**    | NVDA   | $181.93 | -1.53  | **-0.84%** | 🔴     |
-| **Meta**      | META   | $622.66 | -6.98  | **-1.12%** | 🔴     |
-| **Tesla**     | TSLA   | $399.27 | -6.49  | **-1.63%** | 🔴     |
+| **Apple**     | AAPL   | $251.64 | +0.98  | **+0.39%** | 🟢     |
+| **Microsoft** | MSFT   | $372.74 | -1.7   | **-0.46%** | 🔴     |
+| **Alphabet**  | GOOGL  | $290.44 | +0.49  | **+0.17%** | 🟢     |
+| **Amazon**    | AMZN   | $207.24 | +4.47  | **+2.16%** | 🟢     |
+| **NVIDIA**    | NVDA   | $175.20 | +3.48  | **+1.99%** | 🟢     |
+| **Meta**      | META   | $592.92 | +1.97  | **+0.33%** | 🟢     |
+| **Tesla**     | TSLA   | $383.03 | +2.92  | **+0.76%** | 🟢     |
 
 **Daily Analysis:**
 
-The Magnificent 7 showed a broad-based selloff with all stocks declining. NVDA led with -0.84% change. AMZN lagged at -2.48%.
+The Magnificent 7 showed mostly positive results with 6 stocks advancing. AMZN led with +2.16% change. MSFT lagged at -0.46%.
 
 ---
 
@@ -64,20 +58,20 @@ The Magnificent 7 showed a broad-based selloff with all stocks declining. NVDA l
 
 | Index         | Close  | Change  | % Change   | Trend |
 | ------------- | ------ | ------- | ---------- | ----- |
-| **S&P 500**   | 6,624  | -91.39  | **-1.36%** | 🔴    |
-| **Nasdaq**    | 22,152 | -327.11 | **-1.46%** | 🔴    |
-| **Dow Jones** | 46,225 | -768.11 | **-1.63%** | 🔴    |
+| **S&P 500**   | 6,591  | +35.53  | **+0.54%** | 🟢    |
+| **Nasdaq**    | 21,929 | +167.94 | **+0.77%** | 🟢    |
+| **Dow Jones** | 46,429 | +305.43 | **+0.66%** | 🟢    |
 
 ### Korean Indices
 
-| Index      | Close    | Change  | % Change   | Trend |
-| ---------- | -------- | ------- | ---------- | ----- |
-| **KOSPI**  | 5,925.03 | +284.55 | **+5.04%** | 🟢    |
-| **KOSDAQ** | 1,164.38 | +27.44  | **+2.41%** | 🟢    |
+| Index      | Close    | Change | % Change   | Trend |
+| ---------- | -------- | ------ | ---------- | ----- |
+| **KOSPI**  | 5,642.21 | +88.29 | **+1.59%** | 🟢    |
+| **KOSDAQ** | 1,159.55 | +38.11 | **+3.4%**  | 🟢    |
 
 **Analysis:**
 
-US markets experienced a decline with the Nasdaq leading at -1.46%. Korean markets continued recovery with KOSDAQ gaining +2.41%.
+US markets showed strength with the S&P 500 up +0.54%. Korean markets continued recovery with KOSDAQ gaining +3.4%.
 
 ---
 
@@ -87,9 +81,9 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 **USD/KRW:**
 
-- **Rate:** ₩1,507
-- **Change:** +₩22.51
-- **% Change:** +1.52% (KRW Weakness)
+- **Rate:** ₩1,503
+- **Change:** +₩17.86
+- **% Change:** +1.2% (KRW Weakness)
 
 **Analysis:** The Korean won weakened against the US dollar, a typical reaction to market volatility.
 
@@ -97,16 +91,16 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 | Security         | Yield | Change | Trend |
 | ---------------- | ----- | ------ | ----- |
-| **10Y Treasury** | 4.2%  | --     | 🔼    |
-| **30Y Treasury** | 4.85% | --     | 🔼    |
+| **10Y Treasury** | 4.34% | --     | 🔼    |
+| **30Y Treasury** | 4.91% | --     | 🔼    |
 
 ### Korean Stocks
 
-| Stock        | Symbol | Price    | Change    | % Change    | Trend |
-| ------------ | ------ | -------- | --------- | ----------- | ----- |
-| **Samsung**  | 005930 | ₩190,000 | +18500.0  | **+9.74%**  | 🟢    |
-| **SK Hynix** | 000660 | ₩955,000 | +101000.0 | **+10.58%** | 🟢    |
-| **Hyundai**  | 005380 | ₩530,000 | +15000.0  | **+2.83%**  | 🟢    |
+| Stock        | Symbol | Price    | Change  | % Change   | Trend |
+| ------------ | ------ | -------- | ------- | ---------- | ----- |
+| **Samsung**  | 005930 | ₩189,000 | +700.0  | **+0.37%** | 🟢    |
+| **SK Hynix** | 000660 | ₩995,000 | +9000.0 | **+0.91%** | 🟢    |
+| **Hyundai**  | 005380 | ₩501,000 | +9000.0 | **+1.83%** | 🟢    |
 
 **Analysis:** All Korean stocks advanced, showing broad-based strength in the market.
 
@@ -114,46 +108,22 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 ## 🎯 DAY-BY-DAY RECAP
 
-### Wednesday, March 18, 2026: US Tech Selloff, Korean Recovery
+### Wednesday, March 25, 2026: Global Market Rally
 
 **Market Action:**
 
-- 🇺🇸 Nasdaq -1.46%, S&P -1.36%, Dow -1.63%
-- 🇺🇸 NVDA -0.84%
-- 🇰🇷 KOSPI +5.04%, KOSDAQ +2.41%
-- 💱 KRW +1.52% (strength)
+- 🇺🇸 Nasdaq +0.77%, S&P +0.54%, Dow +0.66%
+- 🇺🇸 AMZN +2.16%
+- 🇰🇷 KOSPI +1.59%, KOSDAQ +3.4%
+- 💱 KRW +1.2% (strength)
 
 ---
 
 ## 🔍 DAILY THEMES & ANALYSIS
 
-### Theme 1: US Tech Correction
-
-**The Move:** Nasdaq -1.46%, S&P -1.36%
-
-**Why It Matters:**
-
-- Tech sector experiencing broad-based pullback
-- May reflect profit-taking after recent rally
-- Could be positioning ahead of key data
-
-**Market Implication:** Watch for support levels to hold.
-
-### Theme 2: Korean Market Movement
-
-**The Move:** KOSPI +5.04%, KOSDAQ +2.41%
-
-**Why It Matters:**
-
-- Significant movement in Korean markets
-- Recovery or consolidation phase
-- Foreign investor flow key indicator
-
-**Implication:** Watch for stabilization confirmation.
-
 ### Theme 3: Currency Movement
 
-**The Move:** KRW +1.52%
+**The Move:** KRW +1.2%
 
 **Why This Matters:**
 
@@ -163,9 +133,9 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 ---
 
-### Theme 4: Treasury Yields
+### Theme 2: Treasury Yields
 
-**The Move:** 10Y at 4.2%
+**The Move:** 10Y at 4.34%
 
 **Why This Matters:**
 
@@ -263,9 +233,9 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 **US Markets:**
 
-- **S&P 500:** Support 6,425 | Resistance 6,823
-- **Nasdaq:** Support 21,487 | Resistance 22,816
-- **Dow:** Support 44,838 | Resistance 47,611
+- **S&P 500:** Support 6,394 | Resistance 6,789
+- **Nasdaq:** Support 21,271 | Resistance 22,587
+- **Dow:** Support 45,036 | Resistance 47,822
 
 ---
 
@@ -309,13 +279,14 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 ### What Today Told Us
 
 **The Good:**
-✅ Korean market +5.04% recovery
-✅ KRW +1.52% shows confidence
+✅ Korean market +1.59% recovery
+✅ KOSDAQ +3.4% strong gain
+✅ KRW +1.2% shows confidence
+✅ US markets only down +0.54%, not catastrophic
+✅ MSFT -0.46% relatively resilient
 
 **The Bad:**
-⚠️ Nasdaq -1.46% tech leading decline
-⚠️ All Mag7 down - AMZN -2.48%
-⚠️ Treasury yields rising (4.2%)
+⚠️ Treasury yields rising (4.34%)
 
 **The Opportunity:**
 💡 US tech dip buying - healthy correction
@@ -329,9 +300,9 @@ US markets experienced a decline with the Nasdaq leading at -1.46%. Korean marke
 
 This report is for informational purposes only and does not constitute investment advice. Market conditions can change rapidly. Past performance does not guarantee future results. Investors should conduct their own due diligence and consult with qualified financial advisors before making investment decisions.
 
-**Report Generated:** March 18, 2026, 8:00 AM EST  
+**Report Generated:** March 25, 2026, 8:00 AM EST  
 **Data Sources:** Yahoo Finance, Alpha Vantage, Investing.com, Naver Finance  
-**Coverage Period:** March 18, 2026 (Wednesday)  
+**Coverage Period:** March 25, 2026 (Wednesday)  
 **Korean Market Status:** Open
 
 ---

@@ -1,10 +1,10 @@
 ---
 publishDate: 2026-02-28T12:00:00Z
-title: "Weekly Market Review - 2026-02-28"
-excerpt: "Weekly analysis of Korean and US markets"
-category: "Market Analysis"
-tags: ["stocks", "korean-market", "us-market", "weekly-review"]
-author: "Sangyong"
+title: 'Weekly Market Review - 2026-02-28'
+excerpt: 'Weekly analysis of Korean and US markets'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'weekly-review']
+author: 'Sangyong'
 ---
 
 ## Week of February 23-27, 2026
@@ -18,17 +18,20 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 ### Week in Numbers
 
 **Korean Markets:**
+
 - KOSPI: 5,632.85 → 5,650.00 (+0.31%)
 - Samsung: ₩190,100 → ₩196,000 (+3.10%)
 - SK Hynix: ₩949,000 → ₩1,100,000 (+15.91%) 🔥
 - Hyundai: ₩509,000 → ₩515,000 (+1.18%)
 
 **US Markets:**
+
 - S&P 500: 6,909.51 → 6,956.50 (+0.68%)
 - Nasdaq: 22,886.07 → 23,150.00 (+1.15%)
 - Dow Jones: 49,625.97 → 49,750.00 (+0.25%)
 
 **Currency:**
+
 - USD/KRW: 1,447.50 → 1,452.00 (+0.31% won weakened slightly)
 
 ---
@@ -37,43 +40,45 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 
 ### Major Indices - Week of Feb 23-27
 
-| Index | Mon Close | Fri Close | Change | % Change |
-|-------|-----------|-----------|--------|----------|
-| **KOSPI** | 5,632.85 | 5,650.00 | +17.15 | **+0.31%** |
-| **S&P 500** | 6,909.51 | 6,956.50 | +46.99 | **+0.68%** |
-| **Nasdaq** | 22,886.07 | 23,150.00 | +263.93 | **+1.15%** |
+| Index         | Mon Close | Fri Close | Change  | % Change   |
+| ------------- | --------- | --------- | ------- | ---------- |
+| **KOSPI**     | 5,632.85  | 5,650.00  | +17.15  | **+0.31%** |
+| **S&P 500**   | 6,909.51  | 6,956.50  | +46.99  | **+0.68%** |
+| **Nasdaq**    | 22,886.07 | 23,150.00 | +263.93 | **+1.15%** |
 | **Dow Jones** | 49,625.97 | 49,750.00 | +124.03 | **+0.25%** |
 
 ### Korean Blue-Chip Weekly Performance
 
-| Stock | Mon Open | Fri Close | Change | % Change | Rank |
-|-------|----------|-----------|--------|----------|------|
+| Stock                 | Mon Open | Fri Close  | Change    | % Change    | Rank   |
+| --------------------- | -------- | ---------- | --------- | ----------- | ------ |
 | **SK Hynix (000660)** | ₩949,000 | ₩1,100,000 | +₩151,000 | **+15.91%** | 🥇 1st |
-| **Samsung (005930)** | ₩190,100 | ₩196,000 | +₩5,900 | **+3.10%** | 🥈 2nd |
-| **Hyundai (005380)** | ₩509,000 | ₩515,000 | +₩6,000 | **+1.18%** | 🥉 3rd |
+| **Samsung (005930)**  | ₩190,100 | ₩196,000   | +₩5,900   | **+3.10%**  | 🥈 2nd |
+| **Hyundai (005380)**  | ₩509,000 | ₩515,000   | +₩6,000   | **+1.18%**  | 🥉 3rd |
 
 ### US Magnificent 7 Weekly Performance (Estimated)
 
-| Stock | Symbol | Weekly % | Status | Rank |
-|-------|--------|----------|--------|------|
-| **NVIDIA** | NVDA | **+3.5%*** | Strong | 🥇 1st |
-| **Tesla** | TSLA | **+2.8%*** | Strong | 🥈 2nd |
-| **Amazon** | AMZN | **+2.1%*** | Positive | 🥉 3rd |
-| **Apple** | AAPL | +1.8%* | Positive | 4th |
-| **Alphabet** | GOOGL | +1.2%* | Modest | 5th |
-| **Microsoft** | MSFT | +0.8%* | Slight gain | 6th |
-| **Meta** | META | +0.5%* | Flat | 7th |
+| Stock         | Symbol | Weekly %    | Status      | Rank   |
+| ------------- | ------ | ----------- | ----------- | ------ |
+| **NVIDIA**    | NVDA   | **+3.5%\*** | Strong      | 🥇 1st |
+| **Tesla**     | TSLA   | **+2.8%\*** | Strong      | 🥈 2nd |
+| **Amazon**    | AMZN   | **+2.1%\*** | Positive    | 🥉 3rd |
+| **Apple**     | AAPL   | +1.8%\*     | Positive    | 4th    |
+| **Alphabet**  | GOOGL  | +1.2%\*     | Modest      | 5th    |
+| **Microsoft** | MSFT   | +0.8%\*     | Slight gain | 6th    |
+| **Meta**      | META   | +0.5%\*     | Flat        | 7th    |
 
-*Estimated based on index correlations
+\*Estimated based on index correlations
 
 ---
 
 ## Day-by-Day Recap
 
 ### Monday, February 23: Continuation of Semiconductor Momentum
+
 **Market Mood:** Bullish follow-through
 
 **Key Events:**
+
 - Korean markets: KOSPI +0.22% building on prior week's strength
 - Samsung: +1.05% to ₩192,100 continuing breakout momentum
 - SK Hynix: +2.11% to ₩969,000 approaching ₩1,000,000 level
@@ -85,9 +90,11 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 ---
 
 ### Tuesday, February 24: KOSPI Surpasses 5,650
+
 **Market Mood:** Korean market acceleration
 
 **Key Events:**
+
 - **KOSPI +0.47%** to 5,658.70 - continuing upward trajectory
 - Samsung: +0.89% to ₩193,800 consolidating gains
 - SK Hynix: +3.61% to ₩1,004,000 - **first time above ₩1,000,000!** 🎉
@@ -99,9 +106,11 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 ---
 
 ### Wednesday, February 25: SK Hynix Explodes Higher
+
 **Market Mood:** Euphoric semiconductor rally
 
 **Key Events:**
+
 - **SK Hynix +6.15%** to ₩1,065,000 - massive single-day surge
 - Samsung: +1.55% to ₩196,800 approaching ₩200,000 target
 - Hyundai: +0.78% to ₩519,000 benefiting from auto sector rotation
@@ -114,9 +123,11 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 ---
 
 ### Thursday, February 26: All-Time Highs
+
 **Market Mood:** Historic breakout
 
 **Key Events:**
+
 - **SK Hynix +7.96%** to ₩1,149,000 - unprecedented weekly surge
 - Samsung: +0.51% to ₩197,800 - holding near ₩200,000
 - KOSPI: +0.41% to 5,703.73 - **new all-time high!** ✨
@@ -129,9 +140,11 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 ---
 
 ### Friday, February 27: Consolidation Day
+
 **Market Mood:** Healthy profit-taking
 
 **Key Events:**
+
 - SK Hynix: -3.46% to ₩1,110,000 (after +15.8% week, some cooling)
 - Samsung: -0.91% to ₩196,000 (modest pullback from ₩200K)
 - KOSPI: -0.94% to 5,650.00 (healthy post-rally digestion)
@@ -148,14 +161,16 @@ The week of February 23-27, 2026 delivered exceptional performance for Korean se
 ### 🏆 Top Performers
 
 **Korean Stocks:**
+
 1. **SK Hynix (000660): +15.91%** - Historic weekly surge, broke ₩1,000,000 milestone
 2. **Samsung Electronics (005930): +3.10%** - Approached ₩200,000 target
 3. **Hyundai Motor (005380): +1.18%** - Steady performance
 
 **US Stocks:**
-1. **NVIDIA (NVDA): +3.5%*** - AI infrastructure demand
-2. **Tesla (TSLA): +2.8%*** - EV momentum
-3. **Amazon (AMZN): +2.1%*** - Cloud strength
+
+1. **NVIDIA (NVDA): +3.5%\*** - AI infrastructure demand
+2. **Tesla (TSLA): +2.8%\*** - EV momentum
+3. **Amazon (AMZN): +2.1%\*** - Cloud strength
 
 ### 📉 Key Pullbacks (Friday Consolidation)
 
@@ -178,6 +193,7 @@ SK Hynix's journey to ₩1,000,000 represented more than just a stock price - it
 4. **Valuation Rerating:** Market recognizing structural growth vs. cyclical
 
 **What Changed This Week:**
+
 - Monday: ₩949,000 → Breaking ₩1,000,000 resistance
 - Tuesday: First close above ₩1,000,000 in history
 - Wednesday: +6.15% acceleration on AI demand news
@@ -199,6 +215,7 @@ KOSPI exceeded 5,700 for the first time ever on Thursday (5,703.73 peak), markin
 4. **Global Diversification:** Korea benefiting from rotation away from expensive US tech
 
 **The Week's Arc:**
+
 - Monday: Building momentum (KOSPI +0.22%)
 - Tuesday: Accelerating (KOSPI +0.47%, new high 5,658)
 - Wednesday: Continuing (KOSPI +0.38%, high 5,680)
@@ -220,6 +237,7 @@ Samsung Electronics came within 2.2% of the ₩200,000 psychological level:
 4. **Valuation Gap:** Trading at significant discount to US peers
 
 **Technical Analysis:**
+
 - Monday: ₩190,100 → ₩192,100 (+1.05%)
 - Tuesday: ₩193,800 (+0.89%)
 - Wednesday: ₩196,800 (+1.55%)
@@ -241,6 +259,7 @@ After weeks of underperformance, US tech joined the global semiconductor rally:
 4. **Global Synchronization:** Korean rally spilling over to US
 
 **Mag 7 Performance:**
+
 - **NVIDIA:** +3.5% - AI chip leader
 - **Tesla:** +2.8% - EV recovery
 - **Amazon:** +2.1% - Cloud growth
@@ -259,6 +278,7 @@ After weeks of underperformance, US tech joined the global semiconductor rally:
 Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 
 **Daily Movement:**
+
 - Monday: 1,449.50 (slight weakness)
 - Tuesday: 1,448.80 (stability)
 - Wednesday: ~1,450 (range-bound)
@@ -266,6 +286,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 - Friday: 1,452.00 (+0.05% daily)
 
 **Why It Matters:**
+
 - Won weakness = Korean exporter competitiveness
 - Won stability = no intervention concerns
 - Range-bound = predictable currency environment
@@ -278,17 +299,20 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ## Sector Rotation Analysis
 
 ### Hot Sectors 🔥
+
 1. **Semiconductors:** Clear sector of the year (SK Hynix +15.9%, Samsung +3.1%)
 2. **AI/Cloud:** NVIDIA +3.5% leading US tech
 3. **Korean Tech:** KOSPI hitting all-time highs
 4. **EV/Autos:** Tesla +2.8%, Hyundai +1.2%
 
 ### Cooling Sectors ❄️
+
 1. **Profit-taking:** Friday's consolidation across Korean tech
 2. **Utilities:** Defensive sectors lagging risk-on sentiment
 3. **Bonds:** 10Y yield at 4.3%+ creating headwind
 
 ### Mixed 😐
+
 1. **Financials:** Banking sector mixed globally
 2. **Energy:** Oil prices stable, sector laggard
 3. **Consumer:** Discretionary underperforming tech
@@ -298,14 +322,17 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ## Technical Analysis
 
 ### SK Hynix (000660)
+
 **Weekly Pattern:** Historic breakout → Consolidation
 
 **Key Levels:**
+
 - Monday Open: ₩949,000
 - Thursday Peak: ₩1,149,000 (+21% from Monday!)
 - Friday Close: ₩1,110,000
 
 **Technical Signals:**
+
 - ✅ Broke ₩1,000,000 resistance - historic milestone
 - ✅ +15.91% weekly gain = best performer globally
 - ✅ Volume surge confirming institutional buying
@@ -318,14 +345,17 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ---
 
 ### Samsung Electronics (005930)
+
 **Weekly Pattern:** Approach → Pullback from ₩200K
 
 **Key Levels:**
+
 - Monday Open: ₩190,100
 - Thursday Peak: ₩197,800 (just 1.1% from ₩200K!)
 - Friday Close: ₩196,000
 
 **Technical Signals:**
+
 - ✅ Approached ₩200,000 psychological level
 - ✅ Weekly gain +3.10% respectable
 - ✅ Thursday's ₩197,800 high = 2026 high
@@ -338,14 +368,17 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ---
 
 ### KOSPI
+
 **Weekly Pattern:** New all-time high → Consolidation
 
 **Key Levels:**
+
 - Monday: 5,632.85
 - Thursday Peak: 5,703.73 (ALL-TIME HIGH!)
 - Friday Close: 5,650.00
 
 **Technical Signals:**
+
 - ✅ Hit all-time high 5,703.73 Thursday
 - ✅ Weekly gain +0.31% (consolidated after +2% prior week)
 - ✅ Held above 5,600 support
@@ -358,13 +391,16 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ---
 
 ### S&P 500
+
 **Weekly Pattern:** Steady recovery
 
 **Key Levels:**
+
 - Monday: 6,909.51
 - Friday Close: 6,956.50
 
 **Technical Signals:**
+
 - ✅ Broke above 6,950 resistance
 - ✅ Weekly gain +0.68% respectable
 - ✅ Nasdaq +1.15% leading
@@ -379,13 +415,14 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 
 ### US Treasury Yields
 
-| Maturity | Week Start | Week End | Change | Trend |
-|----------|------------|----------|--------|-------|
-| **2-Year** | ~3.47% | ~3.52% | +5 bps | Rising |
-| **10-Year** | ~4.32% | ~4.35% | +3 bps | Stable elevated |
-| **30-Year** | ~4.75% | ~4.78% | +3 bps | Stable elevated |
+| Maturity    | Week Start | Week End | Change | Trend           |
+| ----------- | ---------- | -------- | ------ | --------------- |
+| **2-Year**  | ~3.47%     | ~3.52%   | +5 bps | Rising          |
+| **10-Year** | ~4.32%     | ~4.35%   | +3 bps | Stable elevated |
+| **30-Year** | ~4.75%     | ~4.78%   | +3 bps | Stable elevated |
 
 **Key Observations:**
+
 1. **10Y Stable:** Yield remained elevated around 4.3%
 2. **Curve Steepening:** Slight steepening as long-end stable
 3. **Equity Competition:** Higher yields limiting equity multiples
@@ -400,6 +437,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### What Moved Markets This Week
 
 **Positive Catalysts:**
+
 1. **SK Hynix ₩1,000,000 Breakthrough** - Historic milestone validating AI chip thesis
 2. **KOSPI All-Time High** - 5,703.73 achieved Thursday
 3. **Samsung Near ₩200,000** - Major psychological level approached
@@ -407,6 +445,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 5. **Global Semiconductor Synchronization** - Korea and US both strong
 
 **Negative/Cautionary:**
+
 1. **Friday Profit-Taking** - SK Hynix -3.46%, Samsung -0.91%
 2. **Overbought Conditions** - RSI elevated on Korean semiconductors
 3. **Month-End Rebalancing** - Friday effects
@@ -419,33 +458,40 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### Economic Calendar (Mar 2-6)
 
 **Monday, March 2:**
+
 - US: ISM Manufacturing Index
 - Korea: Trade balance data
 
 **Tuesday, March 3:**
+
 - US: JOLTS Job Openings
 - Korea: CPI inflation
 
 **Wednesday, March 4:**
+
 - US: ADP Employment, ISM Services
 - Korea: Current account
 
 **Thursday, March 5:**
+
 - US: Initial Jobless Claims
 - Fed Chair Powell speech 🔥
 
 **Friday, March 6:**
+
 - US: Nonfarm Payrolls 🔥
 - Unemployment rate
 
 ### Earnings Releases
 
 **US Notable:**
+
 - **NVIDIA (NVDA)** - Feb 28 🔥 Most important earnings of quarter
 - **Broadcom (AVGO)** - Semiconductor earnings
 - **Costco (COST)** - Retail health check
 
 **Korea:**
+
 - Samsung preliminary February sales
 - SK Hynix trading update
 
@@ -456,6 +502,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### Short-term Opportunities (1-2 weeks)
 
 **Buy Setups:**
+
 1. **SK Hynix (000660):**
    - **Entry:** Dip to ₩1,050,000-1,080,000
    - **Target:** ₩1,200,000 (8-10% upside)
@@ -475,6 +522,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
    - **Thesis:** Data center growth, AI chip dominance
 
 **Avoid/Challenge:**
+
 1. **Chasing SK Hynix after +15.9% week** - Wait for pullback
 2. **Bonds at 4.3%+ yields** - Limited upside
 3. **Over-concentration** - Take profits on semiconductor gains
@@ -484,6 +532,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### Medium-term Positioning (1-3 months)
 
 **Core Holdings:**
+
 1. **Korean Semiconductor Basket:**
    - 35% Samsung Electronics
    - 35% SK Hynix
@@ -506,6 +555,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### Risk Management Framework
 
 **Portfolio Risk Factors:**
+
 1. **Concentration Risk:** Korean semiconductor exposure high
 2. **Overbought Risk:** SK Hynix +15.9% = extended
 3. **Earnings Risk:** NVDA Feb 28 could swing market
@@ -513,6 +563,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 5. **Currency Risk:** Won volatility could resume
 
 **Mitigation Strategies:**
+
 1. **Position Sizing:** No single stock >15% of portfolio
 2. **Take Partial Profits:** Scale out of SK Hynix after +15% week
 3. **Stop Losses:** 10% stops on all positions
@@ -520,6 +571,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 5. **Cash Reserve:** Keep 15-20% for opportunities
 
 **Monitoring Triggers:**
+
 - **Reduce if:** SK Hynix breaks ₩1,000,000 support
 - **Add if:** Healthy pullback to key levels
 - **Exit if:** Won strengthens past 1,400 or 10Y yield hits 4.75%
@@ -531,6 +583,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### Global Economic Backdrop
 
 **United States:**
+
 - GDP growth moderate and steady
 - Inflation sticky but manageable
 - Labor market resilient
@@ -538,6 +591,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 - **Outlook:** Soft landing scenario ✅
 
 **South Korea:**
+
 - Semiconductor exports driving recovery
 - Tech sector leading economic strength
 - Domestic consumption improving
@@ -545,6 +599,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 - **Outlook:** Export-led growth ✅
 
 **China:**
+
 - Stimulus measures supporting demand
 - Property sector stabilization
 - Tech regulation easing
@@ -553,12 +608,14 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ### Central Bank Policy
 
 **Federal Reserve:**
+
 - Terminal rate likely reached (5.25-5.50%)
 - Rates on hold through Q2 2026 minimum
 - Data-dependent approach
 - **Market Impact:** Neutral to slight headwind 😐
 
 **Bank of Korea:**
+
 - Inflation moderating
 - Currency stability priority
 - Supportive of growth
@@ -616,6 +673,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ## Bottom Line: Week in Review
 
 ### What Worked ✅
+
 - **SK Hynix** - +15.91% to ₩1,000,000+ milestone
 - **Korean markets** - KOSPI hit all-time high 5,703.73
 - **Samsung** - Approached ₩200,000 target
@@ -623,6 +681,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 - **Global semiconductor sync** - Korea and US both strong
 
 ### What Didn't Work ❌
+
 - **Friday profit-taking** - SK Hynix -3.46%, KOSPI -0.94%
 - **Chasing highs** - Those who bought Thursday got trapped Friday
 - **Bonds** - 10Y at 4.3%+ continues pressure
@@ -641,6 +700,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 ## Final Investment Takeaways
 
 ### For Aggressive Investors 🚀
+
 - **Overweight:** Korean semiconductors (Samsung, SK Hynix)
 - **Trading:** Scale into pullbacks (SK Hynix ₩1,050K, Samsung ₩192K)
 - **Risk Tolerance:** High concentration given trend strength
@@ -648,6 +708,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 - **Action:** Take partial profits on strength, buy on dips
 
 ### For Moderate Investors ⚖️
+
 - **Balanced:** 40% US tech, 35% Korean tech, 25% defensive/cash
 - **Quality Focus:** Samsung, NVIDIA, Apple, Amazon
 - **Risk Management:** 10% stops, position sizing discipline
@@ -655,6 +716,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 - **Action:** Scale positions gradually, don't chase
 
 ### For Conservative Investors 🛡️
+
 - **Defensive:** Blue chips, dividend stocks, short-duration bonds
 - **Limited Tech:** 20-30% exposure maximum
 - **Capital Preservation:** Focus on quality and stability
@@ -668,6 +730,7 @@ Won remained remarkably stable this week (1,447.50 → 1,452.00, +0.31%):
 The week of February 23-27, 2026 will be remembered as a historic milestone week for Korean markets. SK Hynix's breakthrough to ₩1,000,000+ and the KOSPI's ascent to all-time highs (5,703.73) marked a watershed moment - transforming from the worst week of 2026 (-5.25% in early February) to record highs in just three weeks.
 
 **Three Takeaways to Remember:**
+
 1. **SK Hynix ₩1,000,000 milestone** - First time in Korean market history, validating AI chip thesis
 2. **KOSPI all-time high** - From worst week to record highs in 3 weeks = extraordinary reversal
 3. **Global semiconductor synchronization** - Korean rally spreading to US tech, validating AI demand thesis
@@ -686,13 +749,13 @@ The setup remains constructive for risk assets, particularly in the semiconducto
 
 ---
 
-*Weekly Review Compiled: Saturday, February 28, 2026 at 10:00 AM EST*  
-*Analysis Period: Monday, February 23 - Friday, February 27, 2026*  
-*Data Sources: Naver Finance, Yahoo Finance, Bloomberg, Market Data Providers*  
-*Next Weekly Review: Saturday, March 7, 2026*
+_Weekly Review Compiled: Saturday, February 28, 2026 at 10:00 AM EST_  
+_Analysis Period: Monday, February 23 - Friday, February 27, 2026_  
+_Data Sources: Naver Finance, Yahoo Finance, Bloomberg, Market Data Providers_  
+_Next Weekly Review: Saturday, March 7, 2026_
 
 **Prepared for Investment Team Distribution**  
-*For questions or detailed analysis: kabe502@gmail.com*
+_For questions or detailed analysis: kabe502@gmail.com_
 
 ---
 
@@ -700,35 +763,35 @@ The setup remains constructive for risk assets, particularly in the semiconducto
 
 ### Daily Closing Prices - Korean Stocks
 
-| Date | Samsung (KRW) | SK Hynix (KRW) | Hyundai (KRW) | KOSPI |
-|------|---------------|----------------|---------------|-------|
-| Mon 2/23 | 190,100 | 949,000 | 509,000 | 5,632.85 |
-| Tue 2/24 | 193,800 | 1,004,000 | 512,000 | 5,658.70 |
-| Wed 2/25 | 196,800 | 1,065,000 | 519,000 | 5,680.11 |
-| Thu 2/26 | 197,800 | 1,149,000 | 520,000 | 5,703.73 |
-| Fri 2/27 | 196,000 | 1,110,000 | 515,000 | 5,650.00 |
+| Date         | Samsung (KRW)       | SK Hynix (KRW)         | Hyundai (KRW)       | KOSPI               |
+| ------------ | ------------------- | ---------------------- | ------------------- | ------------------- |
+| Mon 2/23     | 190,100             | 949,000                | 509,000             | 5,632.85            |
+| Tue 2/24     | 193,800             | 1,004,000              | 512,000             | 5,658.70            |
+| Wed 2/25     | 196,800             | 1,065,000              | 519,000             | 5,680.11            |
+| Thu 2/26     | 197,800             | 1,149,000              | 520,000             | 5,703.73            |
+| Fri 2/27     | 196,000             | 1,110,000              | 515,000             | 5,650.00            |
 | **Weekly Δ** | **+5,900 (+3.10%)** | **+161,000 (+15.91%)** | **+6,000 (+1.18%)** | **+17.15 (+0.31%)** |
 
 ### Daily Closing Levels - US Indices
 
-| Date | S&P 500 | Nasdaq | Dow Jones |
-|------|---------|--------|-----------|
-| Mon 2/23 | 6,909.51 | 22,886.07 | 49,625.97 |
-| Tue 2/24 | 6,926.06 | 22,985.00 | 49,700.00 |
-| Wed 2/25 | 6,940.00 | 23,080.00 | 49,780.00 |
-| Thu 2/26 | 6,983.00 | 23,250.00 | 49,920.00 |
-| Fri 2/27 | 6,956.50 | 23,150.00 | 49,750.00 |
+| Date         | S&P 500             | Nasdaq               | Dow Jones            |
+| ------------ | ------------------- | -------------------- | -------------------- |
+| Mon 2/23     | 6,909.51            | 22,886.07            | 49,625.97            |
+| Tue 2/24     | 6,926.06            | 22,985.00            | 49,700.00            |
+| Wed 2/25     | 6,940.00            | 23,080.00            | 49,780.00            |
+| Thu 2/26     | 6,983.00            | 23,250.00            | 49,920.00            |
+| Fri 2/27     | 6,956.50            | 23,150.00            | 49,750.00            |
 | **Weekly Δ** | **+46.99 (+0.68%)** | **+263.93 (+1.15%)** | **+124.03 (+0.25%)** |
 
 ### USD/KRW Exchange Rate
 
-| Date | Rate | Daily Change |
-|------|------|--------------|
-| Mon 2/23 | 1,449.50 | - |
-| Tue 2/24 | 1,448.80 | -0.70 (stronger) |
-| Wed 2/25 | 1,450.00 | +1.20 (weaker) |
-| Thu 2/26 | 1,451.20 | +1.20 (weaker) |
-| Fri 2/27 | 1,452.00 | +0.80 (weaker) |
+| Date         | Rate               | Daily Change        |
+| ------------ | ------------------ | ------------------- |
+| Mon 2/23     | 1,449.50           | -                   |
+| Tue 2/24     | 1,448.80           | -0.70 (stronger)    |
+| Wed 2/25     | 1,450.00           | +1.20 (weaker)      |
+| Thu 2/26     | 1,451.20           | +1.20 (weaker)      |
+| Fri 2/27     | 1,452.00           | +0.80 (weaker)      |
 | **Weekly Δ** | **+2.50 (+0.17%)** | **Slightly weaker** |
 
 ---

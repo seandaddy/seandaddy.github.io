@@ -1,12 +1,11 @@
 ---
 publishDate: 2026-03-03T12:00:00Z
-title: "Daily Market Report - March 03, 2026"
-excerpt: "Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks."
-category: "Market Analysis"
-tags: ["stocks", "korean-market", "us-market", "magnificent-7", "daily-report", "investing"]
-author: "Sangyong"
+title: 'Daily Market Report - March 03, 2026'
+excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'daily-report', 'investing']
+author: 'Sangyong'
 ---
-
 
 **Report Generated:** March 3, 2026, 8:00 AM EST  
 **Prepared by:** OpenClaw Market Intelligence
@@ -22,6 +21,7 @@ US markets experienced a significant selloff on Tuesday, March 3, 2026, with all
 ### Today at a Glance
 
 **Daily Performance:**
+
 - 🇺🇸 **S&P 500:** -0.94%
 - 🇺🇸 **Dow Jones:** -0.83%
 - 🇺🇸 **Nasdaq:** -1.02%
@@ -29,6 +29,7 @@ US markets experienced a significant selloff on Tuesday, March 3, 2026, with all
 - 🇰🇷 **KOSDAQ:** -4.62%
 
 **Key Themes:**
+
 1. **Broad Market Selloff** - All indices down significantly
 2. **Tesla Leads Decline** - TSLA -2.7% worst Mag 7 performer
 3. **Korean Markets Reopen** - Sharp drop after holiday
@@ -40,21 +41,22 @@ US markets experienced a significant selloff on Tuesday, March 3, 2026, with all
 
 ### US Magnificent 7
 
-| Stock | Symbol | Price | Change | % Change | Status |
-|-------|--------|-------|--------|----------|--------|
-| **Apple** | AAPL | $264.72 | -$0.97 | **-0.37%** | 🔴 |
-| **Microsoft** | MSFT | $398.55 | +$5.38 | **+1.35%** | 🟢 |
-| **Alphabet** | GOOGL | $306.52 | -$2.94 | **-0.96%** | 🔴 |
-| **Amazon** | AMZN | $208.39 | +$0.34 | **+0.16%** | 🟢 |
-| **NVIDIA** | NVDA | $182.48 | -$2.43 | **-1.33%** | 🔴 |
-| **Meta** | META | $653.56 | +$1.52 | **+0.23%** | 🟢 |
-| **Tesla** | TSLA | $403.32 | -$10.89 | **-2.7%** | 🔴📉 |
+| Stock         | Symbol | Price   | Change  | % Change   | Status |
+| ------------- | ------ | ------- | ------- | ---------- | ------ |
+| **Apple**     | AAPL   | $264.72 | -$0.97  | **-0.37%** | 🔴     |
+| **Microsoft** | MSFT   | $398.55 | +$5.38  | **+1.35%** | 🟢     |
+| **Alphabet**  | GOOGL  | $306.52 | -$2.94  | **-0.96%** | 🔴     |
+| **Amazon**    | AMZN   | $208.39 | +$0.34  | **+0.16%** | 🟢     |
+| **NVIDIA**    | NVDA   | $182.48 | -$2.43  | **-1.33%** | 🔴     |
+| **Meta**      | META   | $653.56 | +$1.52  | **+0.23%** | 🟢     |
+| **Tesla**     | TSLA   | $403.32 | -$10.89 | **-2.7%**  | 🔴📉   |
 
 **Daily Analysis:**
 
 The Magnificent 7 showed mixed results with 3 stocks advancing and 4 declining. Microsoft led gains with +1.35%, while Tesla suffered the worst decline at -2.7%. The broader market selloff impacted most tech names, though some defensive tech names like MSFT held up better.
 
 **Daily Highlights:**
+
 - **MSFT +1.35%** - Best performer amid selloff
 - **AMZN +0.16%** - Minimal gain in risk-off environment
 - **TSLA -2.7%** - Worst Mag 7 performer
@@ -66,18 +68,18 @@ The Magnificent 7 showed mixed results with 3 stocks advancing and 4 declining. 
 
 ### US Indices
 
-| Index | Close | Change | % Change | Trend |
-|-------|-------|--------|----------|-------|
-| **S&P 500** | 6,816 | -64.99 | **-0.94%** | 🔴 Down |
+| Index         | Close  | Change  | % Change   | Trend   |
+| ------------- | ------ | ------- | ---------- | ------- |
+| **S&P 500**   | 6,816  | -64.99  | **-0.94%** | 🔴 Down |
 | **Dow Jones** | 48,501 | -403.51 | **-0.83%** | 🔴 Down |
-| **Nasdaq** | 22,516 | -232.17 | **-1.02%** | 🔴 Down |
+| **Nasdaq**    | 22,516 | -232.17 | **-1.02%** | 🔴 Down |
 
 ### Korean Indices
 
-| Index | Close | Change | % Change | Trend |
-|-------|-------|--------|----------|-------|
-| **KOSPI** | 5,791.91 | -452.22 | **-7.24%** | 🔴 Sharp Down |
-| **KOSDAQ** | 1,137.70 | -55.08 | **-4.62%** | 🔴 Down |
+| Index      | Close    | Change  | % Change   | Trend         |
+| ---------- | -------- | ------- | ---------- | ------------- |
+| **KOSPI**  | 5,791.91 | -452.22 | **-7.24%** | 🔴 Sharp Down |
+| **KOSDAQ** | 1,137.70 | -55.08  | **-4.62%** | 🔴 Down       |
 
 **Analysis:**
 
@@ -90,6 +92,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### Currency Markets
 
 **USD/KRW:**
+
 - **Rate:** ₩1,480
 - **Change:** +₩41.62
 - **% Change:** **-2.89%** (KRW Weakness)
@@ -98,18 +101,18 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 
 ### US Bond Yields
 
-| Security | Yield | Change | Trend |
-|----------|-------|--------|-------|
+| Security         | Yield | Change | Trend |
+| ---------------- | ----- | ------ | ----- |
 | **10Y Treasury** | 4.05% | +8 bps | 🟡 Up |
 | **30Y Treasury** | 4.70% | +6 bps | 🟡 Up |
 
 ### Korean Stocks
 
-| Stock | Symbol | Price | Change | % Change | Trend |
-|-------|--------|-------|--------|----------|-------|
-| **Samsung** | 005930 | ₩216,500 | -₩21,400 | **-9.88%** | 🔴 |
-| **SK Hynix** | 000660 | ₩1,061,000 | -₩122,000 | **-11.5%** | 🔴 |
-| **Hyundai** | 005380 | ₩674,000 | -₩79,000 | **-11.72%** | 🔴 |
+| Stock        | Symbol | Price      | Change    | % Change    | Trend |
+| ------------ | ------ | ---------- | --------- | ----------- | ----- |
+| **Samsung**  | 005930 | ₩216,500   | -₩21,400  | **-9.88%**  | 🔴    |
+| **SK Hynix** | 000660 | ₩1,061,000 | -₩122,000 | **-11.5%**  | 🔴    |
+| **Hyundai**  | 005380 | ₩674,000   | -₩79,000  | **-11.72%** | 🔴    |
 
 ---
 
@@ -118,6 +121,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### Tuesday, March 3: Sharp Decline
 
 **Market Action:**
+
 - 🇺🇸 Nasdaq -1.02%, S&P -0.94%, Dow -0.83%
 - 🇺🇸 TSLA -2.7%, NVDA -1.33%, MSFT +1.35%
 - 🇰🇷 KOSPI -7.24%, KOSDAQ -4.62%
@@ -134,6 +138,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 **The Move:** All three US indices down ~1%
 
 **Why It Matters:**
+
 - Tech leading decline despite relatively resilient earnings
 - Risk-off sentiment increasing ahead of Friday's NFP
 - Rotation from growth to defensive continues
@@ -147,6 +152,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 **The Move:** KOSPI -7.24% on first day after holiday
 
 **Why It Matters:**
+
 - Sharpest single-day drop in recent memory
 - Holiday gap filled dramatically lower
 - Won weakness (-2.89%) compounds equity decline
@@ -158,6 +164,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### Theme 3: Mag 7 Divergence
 
 **The Divergence:**
+
 - MSFT: +1.35% (defensive tech)
 - AMZN: +0.16% (mixed)
 - META: +0.23% (mixed)
@@ -165,6 +172,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 - NVDA: -1.33% (semiconductor weakness)
 
 **Why This Matters:**
+
 - Quality names holding up better
 - High-growth/high-valuation names under pressure
 - Market rewarding stability over momentum
@@ -174,21 +182,25 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ## ⚠️ RISK FACTORS
 
 ### 1. Korean Market Volatility
+
 - Sharp -7.24% drop creates uncertainty
 - Won weakness may continue
 - Foreign investor outflows likely
 
 ### 2. Tech Valuation Pressure
+
 - Mag 7 P/E still elevated despite today decline
 - NVDA reports March 18 - critical for AI sentiment
 - Rate environment remains challenging
 
 ### 3. Friday's Non-Farm Payrolls
+
 - Key economic data could increase volatility
 - Strong jobs = more Fed hawkishness
 - Bond yields already rising
 
 ### 4. Geopolitical Tensions
+
 - US-China trade restrictions ongoing
 - Korea export exposure to China
 
@@ -197,9 +209,11 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ## ✅ OPPORTUNITIES
 
 ### 1. Korean Market Rebound Play
+
 **Thesis:** Post-holiday overreaction could reverse
 
 **Strategy:**
+
 - Wait for stabilization signal
 - Target Samsung near ₩210,000
 - Consider small position on further weakness
@@ -207,9 +221,11 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ---
 
 ### 2. Microsoft Quality Hold
+
 **Thesis:** +1.35% today shows institutional confidence
 
 **Strategy:**
+
 - Maintain core position
 - Add on any weakness to $390-395
 - Long-term hold for AI/cloud exposure
@@ -217,9 +233,11 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ---
 
 ### 3. Treasury Yield Opportunity
+
 **Thesis:** 10Y at 4.05% attractive for income investors
 
 **Strategy:**
+
 - Consider bond allocation
 - Yield competitive with equity risk
 - Lock in before potential Fed action
@@ -231,6 +249,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### Economic Calendar
 
 **Key Data Releases:**
+
 - **Tuesday, March 3:** ISM Manufacturing PMI
 - **Wednesday, March 4:** ADP Employment, Fed Beige Book
 - **Thursday, March 5:** Jobless Claims, Factory Orders
@@ -241,11 +260,13 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### Technical Levels to Watch
 
 **US Markets:**
+
 - **S&P 500:** Support 6,750 | Resistance 6,880
 - **Nasdaq:** Support 22,300 | Resistance 22,700
 - **Dow:** Support 48,200 | Resistance 48,800
 
 **Korean Markets:**
+
 - **KOSPI:** Support 5,700 | Resistance 5,900
 - **KOSDAQ:** Support 1,100 | Resistance 1,150
 
@@ -256,6 +277,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### For Conservative Investors
 
 **Positioning:**
+
 1. **Reduce Korean exposure** - wait for stabilization
 2. **Hold quality US tech** - MSFT, AMZN showed resilience
 3. **Consider bonds** - 10Y at 4.05% attractive
@@ -266,6 +288,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### For Growth Investors
 
 **Positioning:**
+
 1. **Avoid new Korean positions** - wait for clarity
 2. **Add on US weakness** - dollar-cost average approach
 3. **Watch NVDA March 18 earnings** - key AI sentiment
@@ -276,6 +299,7 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 ### For Korean Market Investors
 
 **Positioning:**
+
 1. **Wait for stabilization** - sharp drop may continue
 2. **Currency risk** - won weakness concerning
 3. **Semiconductor leaders** - Samsung, SK Hynix attractive long-term but could see more near-term weakness
@@ -290,19 +314,19 @@ Both US and Korean markets experienced significant selloffs. The US saw broad-ba
 **The Good:**
 ✅ MSFT +1.35% shows quality can outperform  
 ✅ US markets relatively orderly decline (not panic)  
-✅ Some resilience in defensive tech names  
+✅ Some resilience in defensive tech names
 
 **The Bad:**
 ⚠️ KOSPI -7.24% is significant drop  
 ⚠️ TSLA -2.7% worst Mag 7 performer  
 ⚠️ Won weakness -2.89% adds pressure  
-⚠️ Broad tech weakness continues  
+⚠️ Broad tech weakness continues
 
 **The Opportunity:**
 💡 Possible overreaction in Korean markets - watch for reversal  
 💡 Quality US tech holding up - consider adding MSFT, AMZN  
 💡 Treasury yields attractive for income investors  
-💡 Wait for Friday NFP before major positioning  
+💡 Wait for Friday NFP before major positioning
 
 ---
 
@@ -322,5 +346,5 @@ Email: seandaddy@gmail.com
 
 ---
 
-*Report prepared by OpenClaw Market Intelligence*  
-*Empowering investors with data-driven insights*
+_Report prepared by OpenClaw Market Intelligence_  
+_Empowering investors with data-driven insights_

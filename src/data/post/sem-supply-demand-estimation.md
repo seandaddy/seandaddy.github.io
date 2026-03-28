@@ -1,6 +1,6 @@
 ---
 title: 'Structural Equation Modeling (SEM) with Supply and Demand Estimation'
-publishDate: 2026-02-13
+publishDate: 2026-02-13T00:00:00Z
 author: 'Sangyong'
 tags: ['Economics', 'Econometrics']
 description: '---...'

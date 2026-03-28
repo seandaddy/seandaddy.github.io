@@ -1,13 +1,13 @@
 ---
 publishDate: 2026-03-19T12:00:00Z
-title: "Daily Market Report - March 19, 2026"
-excerpt: "Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks."
-category: "Market Analysis"
-tags: ["stocks", "korean-market", "us-market", "magnificent-7", "daily-report", "investing"]
-author: "Sangyong"
+title: 'Daily Market Report - March 19, 2026'
+excerpt: 'Comprehensive analysis of Korean and US markets, including Samsung, SK Hynix, Hyundai Motor, and the Magnificent 7 tech stocks.'
+category: 'Market Analysis'
+tags: ['stocks', 'korean-market', 'us-market', 'magnificent-7', 'daily-report', 'investing']
+author: 'Sangyong'
 ---
 
-이론경제학에서 가장 흥미로운 결과 중 하나는 *그로스만-스티글리츠 역설*(Grossman-Stiglitz Paradox)이다.
+이론경제학에서 가장 흥미로운 결과 중 하나는 _그로스만-스티글리츠 역설_(Grossman-Stiglitz Paradox)이다.
 
 효율적 시장 가설(Efficient Market Hypothesis, EMH)에 대해 들어본 적 있는가? 금융시장 가격이 이미 기초자산의 가치에 관한 모든 이용 가능한 정보를 반영하고 있다는 개념이다. 그런데 1980년, Sanford Grossman과 Joseph Stiglitz는 왜 EMH가 완전히 옳을 수 없는지를 증명했다. 그 논리는 매우 단순하다: 정보를 찾는 데는 노력이 필요하다. 만약 주식, 채권, 부동산의 실제 가치에 대한 정보를 찾아내더라도 그것을 거래에 활용해 수익을 얻을 수 없다면, 누가 굳이 그 수고를 감수하겠는가? 그리고 아무도 그 노력을 기울이지 않는다면, 그 정보는 애초에 어떻게 가격에 반영될 수 있겠는가? Grossman과 Stiglitz는 금융시장이 적어도 어느 정도는 비효율적일 수밖에 없다고 결론지었다.
 

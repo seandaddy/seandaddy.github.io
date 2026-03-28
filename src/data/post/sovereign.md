@@ -1,10 +1,10 @@
 ---
 publishDate: 2026-03-12T12:00:00Z
-title: "Sovereign AI as Industrial Policy: South Korea’s Strategy in the Global AI Race"
-excerpt: ""
-category: "AI and Future of AI"
-tags: ["AI", "korea", "Sovereign AI"]
-author: "Sangyong"
+title: 'Sovereign AI as Industrial Policy: South Korea’s Strategy in the Global AI Race'
+excerpt: ''
+category: 'AI and Future of AI'
+tags: ['AI', 'korea', 'Sovereign AI']
+author: 'Sangyong'
 ---
 
 Artificial intelligence is increasingly treated by governments as **strategic economic infrastructure**, comparable to electricity, semiconductors, or telecommunications networks. The emergence of large-scale AI systems has intensified concerns about **technological dependence on foreign digital platforms**, leading many countries to pursue what is often called **“sovereign AI.”**
@@ -25,7 +25,7 @@ This policy shift reflects several macroeconomic pressures:
 - demographic decline (rapid population aging)
 - dependence on exports in manufacturing sectors
 
-To address these challenges, the government is deploying **expansionary fiscal policy targeting AI-driven industrial transformation**. ([Reuters](https://www.reuters.com/world/asia-pacific/south-korea-makes-ai-investment-top-policy-priority-support-flagging-growth-2025-08-22/?utm_source=chatgpt.com "South Korea makes AI investment a top policy priority to support flagging growth"))
+To address these challenges, the government is deploying **expansionary fiscal policy targeting AI-driven industrial transformation**. ([Reuters](https://www.reuters.com/world/asia-pacific/south-korea-makes-ai-investment-top-policy-priority-support-flagging-growth-2025-08-22/?utm_source=chatgpt.com 'South Korea makes AI investment a top policy priority to support flagging growth'))
 
 In the language of economic policy, this resembles a **mission-oriented industrial policy**, where governments coordinate investments across multiple sectors to accelerate technological development.
 
@@ -35,9 +35,9 @@ In the language of economic policy, this resembles a **mission-oriented industri
 
 South Korea’s AI strategy is notable for the **scale of fiscal commitment**.
 
-The 2026 national budget proposes **10.1 trillion won ($7.27 billion) in AI spending**, more than triple the previous year’s level. ([The Korea Times](https://www.koreatimes.co.kr/amp/economy/20250829/korea-to-more-than-triple-ai-budget-to-727-bil-in-2026?utm_source=chatgpt.com "Korea to more than triple AI budget to $7.27 bil. in 2026 - The Korea Times"))
+The 2026 national budget proposes **10.1 trillion won ($7.27 billion) in AI spending**, more than triple the previous year’s level. ([The Korea Times](https://www.koreatimes.co.kr/amp/economy/20250829/korea-to-more-than-triple-ai-budget-to-727-bil-in-2026?utm_source=chatgpt.com 'Korea to more than triple AI budget to $7.27 bil. in 2026 - The Korea Times'))
 
-This investment is part of a broader expansion in R&D spending, with the national research budget rising to **35.3 trillion won ($25 billion)**. ([Korea Joongang Daily](https://koreajoongangdaily.joins.com/news/2025-08-29/national/politics/Korean-government-allocates-101-trillion-won-for-artificial-intelligence-in-budget/2387310?utm_source=chatgpt.com "Government allocates 10.1 trillion won for AI in budget"))
+This investment is part of a broader expansion in R&D spending, with the national research budget rising to **35.3 trillion won ($25 billion)**. ([Korea Joongang Daily](https://koreajoongangdaily.joins.com/news/2025-08-29/national/politics/Korean-government-allocates-101-trillion-won-for-artificial-intelligence-in-budget/2387310?utm_source=chatgpt.com 'Government allocates 10.1 trillion won for AI in budget'))
 
 ### Figure 1
 
@@ -74,7 +74,7 @@ South Korea plans to rapidly expand AI computing capacity through government pro
 Key initiatives include:
 
 - securing **15,000 additional high-performance GPUs**
-- expanding the national pool to **around 35,000 GPUs** ([아시아경제](https://cm.asiae.co.kr/en/article/2025082905465746203?utm_source=chatgpt.com "[Lee Administration's First Budget] Record-High 10.1 Trillion Won for AI, 35.3 Trillion Won for R&D... Focused Investment in \"Ultra-Innovative Economy\" - 아시아경제"))
+- expanding the national pool to **around 35,000 GPUs** ([아시아경제](https://cm.asiae.co.kr/en/article/2025082905465746203?utm_source=chatgpt.com ([Lee Administration's First Budget] Record-High 10.1 Trillion Won for AI, 35.3 Trillion Won for R&D... Focused Investment in "Ultra-Innovative Economy" - 아시아경제)))
 - building national AI computing centers
 - developing AI data infrastructure platforms
 
@@ -113,7 +113,7 @@ Government plans include **6 trillion won investment over five years** to deploy
 - automotive manufacturing
 - shipbuilding
 - electronics
-- smart factories ([아시아경제](https://cm.asiae.co.kr/en/article/2025082905465746203?utm_source=chatgpt.com "[Lee Administration's First Budget] Record-High 10.1 Trillion Won for AI, 35.3 Trillion Won for R&D... Focused Investment in \"Ultra-Innovative Economy\" - 아시아경제"))
+- smart factories ([아시아경제](https://cm.asiae.co.kr/en/article/2025082905465746203?utm_source=chatgpt.com ([Lee Administration's First Budget] Record-High 10.1 Trillion Won for AI, 35.3 Trillion Won for R&D... Focused Investment in "Ultra-Innovative Economy" - 아시아경제)))
 
 ### Figure 3
 
@@ -142,7 +142,7 @@ Another key pillar of sovereign AI policy is the development of **domestic found
 
 South Korea aims to avoid dependence on foreign AI platforms by supporting domestic large language models (LLMs).
 
-One example is **K-EXAONE**, developed by LG AI Research, a multilingual model with **236 billion parameters**. ([arXiv](https://arxiv.org/abs/2601.01739?utm_source=chatgpt.com "K-EXAONE Technical Report"))
+One example is **K-EXAONE**, developed by LG AI Research, a multilingual model with **236 billion parameters**. ([arXiv](https://arxiv.org/abs/2601.01739?utm_source=chatgpt.com 'K-EXAONE Technical Report'))
 
 Domestic models are important for several reasons:
 
@@ -188,13 +188,13 @@ South Korea’s sovereign AI strategy combines multiple policy instruments.
 
 ### Table: Key Industrial Policy Tools
 
-|Policy Instrument|Description|
-|---|---|
-|Public investment|Large-scale government AI funding|
-|Infrastructure policy|National AI computing centers|
-|Talent policy|Expansion of AI graduate programs|
-|Industrial transformation|AI adoption across manufacturing|
-|Platform development|Domestic foundation models|
+| Policy Instrument         | Description                       |
+| ------------------------- | --------------------------------- |
+| Public investment         | Large-scale government AI funding |
+| Infrastructure policy     | National AI computing centers     |
+| Talent policy             | Expansion of AI graduate programs |
+| Industrial transformation | AI adoption across manufacturing  |
+| Platform development      | Domestic foundation models        |
 
 This policy mix resembles the **developmental state model** historically used by East Asian economies, but applied to digital technology.
 

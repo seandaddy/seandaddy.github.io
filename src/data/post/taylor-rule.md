@@ -1,6 +1,6 @@
 ---
 title: 'Taylor Rule'
-publishDate: 2026-02-13
+publishDate: 2026-02-13T00:00:00Z
 author: 'Sangyong'
 tags: ['Economics', 'Monetary Policy']
 description: 'The [Taylor rule](https://www.investopedia.com/terms/t/taylorsrule.asp) is a formula introduced by economist [John Taylor in 1993](https://web.stanfor...'
