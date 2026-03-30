@@ -30,8 +30,8 @@ US markets declined on Monday, 2026-03-30, with the Nasdaq leading at -0.39%. Me
 
 **Key Themes:**
 1. **US Market Decline** - Moderate pullback
-3. **Won Weakens** - KRW +0.53%
-4. **Treasury Yields** - 10Y at 4.42%
+3. **Won Weakens** - KRW +0.61%
+4. **Treasury Yields** - 10Y at 4.44%
 
 ---
 
@@ -61,9 +61,9 @@ The Magnificent 7 showed mixed results with 4 stocks declining. META led with +2
 
 | Index | Close | Change | % Change | Trend |
 |-------|-------|--------|----------|-------|
-| **S&P 500** | 6,343 | -25.09 | **-0.39%** | 🔴 |
+| **S&P 500** | 6,343 | -25.13 | **-0.39%** | 🔴 |
 | **Nasdaq** | 20,794 | -153.72 | **-0.73%** | 🔴 |
-| **Dow Jones** | 45,216 | +49.68 | **+0.11%** | 🟢 |
+| **Dow Jones** | 45,216 | +49.5 | **+0.11%** | 🟢 |
 
 ### Korean Indices
 
@@ -74,7 +74,7 @@ The Magnificent 7 showed mixed results with 4 stocks declining. META led with +2
 
 **Analysis:**
 
-US markets experienced a decline with the Nasdaq leading at -0.73%. Korean markets pulled back with KOSPI down -2.97%.
+US markets experienced a decline with the Nasdaq leading at -0.73%. 
 
 ---
 
@@ -83,9 +83,9 @@ US markets experienced a decline with the Nasdaq leading at -0.73%. Korean marke
 ### Currency Markets
 
 **USD/KRW:**
-- **Rate:** ₩1,516
-- **Change:** +₩7.92
-- **% Change:** +0.53% (KRW Weakness)
+- **Rate:** ₩1,517
+- **Change:** +₩9.21
+- **% Change:** +0.61% (KRW Weakness)
 
 **Analysis:** The Korean won weakened against the US dollar, a typical reaction to market volatility.
 
@@ -93,18 +93,18 @@ US markets experienced a decline with the Nasdaq leading at -0.73%. Korean marke
 
 | Security | Yield | Change | Trend |
 |----------|-------|--------|-------|
-| **10Y Treasury** | 4.42% | -- | 🔼 |
-| **30Y Treasury** | 4.93% | -- | 🔼 |
+| **10Y Treasury** | 4.44% | -- | 🔼 |
+| **30Y Treasury** | 4.98% | -- | 🔼 |
 
 ### Korean Stocks
 
 | Stock | Symbol | Price | Change | % Change | Trend |
 |-------|--------|-------|--------|----------|-------|
-| **Samsung** | 005930 | ₩176,300 | +3400.0 | **+1.97%** | 🟢 |
-| **SK Hynix** | 000660 | ₩873,000 | +49000.0 | **+5.95%** | 🟢 |
-| **Hyundai** | 005380 | ₩469,500 | +25500.0 | **+5.74%** | 🟢 |
+| **Samsung** | 005930 | ₩176,300 | -3000.0 | **-1.67%** | 🔴 |
+| **SK Hynix** | 000660 | ₩873,000 | -38000.0 | **-4.17%** | 🔴 |
+| **Hyundai** | 005380 | ₩469,500 | -20500.0 | **-4.18%** | 🔴 |
 
-**Analysis:** All Korean stocks advanced, showing broad-based strength in the market.
+**Analysis:** All Korean stocks declined, reflecting continued market caution.
 
 ---
 
@@ -116,26 +116,15 @@ US markets experienced a decline with the Nasdaq leading at -0.73%. Korean marke
 - 🇺🇸 Nasdaq -0.73%, S&P -0.39%, Dow +0.11%
 - 🇺🇸 META +2.03%
 - 🇰🇷 KOSPI -2.97%, KOSDAQ -3.02%
-- 💱 KRW +0.53% (strength)
+- 💱 KRW +0.61% (strength)
 
 ---
 
 ## 🔍 DAILY THEMES & ANALYSIS
 
-### Theme 2: Korean Market Movement
-
-**The Move:** KOSPI -2.97%, KOSDAQ -3.02%
-
-**Why It Matters:**
-- Significant movement in Korean markets
-- Recovery or consolidation phase
-- Foreign investor flow key indicator
-
-**Implication:** Watch for stabilization confirmation.
-
 ### Theme 3: Currency Movement
 
-**The Move:** KRW +0.53%
+**The Move:** KRW +0.61%
 
 **Why This Matters:**
 - Won weakening significantly
@@ -144,9 +133,9 @@ US markets experienced a decline with the Nasdaq leading at -0.73%. Korean marke
 
 ---
 
-### Theme 3: Treasury Yields
+### Theme 2: Treasury Yields
 
-**The Move:** 10Y at 4.42%
+**The Move:** 10Y at 4.44%
 
 **Why This Matters:**
 - Yields remain elevated
@@ -275,13 +264,13 @@ US markets experienced a decline with the Nasdaq leading at -0.73%. Korean marke
 ### What Today Told Us
 
 **The Good:**
-✅ KRW +0.53% shows confidence
+✅ KRW +0.61% shows confidence
 ✅ US markets only down -0.39%, not catastrophic
 ✅ MSFT +0.61% relatively resilient
 
 **The Bad:**
-⚠️ Treasury yields rising (4.42%)
-⚠️ KOSPI -2.97% down
+⚠️ KOSPI -2.97%, KOSDAQ -3.02% down
+⚠️ Treasury yields rising (4.44%)
 
 **The Opportunity:**
 💡 US tech dip buying - healthy correction
