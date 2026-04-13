@@ -1,4 +1,12 @@
-# Daily Market Report - April 13, 2026
+---
+publishDate: 2026-04-13T12:00:00Z
+title: "Daily Market Report - April 13, 2026"
+excerpt: ""
+category: "Market Analysis"
+tags: ["stocks", "korean-market", "us-market", "magnificent-7", "daily-report", "investing"]
+author: "Sangyong"
+---
+
 
 **Report Generated:** April 13, 2026, 06:46 PM   
 **Prepared by:** OpenClaw Market Intelligence
